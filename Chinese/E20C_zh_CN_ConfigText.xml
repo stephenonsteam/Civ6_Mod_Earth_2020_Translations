@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_zh_CN_ConfigText -->
+<!-- Author: Stephen -->
+<!-- DateCreated: 7/8/2017 -->
+<GameData>
+	<LocalizedText>
+		<!-- Leader Names -->
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_TRUMP_NAME">
+			<Text>唐纳德·特朗普</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_XI_NAME">
+			<Text>习近平</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_PUTIN_NAME">
+			<Text>弗拉基米尔普京</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MODI_NAME">
+			<Text>纳伦德拉·莫迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_ABE_NAME">
+			<Text>安倍晋三</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MERKEL_NAME">
+			<Text>安吉拉·默克尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MAY_NAME">
+			<Text>特蕾莎·梅</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MACRON_NAME">
+			<Text>伊曼纽尔·马克龙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_TEMER_NAME">
+			<Text>米歇尔·泰默</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_SALMAN_NAME">
+			<Text>阿卜杜勒阿齐兹·阿尔·萨德之间的萨尔曼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_SISI_NAME">
+			<Text>阿卜杜勒·法塔赫·西西</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_TRUDEAU_NAME">
+			<Text>贾斯汀·特鲁多</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_TURNBULL_NAME">
+			<Text>马尔科姆·特恩布尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_PENA_NIETO_NAME">
+			<Text>恩里克·佩尼亚·涅托</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_WIDODO_NAME">
+			<Text>乔科·维多多</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_ERDOGAN_NAME">
+			<Text>雷杰普·塔伊普·埃尔多安</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MACRI_NAME">
+			<Text>毛里西奥·马克里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_ROUHANI_NAME">
+			<Text>哈桑·鲁哈尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_ABBASI_NAME">
+			<Text>沙希德·哈根·阿巴斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_ZUMA_NAME">
+			<Text>雅各布·祖玛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_BUHARI_NAME">
+			<Text>穆罕默德·布哈里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MOON_NAME">
+			<Text>文在寅</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_KIM_NAME">
+			<Text>金正恩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_NETANYAHU_NAME">
+			<Text>本杰明·内塔尼亚胡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENTILONI_NAME">
+			<Text>保罗·吉蒂罗尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_AMLO_NAME">
+			<Text>安德烈斯·曼努埃尔·洛佩斯·奥布拉多</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_BOLSONARO_NAME">
+			<Text>贾尔·博尔索纳罗</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_FERNANDEZ_NAME">
+			<Text>阿尔贝托·费尔南德斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_JOHNSON_NAME">
+			<Text>鲍里斯·约翰逊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_CONTE_NAME">
+			<Text>朱塞佩·孔戴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_RAMAPHOSA_NAME">
+			<Text>西里尔·拉莫福萨</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_KHAN_NAME">
+			<Text>伊姆兰·汗</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_MORRISON_NAME">
+			<Text>斯科特·莫里森</Text>
+		</Row>
+		<!-- Leader Traits -->
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TRUMP_NAME">
+			<Text>美国制造</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TRUMP_DESCRIPTION">
+			<Text>在您自己城市之间的贸易路线上获得+2 [ICON_Gold] 金币，+ 1 [ICON_Food] 食物和+1 [ICON_Production] 生产。 工厂获得+2 [ICON_Production] 的生产量。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_XI_NAME">
+			<Text>中国梦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_XI_DESCRIPTION">
+			<Text>花费建筑商的费用来完成原始区域成本的15％。 建筑商将收取额外费用。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_PUTIN_NAME">
+			<Text>联合俄罗斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_PUTIN_DESCRIPTION">
+			<Text>攻击城邦时，+ 7 [ICON_Strength]战斗力量。 建立间谍的速度快两倍。 具备通过阶级斗争公民打造额外间谍的能力。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MODI_NAME">
+			<Text>改革与统治</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MODI_DESCRIPTION">
+			<Text>额外的经济政策位。 下水道提供额外的+2 [ICON_Housing]住房。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ABE_NAME">
+			<Text>走向美丽的国家</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ABE_DESCRIPTION">
+			<Text>当前政府中的一个军事政策时段会转换为通配符政策时段。 在一半的时间内建立商业区，园区区和工业区。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MERKEL_NAME">
+			<Text>为工会工作</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MERKEL_DESCRIPTION">
+			<Text>政治哲学公民的额外外交政策空缺。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MAY_NAME">
+			<Text>强而稳定</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MAY_DESCRIPTION">
+			<Text>所有间谍都从诱惑升级（更好的反间谍）开始。 您到其他文明的[ICON_TradeRoute]贸易路线向英格兰提供+4 [ICON_Gold]黄金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MACRON_NAME">
+			<Text>前进！</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MACRON_DESCRIPTION">
+			<Text>证券交易所获得+2 [ICON_Gold]金，研究实验室获得+2 [ICON_Science]科学，电厂获得+2 [ICON_Production]生产</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TEMER_NAME">
+			<Text>财政奖励</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TEMER_DESCRIPTION">
+			<Text>+1 [ICON_Gold]雨林获得的金子。 油井和海上石油钻井平台的产量为+2 [ICON_Gold]金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SALMAN_NAME">
+			<Text>油砂王国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SALMAN_DESCRIPTION">
+			<Text>每个改进的资源每转累积3额外的油。 油井和海上石油钻井平台的产量为+2 [ICON_Gold]金。 绿洲瓷砖产生+3 [ICON_Gold]金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SISI_NAME">
+			<Text>军事治理</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SISI_DESCRIPTION">
+			<Text>+1 [ICON_Production]为营房，马able，军械库和军事学院制作。 军事工程师有四项附加费用。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TRUDEAU_NAME">
+			<Text>现在真正的改变</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TRUDEAU_DESCRIPTION">
+			<Text>进入新时代，您将获得两个随机灵感。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TURNBULL_NAME">
+			<Text>全球合作伙伴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_TURNBULL_DESCRIPTION">
+			<Text>您到其他文明的[ICON_TradeRoute]贸易路线向澳大利亚提供+4 [ICON_Gold]黄金。 资源矿提供+2 [ICON_Gold]金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_PENA_NIETO_NAME">
+			<Text>经济特区</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_PENA_NIETO_DESCRIPTION">
+			<Text>在一半的时间内建立商业区，港口区和工业区。 油井和海上石油钻井平台的产量为+2 [ICON_Gold]金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_WIDODO_NAME">
+			<Text>海事准则</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_WIDODO_DESCRIPTION">
+			<Text>渔船+2 [ICON_Gold]金。 海军单位的双重经验。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ERDOGAN_NAME">
+			<Text>权力集中</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ERDOGAN_DESCRIPTION">
+			<Text>对于您超越古代时代的每个时代，您的首都都会获得+2 [ICON_Gold]黄金，+ 2 [ICON_Production]生产，+ 2 [ICON_Science]科学和+2 [ICON_Faith]信仰。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MACRI_NAME">
+			<Text>新方向</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MACRI_DESCRIPTION">
+			<Text>额外的经济政策位。 您到其他文明的[ICON_TradeRoute]贸易路线向阿根廷提供+2 [ICON_Gold]黄金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ROUHANI_NAME">
+			<Text>什叶派新月</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ROUHANI_DESCRIPTION">
+			<Text>+ 5％[ICON_Faith]每个您是宗主国的城市的信仰。 每个派遣到伊朗多数宗教城市的特使都算作两个特使。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ABBASI_NAME">
+			<Text>力量之影</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ABBASI_DESCRIPTION">
+			<Text>发电厂提供+1 [ICON_Production]生产。 您到其他文明的[ICON_TradeRoute]贸易路线向巴基斯坦提供+2 [ICON_Gold]黄金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ZUMA_NAME">
+			<Text>持久的</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ZUMA_DESCRIPTION">
+			<Text>遭受正常战争疲劳的一半。 您的文明曾经获得的每位伟人可获得+ 2％[ICON_Gold]金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_BUHARI_NAME">
+			<Text>军事遗产</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_BUHARI_DESCRIPTION">
+			<Text>在被占领的城市中不影响收益率。 付通常费用的一半来征收城市州单位。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MOON_NAME">
+			<Text>和平使者</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MOON_DESCRIPTION">
+			<Text>当您的文明处于和平状态时，城市将获得+ 10％的[ICON_Culture]文化。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KIM_NAME">
+			<Text>松贡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KIM_DESCRIPTION">
+			<Text>城市不会招致战争厌倦。 宣告突击战争后前10回合+2移动。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_NETANYAHU_NAME">
+			<Text>特种部队</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_NETANYAHU_DESCRIPTION">
+			<Text>进攻行动的间谍等级提高1。 间谍操作所需的时间减少了25％。 Spec Ops单位获得经验的速度是以前的两倍。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENTILONI_NAME">
+			<Text>职业部长</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_GENTILONI_DESCRIPTION">
+			<Text>当前政府的一个军事和一个经济政策位置被转换为通配符政策位置。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_AMLO_NAME">
+			<Text>民族复兴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_AMLO_DESCRIPTION">
+			<Text>所有城市获得+2 [ICON_Amenities]便利设施，但获得-4 [ICON_Gold]金。 您自己城市之间的[ICON_TradeRoute]贸易路线获得+4 [ICON_Gold]金。 在一半的时间内建立校园区。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_BOLSONARO_NAME">
+			<Text>巴西高于一切</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_BOLSONARO_DESCRIPTION">
+			<Text>额外获得一个军事政策位置。 地块收成和特征删除的产量提高了50％。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_FERNANDEZ_NAME">
+			<Text>国内发展</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_FERNANDEZ_DESCRIPTION">
+			<Text>拥有总督的城市每次总督所获得的促销活动，将获得+ 5％[ICON_Gold]黄金和+ 5％[ICON_Production]生产。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_JOHNSON_NAME">
+			<Text>完成它</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_JOHNSON_DESCRIPTION">
+			<Text>与盟友交易可获得+ 100％联盟积分。 对这位领导者的抱怨以正常速度的两倍衰减。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_CONTE_NAME">
+			<Text>人民律师</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_CONTE_DESCRIPTION">
+			<Text>所有城市每回合都会获得+2忠诚度。 + 50％[ICON_Production]向政府区域和建筑物生产。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_RAMAPHOSA_NAME">
+			<Text>新的曙光</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_RAMAPHOSA_DESCRIPTION">
+			<Text>所有城市的产量增加+2 [ICON_Production]，但获得-4 [ICON_Gold]金。 建立农场会触发文化炸弹，夺取周围的地砖。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KHAN_NAME">
+			<Text>尊重与改革</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_KHAN_DESCRIPTION">
+			<Text>圣地提供+2 [ICON_Amenities]便利设施。 当前政府的一个军事和一个经济政策位置已转换为通配符政策位置。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MORRISON_NAME">
+			<Text>足智多谋</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_MORRISON_DESCRIPTION">
+			<Text>煤矿每转会积累2个资源。 铁，铝和铀矿每转又积累了1种资源。 您到其他文明的贸易路线提供+2 [ICON_Gold]黄金。</Text>
+		</Row>
+		<!-- Civilizations -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_COMMONWEALTH_AUSTRALIA_NAME">
+			<Text>澳大利亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_COMMONWEALTH_AUSTRALIA_DESCRIPTION">
+			<Text>澳大利亚联邦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_COMMONWEALTH_AUSTRALIA_ADJECTIVE">
+			<Text>澳洲人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_MEXICO_NAME">
+			<Text>墨西哥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_MEXICO_DESCRIPTION">
+			<Text>墨西哥合众国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_MEXICO_ADJECTIVE">
+			<Text>墨西哥菜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_REPUBLIC_INDONESIA_NAME">
+			<Text>印度尼西亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_REPUBLIC_INDONESIA_DESCRIPTION">
+			<Text>印尼共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_REPUBLIC_INDONESIA_ADJECTIVE">
+			<Text>印度尼西亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_TURKEY_NAME">
+			<Text>火鸡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_TURKEY_DESCRIPTION">
+			<Text>土耳其共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_TURKEY_ADJECTIVE">
+			<Text>土耳其</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ARGENTINA_NAME">
+			<Text>阿根廷</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ARGENTINA_DESCRIPTION">
+			<Text>阿根廷共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ARGENTINA_ADJECTIVE">
+			<Text>阿根廷</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_IRAN_NAME">
+			<Text>伊朗</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_IRAN_DESCRIPTION">
+			<Text>伊朗伊斯兰共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_IRAN_ADJECTIVE">
+			<Text>伊朗人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_PAKISTAN_NAME">
+			<Text>巴基斯坦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_PAKISTAN_DESCRIPTION">
+			<Text>巴基斯坦伊斯兰共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_PAKISTAN_ADJECTIVE">
+			<Text>巴基斯坦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SOUTH_AFRICA_NAME">
+			<Text>南非</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SOUTH_AFRICA_DESCRIPTION">
+			<Text>南非共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SOUTH_AFRICA_ADJECTIVE">
+			<Text>南非的</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_NIGERIA_NAME">
+			<Text>奈及利亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_NIGERIA_DESCRIPTION">
+			<Text>尼日利亚联邦共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_NIGERIA_ADJECTIVE">
+			<Text>尼日利亚文</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SOUTH_KOREA_NAME">
+			<Text>南韩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SOUTH_KOREA_DESCRIPTION">
+			<Text>大韩民国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_SOUTH_KOREA_ADJECTIVE">
+			<Text>韩国菜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_NORTH_KOREA_NAME">
+			<Text>北朝鲜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_NORTH_KOREA_DESCRIPTION">
+			<Text>朝鲜民主主义人民共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_NORTH_KOREA_ADJECTIVE">
+			<Text>朝鲜语</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ISRAEL_NAME">
+			<Text>以色列</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ISRAEL_DESCRIPTION">
+			<Text>以色列国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ISRAEL_ADJECTIVE">
+			<Text>以色列</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ITALY_NAME">
+			<Text>意大利</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ITALY_DESCRIPTION">
+			<Text>意大利共和国</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVILIZATION_ITALY_ADJECTIVE">
+			<Text>义大利文</Text>
+		</Row>
+		<!-- Civilization Traits -->
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_COMMONWEALTH_AUSTRALIA_NAME">
+			<Text>降落在下面</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_COMMONWEALTH_AUSTRALIA_DESCRIPTION">
+			<Text>+3 [ICON_Housing]沿海城市的房屋。 校园，商业中心，圣地和剧院广场的收益是具有吸引力的砖块的+1，令人叹为观止的砖块的收益是+3。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_MEXICO_NAME">
+			<Text>远景和有远见的人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_MEXICO_DESCRIPTION">
+			<Text>海滨度假村的旅游业增长了一倍。 +1 [ICON_Culture]来自文物，手工艺品和伟大作品的文化。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_REPUBLIC_INDONESIA_NAME">
+			<Text>群岛国家</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_REPUBLIC_INDONESIA_DESCRIPTION">
+			<Text>沿海地砖提供+1 [ICON_Food]食物。 五分之一的时间建立海港区。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_TURKEY_NAME">
+			<Text>阿塔图尔克的遗产</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_TURKEY_DESCRIPTION">
+			<Text>友好领土内的单位可获得+5战斗加成。 +1 [ICON_Amenities]单位驻军城市的设施。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_ARGENTINA_NAME">
+			<Text>南方的粮仓</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_ARGENTINA_DESCRIPTION">
+			<Text>如果通过农场，牧场或人工林进行改良，则额外资源会提供+4 [ICON_Food]食物。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_IRAN_NAME">
+			<Text>阿亚图拉王朝</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_IRAN_DESCRIPTION">
+			<Text>圣地产生+4 [ICON_Faith]信仰。 可以使用[ICON_Faith] Faith购买圣地和校园区建筑物。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_PAKISTAN_NAME">
+			<Text>信念，团结，纪律</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_PAKISTAN_DESCRIPTION">
+			<Text>奖励[ICON_Faith]信仰相当于每杀死一个敌方单位的力量的50％。 所有单位在山丘中的移动速度更快。 近战，远程和反骑兵类部队在山丘上有+5 [ICON_Strength]战斗力。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_AFRICA_NAME">
+			<Text>多元统一</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_AFRICA_DESCRIPTION">
+			<Text>城市每建造2个专业区可获得+1 [ICON_Housing]住房，每建造3个专业区可获得+1 [ICON_Amenities]便利。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_NIGERIA_NAME">
+			<Text>非洲巨人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_NIGERIA_DESCRIPTION">
+			<Text>通往其他文明的贸易路线提供+4 [ICON_Food]食物。 商业中心区产生+2 [ICON_Gold]金。 油井和海上石油钻井平台的产量为+2 [ICON_Gold]金。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_KOREA_NAME">
+			<Text>老虎经济</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_KOREA_DESCRIPTION">
+			<Text>您的园区区分别提供+1 [ICON_TradeRoute]条贸易路线容量。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_NORTH_KOREA_NAME">
+			<Text>光荣人民军</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_NORTH_KOREA_DESCRIPTION">
+			<Text>每次训练近战部队时，您都将获得第二个近战部队。 友好领土以外的所有单位将受到-5战斗力惩罚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_ISRAEL_NAME">
+			<Text>锡安战士</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_ISRAEL_DESCRIPTION">
+			<Text>友好领土内的单位可获得+5战斗加成。 近战和远程部队从战斗中获得+ 50％的经验。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_ITALY_NAME">
+			<Text>古代遗产</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_CIVILIZATION_ITALY_DESCRIPTION">
+			<Text>奇迹提供了额外的+2 [ICON_Culture]文化。 神奇旅游翻了一番。</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_HOCKEY_STADIUM_NAME">
+			<Text>曲棍球场</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_HOCKEY_STADIUM_DESCRIPTION">
+			<Text>加拿大独有的建筑。 提供普通体育场馆设施的两倍。 奖金延伸到每个城市中心6块内。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_FLYING_DOCTOR_NAME">
+			<Text>皇家飞行医生</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_FLYING_DOCTOR_DESCRIPTION">
+			<Text>澳大利亚独有的建筑。 除了可以代替机库的常规福利外，还提供+1 [ICON_Amenities]便利设施和+2 [ICON_Housing]住房。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_FABRICA_NAME">
+			<Text>法布里卡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_FABRICA_DESCRIPTION">
+			<Text>墨西哥独有的建筑。 其[ICON_Production]生产奖金将扩展到6个砖块内的所有市中心，而这些建筑物尚未从该建筑物类型中获得奖金。 正常工厂的一半维护和一半建设成本。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_PINISI_SHIPYARD_NAME">
+			<Text>皮尼西造船厂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_PINISI_SHIPYARD_DESCRIPTION">
+			<Text>印尼独有的建筑。 除了取代船厂的常规收益外，还提供+1 [ICON_TradeRoute]贸易路线通行能力。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_OKUL_NAME">
+			<Text>学校</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_OKUL_DESCRIPTION">
+			<Text>土耳其独有的建筑。 +1 [ICON_Science]科学以及图书馆所取代的常规利益。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_REVOLUTIONARY_GUARDS_BARRACKS_NAME">
+			<Text>革命卫队兵营</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_REVOLUTIONARY_GUARDS_BARRACKS_DESCRIPTION">
+			<Text>伊朗独有的建筑。 提供两倍于被取代的兵营的经验值和出色的一般点数。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_TEXTILE_FACTORY_NAME">
+			<Text>纺织厂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_TEXTILE_FACTORY_DESCRIPTION">
+			<Text>巴基斯坦独有的建筑。 其[ICON_Production]生产奖金将扩展到6个砖块内的所有市中心，而这些建筑物尚未从该建筑物类型中获得奖金。 +1 [ICON_Production]生产该城市所使用的每种绵羊，棉花和丝绸资源的产量。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_HITECH_CORPORATION_NAME">
+			<Text>高科技公司</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_HITECH_CORPORATION_DESCRIPTION">
+			<Text>韩国独有的建筑。 提供两倍于其替换的联交所的大商户积分。 在研究了电力技术之后，提供了另外的+5 [ICON_Science]科学。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_PROPAGANDA_BROADCASTER_NAME">
+			<Text>宣传广播员</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_PROPAGANDA_BROADCASTER_DESCRIPTION">
+			<Text>朝鲜独有的建筑物。 每回合提供+4忠诚度，但比取代的广播中心少一些文化。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_LUXURY_FACTORY_NAME">
+			<Text>豪华工厂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_BUILDING_LUXURY_FACTORY_DESCRIPTION">
+			<Text>意大利独有的建筑。 其[ICON_Production]生产奖金将扩展到6个砖块内的所有市中心，而这些建筑物尚未从该建筑物类型中获得奖金。 +2 [ICON_Gold]金币，用于建造该城市的每个豪华资源。 将普通工厂的优秀工程师分数加倍。</Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ESTANCIA_NAME">
+			<Text>埃斯坦西亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_ESTANCIA_DESCRIPTION">
+			<Text>释放建造者建造阿根廷独有的Estancia的能力。[NEWLINE] [NEWLINE] +1 [ICON_Food]食物和+1 [ICON_Housing]住房。 +4 [ICON_Gold]金，如果与牧场相邻。 无法与其他Estancia相邻或在沙漠，苔原或雪地上建造。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_DEEP_MINE_NAME">
+			<Text>深矿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_DEEP_MINE_DESCRIPTION">
+			<Text>释放建造者建造南非独有的深矿的能力。[NEWLINE] [NEWLINE] +4 [ICON_Production]生产和+4 [ICON_Gold]金。 只能在煤，银，钻石和铀上建造。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_NATURE_RESERVE_NAME">
+			<Text>自然保护区</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_NATURE_RESERVE_DESCRIPTION">
+			<Text>释放建造者建造南非独有的自然保护区的能力。[NEWLINE] [NEWLINE] +1 [ICON_Gold]黄金和+1 [ICON_Culture]文化。 其他+1 [ICON_Culture]文化，如果与雨林，河流，营地或牧场相邻（累积奖励）。 只能在草原和平原上建造。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_KIBBUTZ_NAME">
+			<Text>基布兹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_IMPROVEMENT_KIBBUTZ_DESCRIPTION">
+			<Text>释放建造者建造以色列独有的集体庄园的能力。[NEWLINE] [NEWLINE] +2 [ICON_Food]食物，+ 1 [ICON_Production]生产和+1 [ICON_Housing]住房。 通过保护公民获得额外的+1 [ICON_Food]食物，通过阶级斗争公民获得+1 [ICON_Production]生产。 无法与其他集体庄园相邻或在沙漠，苔原或雪地上建造。</Text>
+		</Row>
+		<!-- Districts -->
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_LOCAL_GOVERNMENT_AREA_NAME">
+			<Text>地方政府区域</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_LOCAL_GOVERNMENT_AREA_DESCRIPTION">
+			<Text>尼日利亚独有的地区。 取代邻里地区。[NEWLINE]根据砖块的吸引力提供住房：[NEWLINE]惊险：+8 [ICON_Housing]住房。[NEWLINE]迷人：+7 [ICON_Housing]住房。[NEWLINE]平均：+6 [ ICON_Housing]住房。[NEWLINE]不邀请：+5 [ICON_Housing]住房。[NEWLINE]令人反感：+4 [ICON_Housing]住房。</Text>
+		</Row>
+		<!-- Units -->
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_LEOPARD2_NAME">
+			<Text>豹2</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_LEOPARD2_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 比现代装甲更坚固。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_M1ABRAMS_NAME">
+			<Text>M1艾布拉姆斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_M1ABRAMS_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 比现代装甲更强壮，并且具有防御城市攻击的额外防御能力。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_T90_NAME">
+			<Text>T-90</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_T90_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 具有比现代装甲更高的移动性，并且制造成本更低。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TYPE99_NAME">
+			<Text>99型</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TYPE99_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 具有比现代装甲更高的移动性。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TYPE90_JAPAN_NAME">
+			<Text>90型</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TYPE90_JAPAN_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 在希尔斯战斗时有加值。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_CHALLENGER2_NAME">
+			<Text>挑战者2</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_CHALLENGER2_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 比现代装甲更坚固。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_LECLERC_NAME">
+			<Text>勒克莱尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_LECLERC_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 比现代装甲更坚固。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TAM_NAME">
+			<Text>TAM</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TAM_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 建造和维护便宜。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KARRAR_NAME">
+			<Text>卡拉尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KARRAR_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 具有比现代装甲更高的移动性。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_K2_BLACK_PANTHER_NAME">
+			<Text>K2黑豹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_K2_BLACK_PANTHER_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 比现代装甲更坚固。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_MERKAVA_NAME">
+			<Text>梅卡瓦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_MERKAVA_DESCRIPTION">
+			<Text>取代现代装甲的独特单位。 比现代装甲兵更强大，对反骑兵部队有额外的防御能力</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_MIL_MI_24_NAME">
+			<Text>Mil Mi-24</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_MIL_MI_24_DESCRIPTION">
+			<Text>取代直升机的独特装置。 对装甲部队有攻击加成，并且在步兵部队旁边时具有邻接奖励。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AH_64_APACHE_NAME">
+			<Text>AH-64阿帕奇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AH_64_APACHE_DESCRIPTION">
+			<Text>取代直升机的独特装置。 比直升机强，对装甲单位有攻击加成。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_Z_10_NAME">
+			<Text>Z-10</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_Z_10_DESCRIPTION">
+			<Text>取代直升机的独特装置。 比直升机强一点，射程更大，对装甲单位有攻击加成。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TIGER_NAME">
+			<Text>虎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TIGER_DESCRIPTION">
+			<Text>取代直升机的独特装置。 比直升机更强壮，射程更大，对装甲单位具有攻击加成。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ROOIVALK_NAME">
+			<Text>罗瓦瓦尔克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ROOIVALK_DESCRIPTION">
+			<Text>取代直升机的独特装置。 具有比直升机更大的射程，并且对装甲单位具有攻击加成。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_A129_MANGUSTA_NAME">
+			<Text>A129曼古斯塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_A129_MANGUSTA_DESCRIPTION">
+			<Text>取代直升机的独特装置。 对装甲单位有攻击加成。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_F35_LIGHTNING_II_NAME">
+			<Text>F-35闪电II</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_F35_LIGHTNING_II_DESCRIPTION">
+			<Text>取代喷气战斗机的独特装置。 比喷气式战斗机更强，并且具有隐身功能，可以额外提高+10 [ICON_Strength]战斗力，以对抗战斗机和防空单位。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_CHENGDU_J20_NAME">
+			<Text>成都J-20</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_CHENGDU_J20_DESCRIPTION">
+			<Text>取代喷气战斗机的独特装置。 比“喷气式战斗机”更强大，射程更广，并且具有“隐形”功能，可以使其对战斗机和防空单位的战斗力提高+10 [ICON_Strength]。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SUKHOI_SU35_NAME">
+			<Text>苏霍伊Su-35</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SUKHOI_SU35_DESCRIPTION">
+			<Text>取代喷气战斗机的独特装置。 比“喷气式战斗机”更强大，射程更大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_EUROFIGHTER_TYPHOON_NAME">
+			<Text>台风</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_EUROFIGHTER_TYPHOON_DESCRIPTION">
+			<Text>取代喷气战斗机的独特装置。 比喷气战斗机更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DASSAULT_RAFALE_NAME">
+			<Text>阵风</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DASSAULT_RAFALE_DESCRIPTION">
+			<Text>取代喷气战斗机的独特装置。 比喷气战斗机更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_B2_SPIRIT_NAME">
+			<Text>B-2精神</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_B2_SPIRIT_DESCRIPTION">
+			<Text>具有隐身能力的独特轰炸机部队，在对抗战斗机和防空部队时可以额外增加+20 [ICON_Strength]战斗力。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_B52_STRATOFORTRESS_NAME">
+			<Text>B-52同温层堡垒</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_B52_STRATOFORTRESS_DESCRIPTION">
+			<Text>取代喷气轰炸机的独特装置。 比喷气轰炸机更坚固，射程更大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_XIAN_H6_NAME">
+			<Text>西安H-6</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_XIAN_H6_DESCRIPTION">
+			<Text>取代喷气轰炸机的独特装置。 比喷气轰炸机更坚固。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TUPOLEV_TU95_NAME">
+			<Text>图波列夫Tu-95</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TUPOLEV_TU95_DESCRIPTION">
+			<Text>取代喷气轰炸机的独特装置。 比喷气轰炸机更坚固，射程更大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ARLEIGH_BURKE_CLASS_NAME">
+			<Text>阿利·伯克课程</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ARLEIGH_BURKE_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TYPE_055_CLASS_NAME">
+			<Text>055型</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_TYPE_055_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KIROV_CLASS_NAME">
+			<Text>基洛夫课</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KIROV_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KOLKATA_CLASS_NAME">
+			<Text>加尔各答课程</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KOLKATA_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ATAGO_CLASS_NAME">
+			<Text>爱宕号级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ATAGO_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DARING_CLASS_NAME">
+			<Text>大胆的阶级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DARING_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_HORIZON_CLASS_NAME">
+			<Text>地平线班</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_HORIZON_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SEJONG_CLASS_NAME">
+			<Text>世宗课</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SEJONG_CLASS_DESCRIPTION">
+			<Text>取代导弹巡洋舰的独特部队。 比导弹巡洋舰更强大。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_VIRGINIA_CLASS_NAME">
+			<Text>弗吉尼亚级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_VIRGINIA_CLASS_DESCRIPTION">
+			<Text>取代核潜艇的独特单位。 比核潜艇更强。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANG_CLASS_NAME">
+			<Text>尚课</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANG_CLASS_DESCRIPTION">
+			<Text>取代核潜艇的独特单位。 比核潜艇更强。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AKULA_CLASS_NAME">
+			<Text>阿库拉级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AKULA_CLASS_DESCRIPTION">
+			<Text>取代核潜艇的独特单位。 比核潜艇更强。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ARIHANT_CLASS_NAME">
+			<Text>特级班</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ARIHANT_CLASS_DESCRIPTION">
+			<Text>取代核潜艇的独特单位。 比核潜艇更强。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ASTUTE_CLASS_NAME">
+			<Text>机敏类</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ASTUTE_CLASS_DESCRIPTION">
+			<Text>取代核潜艇的独特单位。 比核潜艇更强。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AMETHYSTE_CLASS_NAME">
+			<Text>紫水晶类</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AMETHYSTE_CLASS_DESCRIPTION">
+			<Text>取代核潜艇的独特单位。 比核潜艇更强。</Text>
+		</Row>
+		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+			<Text>可以运输空中单位的原子时代近战海军部队。[NEWLINE] [NEWLINE]在文明交战时，在海上携带飞机时会慢慢学习被动XP的技术。</Text>
+		</Replace>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_FORD_CARRIER_NAME">
+			<Text>福特级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_FORD_CARRIER_DESCRIPTION">
+			<Text>取代航空母舰的独特单位。 比航空母舰更结实，移动性更强。 可以携带4架战斗机，而不是通常的2架。使用铀代替石油作为燃料。[NEWLINE] [NEWLINE]在文明交战的海上携带飞机时，能够获得缓慢的被动XP流。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANDONG_CARRIER_NAME">
+			<Text>山东班</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANDONG_CARRIER_DESCRIPTION">
+			<Text>取代航空母舰的独特单位。 比航空母舰更强壮。[NEWLINE] [NEWLINE]在文明交战中，海上携带飞机时，被动式XP的速度缓慢。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KUZNETSOV_CARRIER_NAME">
+			<Text>库兹涅佐夫级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KUZNETSOV_CARRIER_DESCRIPTION">
+			<Text>取代航空母舰的独特单位。 比航空母舰更强壮。[NEWLINE] [NEWLINE]在文明交战中，海上携带飞机时，被动式XP的速度缓慢。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ELIZABETH_CARRIER_NAME">
+			<Text>伊丽莎白女王班</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ELIZABETH_CARRIER_DESCRIPTION">
+			<Text>取代航空母舰的独特单位。 比航空母舰更强壮。[NEWLINE] [NEWLINE]在文明交战中，海上携带飞机时，被动式XP的速度缓慢。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DEGAULLE_CARRIER_NAME">
+			<Text>戴高乐大学</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DEGAULLE_CARRIER_DESCRIPTION">
+			<Text>取代航空母舰的独特单位。 比航空母舰更结实，移动性更强。 使用铀代替石油作为燃料。[NEWLINE] [NEWLINE]在文明交战时，在海上运载飞机时，可以慢慢获得被动XP的点滴效果。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DNC1_NAME">
+			<Text>DNC-1</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DNC1_DESCRIPTION">
+			<Text>取代机械化步兵的独特部队。 建造和维护便宜。</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
