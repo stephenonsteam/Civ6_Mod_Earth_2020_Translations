@@ -1,0 +1,1581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_Text_Citizens -->
+<!-- Author: Stephen -->
+<GameData>
+	<LocalizedText>
+		<!-- Citizen Names -->
+		<!-- Australia -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_1">
+			<Text>Anatjari</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_2">
+			<Text>Colebee</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_3">
+			<Text>Djalu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_4">
+			<Text>Gurumarra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_5">
+			<Text>Jarli</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_6">
+			<Text>Mandawuy</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_7">
+			<Text>Toba</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_8">
+			<Text>Yarran</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_9">
+			<Text>Warrin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_10">
+			<Text>Waku</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_1">
+			<Text>Bindi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_2">
+			<Text>Kalinda</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_3">
+			<Text>Kirra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_4">
+			<Text>Ellin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_5">
+			<Text>Jedda</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_6">
+			<Text>Lenah</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_7">
+			<Text>Marindah</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_8">
+			<Text>Parara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_9">
+			<Text>Tatali</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_10">
+			<Text>Wintjiya</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_1">
+			<Text>James</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_2">
+			<Text>Luke</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_3">
+			<Text>Jackson</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_4">
+			<Text>Cody</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_5">
+			<Text>Mitch</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_6">
+			<Text>Blake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_7">
+			<Text>Hugo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_8">
+			<Text>Brenden</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_9">
+			<Text>Jordan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_10">
+			<Text>Michael</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_1">
+			<Text>Nicole</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_2">
+			<Text>Olivia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_3">
+			<Text>Zoe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_4">
+			<Text>Holly</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_5">
+			<Text>Paige</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_6">
+			<Text>Kathleen</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_7">
+			<Text>Louisa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_8">
+			<Text>Michele</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_9">
+			<Text>Elizabeth</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_10">
+			<Text>Alicia</Text>
+		</Row>
+		<!-- Mexico -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_1">
+			<Text>Agustín</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_2">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_3">
+			<Text>Vicente</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_4">
+			<Text>Anastasio</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_5">
+			<Text>Melchor</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_6">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_7">
+			<Text>Valentín</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_8">
+			<Text>Antonio</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_9">
+			<Text>Miguel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MALE_10">
+			<Text>José</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_1">
+			<Text>Ana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_2">
+			<Text>María</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_3">
+			<Text>Joaquina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_4">
+			<Text>Isabel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_5">
+			<Text>Inés</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_6">
+			<Text>Manuela</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_7">
+			<Text>Refugio</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_8">
+			<Text>Josefa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_9">
+			<Text>Guadalupe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_FEMALE_10">
+			<Text>Margarita</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_1">
+			<Text>José Luis</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_2">
+			<Text>Juan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_3">
+			<Text>Miguel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_4">
+			<Text>José</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_5">
+			<Text>Francisco</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_6">
+			<Text>Jesús</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_7">
+			<Text>Antonio</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_8">
+			<Text>Alejandro</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_9">
+			<Text>Pedro</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_10">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_1">
+			<Text>María</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_2">
+			<Text>Juana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_3">
+			<Text>Margarita</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_4">
+			<Text>Verónica</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_5">
+			<Text>Elizabeth</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_6">
+			<Text>Alejandra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_7">
+			<Text>Leticia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_8">
+			<Text>Gabriela</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_9">
+			<Text>Patricia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_10">
+			<Text>Josefina</Text>
+		</Row>
+		<!-- Indonesia -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_1">
+			<Text>Guruh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_2">
+			<Text>Taufan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_3">
+			<Text>Bayu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_4">
+			<Text>Bambang</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_5">
+			<Text>Hutomo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_6">
+			<Text>Iham</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_7">
+			<Text>Thareq</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_8">
+			<Text>Surindro</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_9">
+			<Text>Hassan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_10">
+			<Text>Susilo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_1">
+			<Text>Megawati</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_2">
+			<Text>Rachmawati</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_3">
+			<Text>Sukmawati</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_4">
+			<Text>Siti</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_5">
+			<Text>Hasri</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_6">
+			<Text>Sinta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_7">
+			<Text>Zannuba</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_8">
+			<Text>Inayah</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_9">
+			<Text>Kristiani</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_10">
+			<Text>Almira</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_1">
+			<Text>Bima</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_2">
+			<Text>Bulana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_3">
+			<Text>Eka</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_4">
+			<Text>Harta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_5">
+			<Text>Mego</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_6">
+			<Text>Rimba</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_7">
+			<Text>Selatan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_8">
+			<Text>Soleh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_9">
+			<Text>Taman</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_10">
+			<Text>Yuda</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_1">
+			<Text>Bethari</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_2">
+			<Text>Buana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_3">
+			<Text>Citra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_4">
+			<Text>Diah</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_5">
+			<Text>Gemi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_6">
+			<Text>Indah</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_7">
+			<Text>Kirana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_8">
+			<Text>Netra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_9">
+			<Text>Setia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_10">
+			<Text>Utari</Text>
+		</Row>
+		<!-- Turkey -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_1">
+			<Text>Mustafa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_2">
+			<Text>İsmet</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_3">
+			<Text>Celâl</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_4">
+			<Text>Cemal</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_5">
+			<Text>Cevdet</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_6">
+			<Text>Fahri</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_7">
+			<Text>Kenan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_8">
+			<Text>Turgut</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_9">
+			<Text>Süleyman</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MALE_10">
+			<Text>Ahmet</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_1">
+			<Text>Latife</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_2">
+			<Text>Mevhibe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_3">
+			<Text>Reşide</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_4">
+			<Text>Melahat</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_5">
+			<Text>Atıfet</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_6">
+			<Text>Emel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_7">
+			<Text>Sekine</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_8">
+			<Text>Ayhan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_9">
+			<Text>Nazmiye</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_FEMALE_10">
+			<Text>Semra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_1">
+			<Text>Yusuf</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_2">
+			<Text>Berat</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_3">
+			<Text>Mustafa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_4">
+			<Text>Ömer</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_5">
+			<Text>Ahmet</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_6">
+			<Text>Eymen</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_7">
+			<Text>Muhammed</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_8">
+			<Text>Miraç</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_9">
+			<Text>Mehmet</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_10">
+			<Text>Emir</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_1">
+			<Text>Zeynep</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_2">
+			<Text>Elif</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_3">
+			<Text>Hiranur</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_4">
+			<Text>Yağmur</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_5">
+			<Text>Ecrin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_6">
+			<Text>Zehra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_7">
+			<Text>Azra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_8">
+			<Text>Miray</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_9">
+			<Text>Nehir</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_10">
+			<Text>Eylül</Text>
+		</Row>
+		<!-- Argentina -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_1">
+			<Text>Juan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_2">
+			<Text>José</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_3">
+			<Text>Bartolomé</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_4">
+			<Text>Domingo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_5">
+			<Text>Nicolás</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_6">
+			<Text>Julio</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_7">
+			<Text>Miguel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_8">
+			<Text>Luis</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_9">
+			<Text>Manuel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MALE_10">
+			<Text>Roque</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_1">
+			<Text>Encarnación</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_2">
+			<Text>Segunda</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_3">
+			<Text>Delfina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_4">
+			<Text>Benita</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_5">
+			<Text>Carmen</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_6">
+			<Text>Clara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_7">
+			<Text>Elisa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_8">
+			<Text>Cipriana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_9">
+			<Text>Susana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_10">
+			<Text>Rosa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_1">
+			<Text>Thiago</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_2">
+			<Text>Santiago</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_3">
+			<Text>Benjamin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_4">
+			<Text>Lautaro</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_5">
+			<Text>Joaquín</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_6">
+			<Text>Valentino</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_7">
+			<Text>Matías</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_8">
+			<Text>Bautista</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_9">
+			<Text>Mateo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_10">
+			<Text>Santino</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_1">
+			<Text>Sofía</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_2">
+			<Text>Mía</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_3">
+			<Text>Valentina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_4">
+			<Text>Martina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_5">
+			<Text>Camila</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_6">
+			<Text>Morena</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_7">
+			<Text>Catalina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_8">
+			<Text>Julieta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_9">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_10">
+			<Text>Delfina</Text>
+		</Row>
+		<!-- Iran -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_1">
+			<Text>Mohammad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_2">
+			<Text>Hassan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_3">
+			<Text>Mehdi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_4">
+			<Text>Mahmoud</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_5">
+			<Text>Ahmad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_6">
+			<Text>Ali</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_7">
+			<Text>Morteza</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_8">
+			<Text>Ebrahim</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_9">
+			<Text>Mohsen</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MALE_10">
+			<Text>Reza</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_1">
+			<Text>Esmat</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_2">
+			<Text>Naireolmolk</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_3">
+			<Text>Malakeh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_4">
+			<Text>Soghra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_5">
+			<Text>Anvar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_6">
+			<Text>Zahra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_7">
+			<Text>Khadija</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_8">
+			<Text>Mansura</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_9">
+			<Text>Zia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_FEMALE_10">
+			<Text>Motamen</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_1">
+			<Text>Ali</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_2">
+			<Text>Amir</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_3">
+			<Text>Babak</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_4">
+			<Text>Ebrahim</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_5">
+			<Text>Farhad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_6">
+			<Text>Hamid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_7">
+			<Text>Mohammad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_8">
+			<Text>Reza</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_9">
+			<Text>Sassan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_10">
+			<Text>Zand</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_1">
+			<Text>Amaya</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_2">
+			<Text>Azar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_3">
+			<Text>Jaleh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_4">
+			<Text>Laleh</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_5">
+			<Text>Maryam</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_6">
+			<Text>Nasrin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_7">
+			<Text>Rayhan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_8">
+			<Text>Sara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_9">
+			<Text>Tara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_10">
+			<Text>Yasmin</Text>
+		</Row>
+		<!-- Pakistan -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_1">
+			<Text>Muhammad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_2">
+			<Text>Syed</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_3">
+			<Text>Hussain</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_4">
+			<Text>Mahomedali</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_5">
+			<Text>Abul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_6">
+			<Text>Chaudhry</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_7">
+			<Text>Ali</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_8">
+			<Text>Shaukat</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_9">
+			<Text>Jalaluddin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MALE_10">
+			<Text>Tariq</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_1">
+			<Text>Karim</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_2">
+			<Text>Emibai</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_3">
+			<Text>Rattanbai</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_4">
+			<Text>Shahzadi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_5">
+			<Text>Jannatunissa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_6">
+			<Text>Fatima</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_7">
+			<Text>Abida</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_8">
+			<Text>Shamim</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_9">
+			<Text>Jahanara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_10">
+			<Text>Talmain</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_1">
+			<Text>Abbas</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_2">
+			<Text>Babar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_3">
+			<Text>Faisal</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_4">
+			<Text>Ghulam</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_5">
+			<Text>Ibrahim</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_6">
+			<Text>Ismail</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_7">
+			<Text>Jalal</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_8">
+			<Text>Mahmoud</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_9">
+			<Text>Omer</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_10">
+			<Text>Rashid</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_1">
+			<Text>Aisha</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_2">
+			<Text>Bahar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_3">
+			<Text>Fatima</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_4">
+			<Text>Gul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_5">
+			<Text>Iman</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_6">
+			<Text>Laila</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_7">
+			<Text>Mina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_8">
+			<Text>Nasreen</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_9">
+			<Text>Sara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_10">
+			<Text>Yasmin</Text>
+		</Row>
+		<!-- South Africa -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_1">
+			<Text>Charles</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_2">
+			<Text>Ebenhaezer</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_3">
+			<Text>Jozua</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_4">
+			<Text>Jacobus</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_5">
+			<Text>Johannes</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_6">
+			<Text>Nicolaas</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_7">
+			<Text>Marais</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_8">
+			<Text>Balthazar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_9">
+			<Text>Pieter</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_10">
+			<Text>Frederik</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_1">
+			<Text>Cornelia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_2">
+			<Text>Johanna</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_3">
+			<Text>Alida</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_4">
+			<Text>Letta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_5">
+			<Text>Hendrina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_6">
+			<Text>Marga</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_7">
+			<Text>Dorothea</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_8">
+			<Text>Tini</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_9">
+			<Text>Eliza</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_10">
+			<Text>Marike</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_1">
+			<Text>Junior</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_2">
+			<Text>Bandile</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_3">
+			<Text>Kungawo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_4">
+			<Text>Siyabonga</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_5">
+			<Text>Lethabo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_6">
+			<Text>Khayone</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_7">
+			<Text>Mpho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_8">
+			<Text>Bokamoso</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_9">
+			<Text>Kamogelo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_10">
+			<Text>Thato</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_1">
+			<Text>Iminathi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_2">
+			<Text>Minenhle</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_3">
+			<Text>Rethabile</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_4">
+			<Text>Bokamoso</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_5">
+			<Text>Karabou</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_6">
+			<Text>Amogelang</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_7">
+			<Text>Tshegofatso</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_8">
+			<Text>Lesedi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_9">
+			<Text>Amahle</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_10">
+			<Text>Thandolwethu</Text>
+		</Row>
+		<!-- Nigeria -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_1">
+			<Text>Nnamdi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_2">
+			<Text>Yakubu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_3">
+			<Text>Olusegun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_4">
+			<Text>Usman</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_5">
+			<Text>Ibrahim</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_6">
+			<Text>Ernest</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_7">
+			<Text>Sani</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_8">
+			<Text>Abdulsalami</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_9">
+			<Text>Umaru</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MALE_10">
+			<Text>Goodluck</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_1">
+			<Text>Uche</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_2">
+			<Text>Victoria</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_3">
+			<Text>Esther</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_4">
+			<Text>Mojisola</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_5">
+			<Text>Maryam</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_6">
+			<Text>Margaret</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_7">
+			<Text>Fati</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_8">
+			<Text>Lynda</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_9">
+			<Text>Turai</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_FEMALE_10">
+			<Text>Patience</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_1">
+			<Text>Abaeze</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_2">
+			<Text>Adewole</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_3">
+			<Text>Dada</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_4">
+			<Text>Esosa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_5">
+			<Text>Idogbe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_6">
+			<Text>Kalu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_7">
+			<Text>Mongo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_8">
+			<Text>Oba</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_9">
+			<Text>Oluwa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_10">
+			<Text>Toben</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_1">
+			<Text>Abayomi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_2">
+			<Text>Adunola</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_3">
+			<Text>Alkana</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_4">
+			<Text>Chinelo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_5">
+			<Text>Ekemma</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_6">
+			<Text>Ife</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_7">
+			<Text>Juba</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_8">
+			<Text>Lewa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_9">
+			<Text>Olabisi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_10">
+			<Text>Udo</Text>
+		</Row>
+		<!-- South Korea -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_1">
+			<Text>Young-ho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_2">
+			<Text>Jong-soo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_3">
+			<Text>Byung-ho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_4">
+			<Text>Young-gi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_5">
+			<Text>Il-sung</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_6">
+			<Text>Young-sik</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_7">
+			<Text>Kyung-soo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_8">
+			<Text>Young-chul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_9">
+			<Text>Sung-ki</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_10">
+			<Text>Jong-yul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_1">
+			<Text>Young-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_2">
+			<Text>Young-sook</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_3">
+			<Text>Kyung-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_4">
+			<Text>Jung-sook</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_5">
+			<Text>Sook-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_6">
+			<Text>Jeong-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_7">
+			<Text>Soon-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_8">
+			<Text>Soon-hee</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_9">
+			<Text>Jung-soon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_10">
+			<Text>Chun-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_1">
+			<Text>Min-jun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_2">
+			<Text>Seojun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_3">
+			<Text>Ha-joon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_4">
+			<Text>Do-yun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_5">
+			<Text>Joo-won</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_6">
+			<Text>Ye-jun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_7">
+			<Text>Joon-woo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_8">
+			<Text>Ji-ho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_9">
+			<Text>Ji-hu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_10">
+			<Text>Jun-seo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_1">
+			<Text>Seo-yun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_2">
+			<Text>Seo-yeon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_3">
+			<Text>Ji-woo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_4">
+			<Text>Ji-yoo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_5">
+			<Text>Ha-yoon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_6">
+			<Text>Seo-hyeon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_7">
+			<Text>Min-seo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_8">
+			<Text>He-eun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_9">
+			<Text>Ji-a</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_10">
+			<Text>Da-eun</Text>
+		</Row>
+		<!-- North Korea -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_1">
+			<Text>Young-ho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_2">
+			<Text>Jong-soo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_3">
+			<Text>Byung-ho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_4">
+			<Text>Young-gi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_5">
+			<Text>Il-sung</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_6">
+			<Text>Young-sik</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_7">
+			<Text>Kyung-soo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_8">
+			<Text>Young-chul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_9">
+			<Text>Sung-ki</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_10">
+			<Text>Jong-yul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_1">
+			<Text>Young-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_2">
+			<Text>Young-sook</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_3">
+			<Text>Kyung-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_4">
+			<Text>Jung-sook</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_5">
+			<Text>Sook-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_6">
+			<Text>Jeong-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_7">
+			<Text>Soon-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_8">
+			<Text>Soon-hee</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_9">
+			<Text>Jung-soon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_10">
+			<Text>Chun-ja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_1">
+			<Text>Min-jun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_2">
+			<Text>Seojun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_3">
+			<Text>Ha-joon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_4">
+			<Text>Do-yun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_5">
+			<Text>Joo-won</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_6">
+			<Text>Ye-jun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_7">
+			<Text>Joon-woo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_8">
+			<Text>Ji-ho</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_9">
+			<Text>Ji-hu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_10">
+			<Text>Jun-seo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_1">
+			<Text>Seo-yun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_2">
+			<Text>Seo-yeon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_3">
+			<Text>Ji-woo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_4">
+			<Text>Ji-yoo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_5">
+			<Text>Ha-yoon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_6">
+			<Text>Seo-hyeon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_7">
+			<Text>Min-seo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_8">
+			<Text>He-eun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_9">
+			<Text>Ji-a</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_10">
+			<Text>Da-eun</Text>
+		</Row>
+		<!-- Israel -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_1">
+			<Text>David</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_2">
+			<Text>Moshe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_3">
+			<Text>Levi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_4">
+			<Text>Yigal</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_5">
+			<Text>Morris</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_6">
+			<Text>Yitzhak</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_7">
+			<Text>Menachem</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_8">
+			<Text>Shimon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_9">
+			<Text>Benjamin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MALE_10">
+			<Text>Ehud</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_1">
+			<Text>Paula</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_2">
+			<Text>Tzipora</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_3">
+			<Text>Rivka</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_4">
+			<Text>Elisheva</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_5">
+			<Text>Miriam</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_6">
+			<Text>Golda</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_7">
+			<Text>Leah</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_8">
+			<Text>Aliza</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_9">
+			<Text>Shulamit</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_FEMALE_10">
+			<Text>Sonya</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_1">
+			<Text>Noam</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_2">
+			<Text>Ori</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_3">
+			<Text>Itai</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_4">
+			<Text>Yosef</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_5">
+			<Text>David</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_6">
+			<Text>Daniel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_7">
+			<Text>Ariel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_8">
+			<Text>Yonatan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_9">
+			<Text>Eitan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_10">
+			<Text>Moshe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_1">
+			<Text>Noa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_2">
+			<Text>Shira</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_3">
+			<Text>Tamar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_4">
+			<Text>Talia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_5">
+			<Text>Maya</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_6">
+			<Text>Yael</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_7">
+			<Text>Adele</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_8">
+			<Text>Sara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_9">
+			<Text>Avigail</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_10">
+			<Text>Ayala</Text>
+		</Row>
+		<!-- Italy -->
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_1">
+			<Text>Camillo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_2">
+			<Text>Bettino</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_3">
+			<Text>Urbano</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_4">
+			<Text>Luigi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_5">
+			<Text>Marco</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_6">
+			<Text>Alfonso</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_7">
+			<Text>Giovanni</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_8">
+			<Text>Agostino</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_9">
+			<Text>Benedetto</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MALE_10">
+			<Text>Francesco</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_1">
+			<Text>Anna</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_2">
+			<Text>Elisabetta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_3">
+			<Text>Marie</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_4">
+			<Text>Rosina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_5">
+			<Text>Rosalia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_6">
+			<Text>Lina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_7">
+			<Text>Francesca</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_8">
+			<Text>Biancarosa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_9">
+			<Text>Laura</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_FEMALE_10">
+			<Text>Vittoria</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_1">
+			<Text>Francesco</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_2">
+			<Text>Alessandro</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_3">
+			<Text>Andrea</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_4">
+			<Text>Lorenzo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_5">
+			<Text>Mattia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_6">
+			<Text>Matteo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_7">
+			<Text>Gabriele</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_8">
+			<Text>Leonardo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_9">
+			<Text>Riccardo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_10">
+			<Text>Tommaso</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_1">
+			<Text>Sofia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_2">
+			<Text>Giulia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_3">
+			<Text>Aurora</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_4">
+			<Text>Emma</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_5">
+			<Text>Giorgia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_6">
+			<Text>Martina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_7">
+			<Text>Chiara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_8">
+			<Text>Sara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_9">
+			<Text>Alice</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_10">
+			<Text>Gaia</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

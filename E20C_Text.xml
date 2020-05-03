@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_Text -->
+<!-- Author: Stephen -->
+<!-- DateCreated: 7/8/2017 -->
+<GameData>
+	<LocalizedText>
+		<!-- Districts -->
+		<Row Language="en_US" Tag="LOC_DISTRICT_MOUNTAIN_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Mountain {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_DISTRICT_TUNDRA_GOLD">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Tundra {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_DISTRICT_TUNDRA_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] Production from the adjacent Tundra {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_DISTRICT_TUNDRA_SCIENCE">
+			<Text>+{1_num} [ICON_Science] Science from the adjacent Tundra {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_DISTRICT_TUNDRA_CULTURE">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Tundra {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TOOLTIP_LGA_APPEAL_BREATHTAKING">
+			<Text>Breathtaking</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TOOLTIP_LGA_APPEAL_CHARMING">
+			<Text>Charming</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TOOLTIP_LGA_APPEAL_AVERAGE">
+			<Text>Average</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TOOLTIP_LGA_APPEAL_UNINVITING">
+			<Text>Uninviting</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TOOLTIP_LGA_APPEAL_DISGUSTING">
+			<Text>Disgusting</Text>
+		</Row>
+		<!-- Unit Abilities -->
+		<Row Language="en_US" Tag="LOC_ABILITY_TANK_URBAN_SURVIVAL_KIT_NAME">
+			<Text>Tank Urban Survival Kit</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_TANK_URBAN_SURVIVAL_KIT_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when defending vs. city attacks</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_TROPHY_ACTIVE_PROTECTION_SYSTEM_NAME">
+			<Text>Trophy Active Protective System</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_TROPHY_ACTIVE_PROTECTION_SYSTEM_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when defending vs. anti-cavalry units</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_MODERN_ARMOR_HYDROPNEUMATIC_SUSPENSION_NAME">
+			<Text>Hydropneumatic Suspension</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_MODERN_ARMOR_HYDROPNEUMATIC_SUSPENSION_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength when fighting on Hills</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_HELICOPTER_ANTIARMOR_ATTACK_NAME">
+			<Text>Anti-Armor Missiles</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_HELICOPTER_ANTIARMOR_ATTACK_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when attacking Heavy Cavalry class units</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_HELICOPTER_TROOP_TRANSPORT_NAME">
+			<Text>Troop Transport</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_HELICOPTER_TROOP_TRANSPORT_DESCRIPTION">
+			<Text>+5 [ICON_Strength] Combat Strength when adjacent to a friendly Melee class unit</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_STEALTH_FIGHTER_NAME">
+			<Text>Stealth Fighter</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_STEALTH_FIGHTER_DESCRIPTION">
+			<Text>+10 [ICON_Strength] Combat Strength against Fighter and Anti-Air units</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_STEALTH_BOMBER_NAME">
+			<Text>Stealth Bomber</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_ABILITY_STEALTH_BOMBER_DESCRIPTION">
+			<Text>+20 [ICON_Strength] Combat Strength when defending against Fighter and Anti-Air units</Text>
+		</Row>
+		<!-- Civilization Info -->
+		<Row Language="en_US" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_LOCATION">
+			<Text>The Australian Continent</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_SIZE">
+			<Text>Around 2.97 million square miles (7.7 million square km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_POPULATION">
+			<Text>Roughly 24 million (2017 estimate)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_CAPITAL">
+			<Text>Melbourne, now Canberra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_MEXICO_LOCATION">
+			<Text>North America</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_MEXICO_SIZE">
+			<Text>761 thousand sqare miles (1.97 million sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_MEXICO_POPULATION">
+			<Text>Approximately 120 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_MEXICO_CAPITAL">
+			<Text>Mexico City</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_SIZE">
+			<Text>735 thousand sqare miles (1.90 million sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_POPULATION">
+			<Text>Approximately 261 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_CAPITAL">
+			<Text>Jakarta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_TURKEY_LOCATION">
+			<Text>Asia and Europe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_TURKEY_SIZE">
+			<Text>302 thousand sqare miles (783 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_TURKEY_POPULATION">
+			<Text>Approximately 80 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_TURKEY_CAPITAL">
+			<Text>Ankara</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ARGENTINA_LOCATION">
+			<Text>South America</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ARGENTINA_SIZE">
+			<Text>About 1 million sqare miles (2.78 million sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ARGENTINA_POPULATION">
+			<Text>Approximately 43 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ARGENTINA_CAPITAL">
+			<Text>Buenos Aires</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_IRAN_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_IRAN_SIZE">
+			<Text>636 thousand sqare miles (1.65 million sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_IRAN_POPULATION">
+			<Text>Approximately 81 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_IRAN_CAPITAL">
+			<Text>Tehran</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_PAKISTAN_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_PAKISTAN_SIZE">
+			<Text>340 thousand sqare miles (882 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_PAKISTAN_POPULATION">
+			<Text>Approximately 208 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_PAKISTAN_CAPITAL">
+			<Text>Islamabad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_AFRICA_LOCATION">
+			<Text>Africa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_AFRICA_SIZE">
+			<Text>471 thousand sqare miles (1.22 million sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_AFRICA_POPULATION">
+			<Text>Approximately 55 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_AFRICA_CAPITAL">
+			<Text>Pretoria, Cape Town, and Bloemfontein</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NIGERIA_LOCATION">
+			<Text>Africa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NIGERIA_SIZE">
+			<Text>357 thousand sqare miles (924 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NIGERIA_POPULATION">
+			<Text>Approximately 186 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NIGERIA_CAPITAL">
+			<Text>Abuja</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_KOREA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_KOREA_SIZE">
+			<Text>39 thousand sqare miles (100 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_KOREA_POPULATION">
+			<Text>Approximately 51 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_SOUTH_KOREA_CAPITAL">
+			<Text>Seoul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NORTH_KOREA_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NORTH_KOREA_SIZE">
+			<Text>47 thousand sqare miles (120 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NORTH_KOREA_POPULATION">
+			<Text>Approximately 25 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_NORTH_KOREA_CAPITAL">
+			<Text>Pyongyang</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ISRAEL_LOCATION">
+			<Text>Asia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ISRAEL_SIZE">
+			<Text>8 thousand sqare miles (22 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ISRAEL_POPULATION">
+			<Text>Approximately 8 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ISRAEL_CAPITAL">
+			<Text>Jerusalem (proclaimed), Tel Aviv (internationally recognized)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ITALY_LOCATION">
+			<Text>Europe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ITALY_SIZE">
+			<Text>116 thousand sqare miles (301 thousand sqare km)</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ITALY_POPULATION">
+			<Text>Approximately 61 million</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVINFO_ITALY_CAPITAL">
+			<Text>Rome</Text>
+		</Row>
+		<!-- Civilization Histories -->
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_COMMONWEALTH_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
+			<Text>Initially settled by tribal peoples, the territory that now comprises Australia began its march towards nationhood with the arrival of European colonists in the 18th and 19th centuries. The first colony established in Australia was a British penal colony founded at Sydney Cove on January 26, 1788. Over the course of the following century many other colonies were founded, the European population growing increasingly through the voluntary immigration of free colonists. In the latter part of the 19th century the colonies separately gained "responsible government", the ability to manage most of their internal affairs locally. After many years of preparation the colonies came together to form a federation of states as a commonwealth of Great Britain on January 1, 1901. In 1911 a separate territory was set aside to build the capital of the new commonwealth. Australia participated in World War I under the auspices of Great Britain as part of the Australian and New Zealand Army Corps (ANZAC), sending over 400,000 soldiers to the trenches of Europe. This was seen by many as a defining moment in the formative years of the nation. In 1931 Britain ceded most of its control over the commonwealth to the Australian government, which accepted this new state of affairs in 1942. Following World War II and the dissolution of the British Empire, Australia entered an alliance with the United States and worked to build good relations with its neighbors. The post war period also saw the end of the White Australia policy and better treatment of aboriginal Australians. In 1986 the last vestiges of British power in Australia were officially ended. Today Australia is a wealthy nation that boasts a high standard of living and a multicultural society.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MEXICO_CHAPTER_HISTORY_PARA_1">
+			<Text>While there were many advanced civilizations that occupied the lands of Mexico in pre-colonial times, among them the Aztecs, Mayans, and Zapotecs, the modern state of Mexico traces its heritage primarily from the New World colonies of the Spanish Empire. In the early 1500s an adventurer named Hernan Cortez conquered the Aztec Empire with a small band of Spanish conquistadors aided by a large contingent of local soldiers from nations long oppressed by the Aztecs. The Aztec capital of Tenochtitlan was refounded as Mexico City, and the territory of Mexico was added to the Spanish Empire as part of the Viceroyalty of New Spain. Mexico became an important part of the empire, at one point producing nearly half of the tax income for the King of Spain. Spanish culture subsumed the native ones as small-pox devastated the indigenous peoples, and over 700,000 Spaniards made their way to Mexico to settle and in many cases inter-marry with the natives. As the strength of the Spanish crown diminished and Mexico developed a distinct identity and culture, unrest spread, eventually cumulating in a war that led to Mexican independence in 1821. The early years of the Mexican state were turbulent, marked by economic and political troubles. The government changed hands between imperial, republican, and dictatorial factions before General Antonio Santa Anna seized and consolidated power. Revolts against Santa Anna's rule saw the loss of Yucatan and Texas, and a war with the United States saw the further loss of much territory in northern Mexico. Following Santa Anna's deposition, Mexico descended into a brief Civil War, which was won by the reforming faction led by Benito Juarez. The Empire of France briefly occupied Mexico in the 1860s, but the monarch installed by France was eventually deposed and Porfirio Diaz, a republican general instrumental in this deposition, dominated Mexican politics for the next three decades. Diaz's tenure saw growth and strenghtening of Mexico, but problems remained, eventually leading to another civil war, the Mexican Revolution. The Institutional Revolutionary Party (PRI) came to power, reinstating elections and nationalizing the oil industry. PRI ruled Mexico for 70 years, bringing stability and growth but also failing to solve the perenial issue of poverty and occassionally resorting to heavy-handed tactics. One party rule came to an end in the year 2000, bringing a more robust discourse to Mexican politics. Mexico coninues to grow, but also faces several major issues, including continued trouble from the various drug cartels.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_REPUBLIC_INDONESIA_CHAPTER_HISTORY_PARA_1">
+			<Text>The Indonesian archipelago has been a center of trade since ancient times, due to its prime location between India and China as well as the valuable spices that can be grown locally. The area was divided among minor local kingdoms until the Srivijaya kingdom began to extend its power across multiple islands from the eighth to tenth centuries. Later the Majapahit Empire became the first kingdom to unite nearly all of the archipelago under its rule. While hinduism and buddhism had predominated among the islands in the first millenium, first Muslim traders and later Sultans slowly converted the populace during the second millenium, fundamentally changing the culture of the islands. European traders arrived in the 16th century, the most successful of these being the Dutch East India Company (VOC), which founded Batavia (later renamed Jakarta) and came to dominate the entire archipelago. The VOC was dissolved due to financial troubles in 1800, with all of its territory passing into the hands of the Dutch Empire, which ruled Indonesia until the middle of the 20th century. Imperial Japan conquered Indonesia during World War II, and when Japan was forced to surrender to the Allies, the leaders of the Indonesian nationalist movement declared independence. An armed struggle ensued, but in 1949 the Dutch were finally forced to recognize Indoneisan independence. Sukarno, the leader of the independence movement, became Indonesia's first president, but after a period of instability he transitioned the nation from a democracy to an autocracy. A failed communist coup in 1965 led to the military purging the country of communists and eventually overthrowing Sukarno, replacing him with General Suharto. Suharto would rule the nation as dictator for nearly 30 years, aligning Indonesia with the anti-communist west and presiding over substantial economic growth for the nation. However his heavy handed rule bred dissent, and when an economic downturn occured Suharto was forced to resign in 1998. Indonesia then transitioned to democracy, and it currently is considered a newly industrialized country.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TURKEY_CHAPTER_HISTORY_PARA_1">
+			<Text>The nation of Turkey is the successor state to the Turkish-controlled Ottoman Empire, which had ruled for over six-hundred years. The Ottoman Empire had once controlled the Middle East and much of the Mediterranean, but it gradually became weaker and lost territory until its defeat as a member of the Central Powers in World War I resulted in its disintegration. The harsh terms the Allied Powers set for the Ottomans did not sit well with Turkish nationalists, who, led by Mustafa Kemal Pasha, a Turkish hero of the Great War, overthrew the Sultanate and waged a war in which they managed to retake territory that the Ottomans had been forced to cede to Greece and Armenia. Following the Turkish success in this war, a treaty was signed recognizing the new nation and the new borders it had won by war. Mustafa Kemal, given the surname Ataturk -- "Father of the Turks" -- when the new nation required all citizens to adopt surnames, was elected leader of the new republic and set about creating a secular, modern nation. Turkey remained neutral for most of World War II, only joining the Allies near the end of the conflict. Turkey became a founding member of the United Nations and later joined NATO, serving as a bulwark against communist expansion. In 1974 Turkey invaded and occuppied part of Cyprus in response to a Cypriot coup that set up a pro-Greece union government. In the 1980s the Kurds of eastern Turkey began an insurgency against the government, with the goal of obtaining independence, an insurgency that has simmered unto the present day. Over the years there has been tension within the Turkish republic between those who hold different ideologies, culminating a series of coups by the generally secular, pro-Western military. In the early part of the 21st century Turkey began transitioning towards a more Islamist and less secular form of government under the leadership of Recep Tayyip Erdogan, a capable and devout administrator who has led the nation for over a decade.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARGENTINA_CHAPTER_HISTORY_PARA_1">
+			<Text>The land that would become Argentina was sparsely populated before the arrival of European colonits in the 16th century. Settled by the Spanish, Argentina was first a part of the Viceroyalty of Peru before growing enough to become a separate administrative area under the Viceroyalty of the Rio de la Plata. When the Spanish King Ferdinand VII was deposed by Napoleon Bonaparte of France, numerous revolutions broke out across the Spanish colonies in the New World. Argentina declared independence in 1816, and Argentinian General Jose de San Martin took an army across the Andes and secured independence for Chile and Peru as well. The early years of the independent Argentina were marked by strife, with a series of wars and governments before things settled down in the 1860s. Starting in the 1880s, Argentina liberalized its economic policies and encourage massive immigration from Europe. From 1880 to 1910 the Argentine population grew five-fold and its economy grew fifteen times over, leading it to have the 7th highest per-capita income in the world (ahead of Germany and France, but behind the UK and USA). In 1912 universal male suffrage was enacted, which led to Hipolito Yrigoyen of the Radical Civic Union to rise to power. Following an economic crisis, Yrigoyen was overthrown by a military coup, leading to a period of instability in the nation. In 1946 Juan Peron was elected president, ushering in a period of change marked by increased socialization and the nationalization of various industries. The new economic policies at first saw an economic revival in Argentina, but by the 1950s things started to go downhill, leading to Peron going into exile in 1955. More instability followed, with government rotating between elected factions and military coups. Violence broke out in a period known as the "Dirty War", with rebel guerillas and government secret police engaged in terrorism. Following a stinging defeat in a failed attempt to take the Falklands from the UK, the Argentinian military lost face and the country transitioned back to democracy. Since then the country has struggled economically, even defaulting on its debt, but it has persevered and Argentina is now enjoying its longest period without a coup since the 1920s.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IRAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The land of Iran, formerly known as Persia for most of its history, was the seat and subject of many great civilizations. The first great empire to come out of Persia was the Achaemenid Empire founded by Cyrus the Great, which stretch from Egypt to India and lasted for 200 years. That empire fell to Alexander the Great, and Greek nations dominated Persia for nearly 100 years before being overthrown by the native Parthians. The Parthians and their successors, the Sassanids, reigned over Persia for six hundred years and were rivals to the Romans and Byzantines, respectively. The Sassanid Empire fell to the Islamic conquerors of the Rashidun Caliphate, fundamentally changing Persia forever with the shift from Zoroastrianism to Islam. Persian culture was able to survive Arab domination, as well as subsequent Turkish rule and the devastation of the Mongol invasions. In 1501 Shah Ismail I founded the Safavid dynasty, which would reclaim Persia for the Persians and convert the country from Sunni to Shia Islam. The Safavids ruled a powerful empire and were rivals of the Ottomans, but by the 1700s they had grown weak and were deposed. The 18th century saw much turmoil, with several dynasties rising and falling and many internal wars. The Qajar dynasty, founded in 1794, managed to bring unity, but defeat by the Russians and mismanagement of the empire weaked the dynasty, forcing it to establish a parliament in 1905, with said parliament overthrowing the dynasty and installing the Prime Minister, Reza Khan, as Shah. Reza Shah brought about reforms and ruled successfully, but his neutrality in World War 2 was considered unacceptable by the Allied powers due to the strategic importance of Iran, and an Anglo-Soviet invasion forced him to abdicate in favor of his pro-Western son, Mohammed Reza Pahlavi. In 1951, with western support, Mohammad disbanded parliament (which was increasingly being dominated by communists) and became an autocratic ruler. His rule was resented, and in 1979 he was overthrown by the Islamic Revolution, which refounded Iran as a theocratic republic. This theocracy purged secular elements from the nation and required that all elected officials receive the approval of the Supreme Leader, an ayatollah (religious leader) who is seen as the ultimate authority on both political and religious matters in the state. The new government faced many revolts and an invasion by Iraq resulting in a decade long war, but by the 1990s it had emerged victorious and its rule was secure. The nation has increased in prosperity since then, and it has sought to increase in power and influence as well, supporting client states and groups and pursuing a nuclear program. This has led to an uneasy rivalry with Saudi Arabia for dominance of the Middle East, a situation that has yet to be resolved.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PAKISTAN_CHAPTER_HISTORY_PARA_1">
+			<Text>The nation of Pakistan was formed by the parition of India upon the independence of the Dominion of India from the British Empire in 1947. The partition divided India into Muslim (Pakistan) and Hindu (India) majority nations, and in the wake of this division 14 million people migrated between the nations in order to live in the nation of their faith and between 200,00-500,000 people were killed in religious and ethnically motivated riots and purges. Pakistan faced internal strife from the beginning, with the Bengali people of east Pakistan chafing under the rule of the pro-Urdu government favoring the people of west Pakistan. Martial law was declared in 1958, ushering in an era of military domination of Pakistani politics. In 1971 tensions between east and west Pakistan boiled over, with the Pakistani government killing hundreds of thousands of Bengali people in an utlimately futile attempt to subjugate the province, which became the independent nation of Bengal. Pakistan fought a series of wars with India over border disputes, most of which effectively ended in stalemates. Democracy returned to Pakistan in 1972, and the rivalry with India intensified as both nations developed nuclear weapons. In the late 80s and the 90s Pakistani politics vacillated back and forth between conservative and progressive factions before general Pervez Musharraf initiated a coup that ushered in another period of military rule. Starting in the early 2000s, Pakistan became a participant in the War on Terror, fighting extremist elements lodged in its rural provinces, a war that proved costly in both lives and treasure and has yet to fully defeat the Islamic extremists. Following the assassination of Benazir Bhutto, leader of the progressive faction and former Prime Minister (the first and so far only woman to serve in the role), Musharraf was forced to resign. The conservative faction, led by Bhutto's rival Nawaz Sharif, won control of the government with a supermajority and now must confront the many issues that plague the nation.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AFRICA_CHAPTER_HISTORY_PARA_1">
+			<Text>In prehistoric times, the territory that would comprise South Africa was inhabited by tribes of hunter/gatherer San peoples and pastoral Khoi peoples who, in the later part of the first and earlier part of the second millenium AD were displaced by the iron-using agricultural Bantu peoples. The first Europeans, Portugese explorers, arrived in the late 15th century while searching for a sea route to the East Indies. In the 17th Century the Dutch East India Company founded the first permanent European settlement at Cape Town as a way point on the eastern trade routes. As European colonies in the area expanded, various wars broke out between the British (who conquered the Cape from the Dutch in the early 19th century), Boers (descendents of the first European settlers who pushed inland), and the native tribes of Sotho, Xhosa, and Zulu, each group at turns fighting one of the others. The Zulus, led by the mighty warrior king Shaka, came to dominate the other native tribes and keep the Europeans at bay, and after his death were defeated by the British in the Anglo-Zulu war. The British Empire finally consolidated control over the region after the two bloody Boer Wars, marking the first time that the territory of South Africa would be unified. Nominal (1909) and then full (1931) independence was granted by the British Empire to the Union of South Africa. The white controlled government codified the de facto segregation of the union into law and set up the oppressive, segregationist Apartheid system, leaving almost 80% of the population as second-class citizens. In 1961 the nation voted to abandon it's form of government, Constitutional Monarchy that recognized the British soveriegn, and embrace a republican form of government. Beginning in the late 1960s violence and strife gripped South Africa as various factions, most notably Nelson Mandela's African National Congress (ANC), agitated and fought against apartheid. In the 1970s, facing increased international scrutiny, the South African government responded by developing a nuclear program that all told created six nuclear bombs. In the 1990s the government became conciliatory, repealing apartheid, dismantling its nuclear program, and allowing the ANC (among others) to participate in free and open elections. In 1994 the ANC won elections and obtained the government, which it still maintains to this day. Since the ascension of the ANC, black South Africans have enjoyed political equality and greater opporunities to advance, and many have moved into the middle class. While improving, the country still wrestles with poverty, high levels of violence, and the ravages of the AIDS epidemic.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NIGERIA_CHAPTER_HISTORY_PARA_1">
+			<Text>The land that would comprise the nation of Nigeria is home to over 500 ethnicities speaking over 500 different languages, and it has seen the rise and fall of many kingdoms and even empires over the broad sweep of history. The region was long a center of trade, with heavy traffic of goods and slaves being bought and sold. When Europeans arrived in the 16th century, they eagerly joined in commerce with the locals, purchasing exotic goods and establishing the trans-Atlantic slave trade. During the next several centuries the Oyo Empire in the west and Edo Empire in the east were the major powers in Nigeria. In the 19th Century the British began to meddle in local politics to a greater extent, first to shut down the slave trade following its proscription by Parliament in 1807 and later to exert British influence in the area. At the same time that Britain was extending its influence in the south, in the north the Sokoto Caliphate was founded by an Islamic scholar and came to dominate the region. The British Empire eventually conquered or absorbed the entirety of the territory and set up the administrative state that would eventually evolve into the Nigerian government. With a rise of nationalism in the 20th century came calls for independence, which was eventually granted in 1960. Nigeria was at first ruled by a coalition government, but the various factions soon fell to squabbling, then fighting, culminating in a series of coups and a civil war that lasted for 30 months and resulted in millions dead. Military juntas dominated Nigerian politics from the close of the civil war in 1970 until 1999, a period of instability, corruption, and violence but also growth and development, in part fueled by newly discovered oil. Democracy returned in 1999, but this did not spell the end of Nigeria's troubles. Inter-ethnic violence erupted in the oil producing regions of Nigeria in the south, and in the north Boko Haram, an Islamist group promoting a strict interpretation of Sharia ("Boko Haram" roughly translates as "Western Education is Forbidden by Islam") began to terrorize the region. Despite these difficulties, Nigeria has managed to continue to grow, becoming the largest nation in Africa by population and then the largest economy in the continent, surpassing South Africa in 2014. Since 2010 Nigeria has also experienced two consecutive free and fair elections, witnessing the first peaceful, democratic transition of power in the nation's history.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_KOREA_CHAPTER_HISTORY_PARA_1">
+			<Text>The founding of Korea is shrouded in myth and legend, but what is known for certain is that a Korean kingdom known as Gojoseon existed in ancient times until being conquered by the Han Chinese in the second century BC. The Chinese were not fully driven out until the fourth century AD, by which time the kingdom of Goryeo had grown in strength and was able to conquer most of the Korean Peninsula. This kingdom would lend its name to the peninsula (Korea is a westernized version of the name Goryeo), and would last until the seventh century. Following the collapse of Goryeo, the peninsula was divided between the Balhae in the north and the Silla in the south. Following the decline of these kingdoms, Korea was once again unified under Wang Geon, who reestablished the Goryeo dynasty as masters of Korea. This new Goryeo flourished for centuries, enjoying prosperity, high culture, and technological advancements. This golden era would come to an end with the arrival of the Mongols, who made Goryeo a tributary state after several exhaustive wars. When the Mongols weakened, Goryeo was able to reassert its independence, but in 1392 the dynasty was overthrown by General Yi Seong-gye, who established the Joseon dynasty. The early centuries of Joseon rule were marked by peace and development, and it was during this time that the Korean writing system, Hangul, was developed. In the late 16th century, Joseon repulsed two Japanese invasions, but in the 17th century they were defeated by the Manchu and forced to cede northern territory. By the 19th century the dynasty had grown weak and corrupt, paving the way for a successful invasion by Japan in 1910. Japan would rule Korea until its defeat at the hands of tha Allied powers in World War II. Following Japanese surrender, Korea was divided into a US occupied South and a USSR occupied north. South Korea subsequently aligned with the west, and North Korea became a communist dictatorship. North Korea invaded the south in 1950, precipitating the Korean War. China joined the war on the side of the North while the US led a UN force to defend the South. The war was long and bloody, but ended in a stalemate similar to the status quo ante.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_KOREA_CHAPTER_HISTORY_PARA_2">
+			<Text>In the South, the democratically elected Syngman Rhee became increasingly authoritarian following the war, not ceding power until an uprising occurred in 1960. A brief period of instability followed until a coup by Park Chung-hee, who would rule Korea as a dictator but also oversee massive economic development for the country. In 1979 Park was assassinated, after which another coup brought Chun Doo-hwan to power, who ruled as a dictator until 1987. When Chun's harsh rule grew too much, the June Democracy Movement forced the return of democracy to South Korea. Since that time South Korea has enjoyed democracy, prosperity, and relative peace, although the situation with North Korea remains unresolved.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NORTH_KOREA_CHAPTER_HISTORY_PARA_1">
+			<Text>The founding of Korea is shrouded in myth and legend, but what is known for certain is that a Korean kingdom known as Gojoseon existed in ancient times until being conquered by the Han Chinese in the second century BC. The Chinese were not fully driven out until the fourth century AD, by which time the kingdom of Goryeo had grown in strength and was able to conquer most of the Korean Peninsula. This kingdom would lend its name to the peninsula (Korea is a westernized version of the name Goryeo), and would last until the seventh century. Following the collapse of Goryeo, the peninsula was divided between the Balhae in the north and the Silla in the south. Following the decline of these kingdoms, Korea was once again unified under Wang Geon, who reestablished the Goryeo dynasty as masters of Korea. This new Goryeo flourished for centuries, enjoying prosperity, high culture, and technological advancements. This golden era would come to an end with the arrival of the Mongols, who made Goryeo a tributary state after several exhaustive wars. When the Mongols weakened, Goryeo was able to reassert its independence, but in 1392 the dynasty was overthrown by General Yi Seong-gye, who established the Joseon dynasty. The early centuries of Joseon rule were marked by peace and development, and it was during this time that the Korean writing system, Hangul, was developed. In the late 16th century, Joseon repulsed two Japanese invasions, but in the 17th century they were defeated by the Manchu and forced to cede northern territory. By the 19th century the dynasty had grown weak and corrupt, paving the way for a successful invasion by Japan in 1910. Japan would rule Korea until its defeat at the hands of tha Allied powers in World War II. Following Japanese surrender, Korea was divided into a US occupied South and a USSR occupied north. South Korea subsequently aligned with the west, and North Korea became a communist dictatorship. North Korea invaded the south in 1950, precipitating the Korean War. China joined the war on the side of the North while the US led a UN force to defend the South. The war was long and bloody, but ended in a stalemate similar to the status quo ante.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NORTH_KOREA_CHAPTER_HISTORY_PARA_2">
+			<Text>In the North, the communist dictator Kim Il-sung consolidated his hold on power and began implementing the new state ideology of Juche, which emphasises national independence and total state control of society. Initially North Korea had success, recovering quickly from the war and utilizing foreign aid from China and Russia to expand its economy. By the 1980s the command economy policies of the nation began showing weakness, and when foreign aid was greatly reduced following the collapse of the Soviet Union in 1991 the economy of North Korea crumbled. Kim Il-sung's long reign finally ended with his death in 1994, and he was succeeded by his son Kim Jong-il. Jong-il implemented a policy of Songun, or "military first", to consolidate his power over his poor and oppressed nation. His reign also saw the completion of North Korea's nuclear weapons program, with the successful development of a bomb in 2006. Kim Jong-il died in 2011 and was succeeded by his sone, Kim Jong-un. Jong-un has continued the policies of his father and grandfather. He has also expanded the missile development of his nation and threatened both South Korea and the United States. North Korea continues to suffer from poverty and oppression, with no end in sight.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISRAEL_CHAPTER_HISTORY_PARA_1">
+			<Text>The modern state of Israel was the product of Zionism, the movement to encourage Jewish people to return to their ancient homeland in the Holy Land. At first Jewish immigration to the land was slow, but it picked up in the early 20th century and rose dramatically following Jewish persecution in Europe and the Holocaust. In 1947 a plan was devised to divide the British Mandate of Palestine between Arab and Jewish states in an attempt to diffuse tensions between the two communities. In 1948, on the first day after the nation of Israel declared independence as a Jewish state, Israel was attacked by a coalition of Arab nations, resulting in a war that ended with Israeli victory and territorial gains. Following independence, Israel aggressively promoted Jewish immigration, welcoming refugees and those seeking a better life from both Europe and the Arab world. Israel struggled economically initially, eventually getting on its feet as immigrants settled in and reforms were implemented. Continued tensions between Israel and the Arab world erupted again in the 1960s and 70s. In 1967 Israel launched a preemptive strike against amassing armies on its borders, leading to the Six-Day War that saw territorial gains for Israel from Egypt, Jordan, and Syria. In 1973 Egypt struck back in the Yom Kippur War, which ended in a stalemate but proved to the Arab world that the Israeli army was not invincible. In 1979 diplomatic relations were established between Egypt and Israel in exchange for the return of Sinai to Egypt. In the 1980s Israel adopted a policy of promoting settlements of Jews into the territories occupied in the Six-Day War, a policy that was highly controversial. Israel struggled with the Palestinian Liberation Organization (PLO) in the 1980s, even invading Lebanon to fight them off and later suffering an "Intifada", or uprising, that included numerous terrorist attacks. Peace between the two sides was negotiated in the 1990s, giving the Palestinians greater autonomy in exchange for recognizing Israel's right to exist, but it was not to last. A second Intifada was waged in the early 2000s, in response to which Israel began construction of a wall between Israel and much of the West Bank. Israel also withdrew all Jewish settlers from the Gaza Strip, which came to be ruled by Hamas, a more extremist group than the moderate Fatah party that governs the semi-autonomous West Bank. The Palestinian-Israeli conflict remains unresolved to this day. Israel proper is a prosperous, advanced, democratic nation that retains its founding Jewish identity.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ITALY_CHAPTER_HISTORY_PARA_1">
+			<Text>The modern state of Italy is the product of the rise of nationalism in the 19th century. Before that, Italy was divided into several competing kingdoms, some of which were under the sway of foreign powers. The drive for Italian unification was led by the Kingdom of Sardinia, which waged several wars against other Italian kingdoms, Austria, and even the Papal States in order to bring the whole of the peninsula under one crown, a feat finally achieved in 1870. The new nation became a constitutional monarchy under the King of Sardinia, and the early history of the nation saw the rapid industrialization of the north and the expansion of Italy into a colonial power. Italy joined the Allied Powers in World War I, seeing territorial gains but at great cost. The rise of the socialists in this period and their emboldened action after WWI led many in the establishment to turn to the new Fascist party for protection, enabling their leader Benito Mussolini to rise to power in 1922 and eventually become dictator of the nation. In 1939 Italy would ally with Nazi Germany, and in 1940 with Imperial Japan, drawing it into World War II on the side of the Axis powers in 1940. The Italians saw initial success followed by a string of defeats, eventually being invaded by the Allied powers. The defeat of Italy saw the execution of Mussolini, the abdication of the King, the dissolution of the empire, the loss of several European territories, and the founding of the new Italian Republic. Italy was devastated after the war, but with the help of the Marshall Plan it got back on its feet and prospered in the 1950s and 1960s. Italy would suffer economic downturn and domestic strife through the 1970s, but would recover in the 1980s. Political crisis in the 1990s led to a realignment in Italian politics, with media magnate Silvio Berlusconi dominating the subsequent period and becoming the longest serving Prime Minister of the Republic. The Great Recession of 2008 hit Italy especially hard, causing 42 months of contraction, leading to a new government and attempts at reforming the Italian constitution. The European Migrant Crisis of 2015 also significantly impacted the country, with Italy being one of the main routes north and receiving over half a million migrants in its own right. In addition to economic and immigration issues, Italy is also seeing a rise of regional factionalism, so there is a lot of uncertainty as to the direction the nation will take in the near future.</Text>
+		</Row>
+		<!-- Tooltips -->
+		<Replace Language="en_US" Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) from Leader Ability ([ICON_Governor] Governor with {1} {1 : plural 1?Promotion; other?Promotions;})</Text>
+		</Replace>
+		<!-- Named Places -->
+		<!-- Rivers -->
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_RIO_BRAVO_NAME">
+			<Text>Rio Bravo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_RIO_BALSAS_NAME">
+			<Text>Rio Balsas</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_RIO_GRANDE_DE_SANTIAGO_NAME">
+			<Text>Rio Grande de Santiago</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_RIO_GRIJALVA_NAME">
+			<Text>Rio Grijalva</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_RIO_YAQUI_NAME">
+			<Text>Rio Yaqui</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_URUGUAY_RIVER_NAME">
+			<Text>Uruguay River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_RIO_BERMEJO_NAME">
+			<Text>Rio Bermejo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_PILCOMAYO_NAME">
+			<Text>Pilcomayo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_DASHT_NAME">
+			<Text>Dasht River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_HUB_NAME">
+			<Text>Hub River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_CHENAB_NAME">
+			<Text>Chenab River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_GILGIT_NAME">
+			<Text>Gilgit River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_VAAL_NAME">
+			<Text>Vaal River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_TUGELA_NAME">
+			<Text>Tugela River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_OLIFANTS_NAME">
+			<Text>Olifants River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_OSUN_NAME">
+			<Text>Osun River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_IMO_NAME">
+			<Text>Imo River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_CROSS_NAME">
+			<Text>Cross River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_YOBE_NAME">
+			<Text>Yobe River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_BENUE_NAME">
+			<Text>Benue River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_SOKOTO_NAME">
+			<Text>Sokoto River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_TUMAN_NAME">
+			<Text>Tuman River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_YARKON_NAME">
+			<Text>Yarkon River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_KISHON_NAME">
+			<Text>Kishon River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_YARMOUK_NAME">
+			<Text>Yarmouk River</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_RIVER_NAHAL_NAAMAN_NAME">
+			<Text>Nahal Na'aman</Text>
+		</Row>
+		<!-- Volcanoes -->
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_TACANA_NAME">
+			<Text>Tacaná</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_COPAHUE_NAME">
+			<Text>Copahue</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_PLANCHON_PETEROA_NAME">
+			<Text>Planchón-Peteroa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_ARACAR_NAME">
+			<Text>Aracar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_TOR_ZAWAR_NAME">
+			<Text>Tor Zawar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_VOLCANO_KOH_I_SULTAN_NAME">
+			<Text>Koh-i-Sultan</Text>
+		</Row>
+		<!-- Mountains -->
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SIERRA_GIGANTA_NAME">
+			<Text>Sierra de la Giganta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_LIPEZ_NAME">
+			<Text>Cordillera de Lípez</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_FAMATINA_NAME">
+			<Text>Sierra de Famatina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_PRINCIPAL_CORDILLERA_NAME">
+			<Text>Principal Cordillera</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_VELASCO_NAME">
+			<Text>Sierra de Velasco</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SPIN_GHAR_NAME">
+			<Text>Spīn Ghar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_SULAIMAN_MOUNTAINS_NAME">
+			<Text>Sulaiman Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_AMATOLA_MOUNTAINS_NAME">
+			<Text>Amatola Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_BAVIAANSKLOOF_MOUNTAINS_NAME">
+			<Text>Baviaanskloof Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_WINTERHOEK_MOUNTAINS_NAME">
+			<Text>Winterhoek Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_ATLANTIKA_MOUNTAINS_NAME">
+			<Text>Atlantika Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_MANDARA_MOUNTAINS_NAME">
+			<Text>Mandara Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_RANGRIM_MOUNTAINS_NAME">
+			<Text>Rangrim Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_HAMGYONG_MOUNTAINS_NAME">
+			<Text>Hamgyong Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_KUMGANG_MOUNTAINS_NAME">
+			<Text>Kumgang Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_CARMEL_MOUNTAINS_NAME">
+			<Text>Carmel Mountains</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_MOUNTAIN_JUDAEAN_MOUNTAINS_NAME">
+			<Text>Judaean Mountains</Text>
+		</Row>
+		<!-- Deserts -->
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_BAJA_CALIFORNIAN_NAME">
+			<Text>Baja Californian Desert</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_MONTE_DESERT_NAME">
+			<Text>Monte Desert</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_KHARAN_DESERT_NAME">
+			<Text>Kharan Desert</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_CHOLISTAN_DESERT_NAME">
+			<Text>Cholistan Desert</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_KAROO_DESERT_NAME">
+			<Text>Karoo Desert</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_NEGEV_DESERT_NAME">
+			<Text>Negev Desert</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_DESERT_JUDAEAN_DESERT_NAME">
+			<Text>Judaean Desert</Text>
+		</Row>
+		<!-- Lakes -->
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_CHAPALA_NAME">
+			<Text>Lake Chapala</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_BACALAR_NAME">
+			<Text>Lake Bacalar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_CUITZEO_NAME">
+			<Text>Lake Cuitzeo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_LAGO_ARGENTINO_NAME">
+			<Text>Lago Argentino</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_LACAR_LAKE_NAME">
+			<Text>Lácar Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_MENENDEZ_NAME">
+			<Text>Lake Menéndez</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_MANCHAR_NAME">
+			<Text>Manchar Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SIMIL_NAME">
+			<Text>Simil Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_HALEJI_NAME">
+			<Text>Haleji Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_SATPARA_NAME">
+			<Text>Satpara Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_KEENJHAR_NAME">
+			<Text>Keenjhar Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_CHRISSIE_NAME">
+			<Text>Lake Chrissia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_FUNDUDZI_NAME">
+			<Text>Lake Fundudzi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_ZEEKOEVLEI_NAME">
+			<Text>Zeekoevlei</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_CHAD_NAME">
+			<Text>Lake Chad</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_KAINJI_NAME">
+			<Text>Kainji Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_ANDONG_NAME">
+			<Text>Andong Lake</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_LAKE_JINYANG_NAME">
+			<Text>Jinyang Lake</Text>
+		</Row>
+		<!-- Seas -->
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_RIO_DE_LA_PLATA_NAME">
+			<Text>Río de la Plata</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_GULF_OF_SAN_MATIAS_NAME">
+			<Text>Gulf of San Matías</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_SAN_JORGE_GULF_NAME">
+			<Text>San Jorge Gulf</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_SONMIANI_BAY_NAME">
+			<Text>Sonmiani Bay</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_ST_HELENA_BAY_NAME">
+			<Text>Saint Helena Bay</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_ALGOA_BAY_NAME">
+			<Text>Algoa Bay</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_FALSE_BAY_NAME">
+			<Text>False Bay</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_BIGHT_OF_BENIN_NAME">
+			<Text>Bight of Benin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_BIGHT_OF_BIAFRA_NAME">
+			<Text>Bight of Biafra</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_NAMED_SEA_HAIFA_BAY_NAME">
+			<Text>Haifa Bay</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_ConfigText -->
+<!-- Author: Stephen -->
+<!-- DateCreated: 7/8/2017 -->
+<GameData>
+	<LocalizedText>
+		<!-- Leader Names -->
+		<Row Language="en_US" Tag="LOC_LEADER_TRUMP_NAME">
+			<Text>Donald Trump</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_XI_NAME">
+			<Text>Xi Jinping</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_PUTIN_NAME">
+			<Text>Vladimir Putin</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MODI_NAME">
+			<Text>Narendra Modi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_ABE_NAME">
+			<Text>Shinzō Abe</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MERKEL_NAME">
+			<Text>Angela Merkel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MAY_NAME">
+			<Text>Theresa May</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MACRON_NAME">
+			<Text>Emmanuel Macron</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_TEMER_NAME">
+			<Text>Michel Temer</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_SALMAN_NAME">
+			<Text>Salman bin Abdulaziz Al Saud</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_SISI_NAME">
+			<Text>Abdel Fattah el-Sisi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_TRUDEAU_NAME">
+			<Text>Justin Trudeau</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_TURNBULL_NAME">
+			<Text>Malcolm Turnbull</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_PENA_NIETO_NAME">
+			<Text>Enrique Peña Nieto</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_WIDODO_NAME">
+			<Text>Joko Widodo</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_ERDOGAN_NAME">
+			<Text>Recep Tayyip Erdoğan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MACRI_NAME">
+			<Text>Mauricio Macri</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_ROUHANI_NAME">
+			<Text>Hassan Rouhani</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_ABBASI_NAME">
+			<Text>Shahid Khaqan Abbasi</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_ZUMA_NAME">
+			<Text>Jacob Zuma</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_BUHARI_NAME">
+			<Text>Muhammadu Buhari</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MOON_NAME">
+			<Text>Moon Jae-in</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_KIM_NAME">
+			<Text>Kim Jong-un</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_NETANYAHU_NAME">
+			<Text>Benjamin Netanyahu</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_GENTILONI_NAME">
+			<Text>Paolo Gentiloni</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_AMLO_NAME">
+			<Text>Andrés Manuel López Obrador</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_BOLSONARO_NAME">
+			<Text>Jair Bolsonaro</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_FERNANDEZ_NAME">
+			<Text>Alberto Fernández</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_JOHNSON_NAME">
+			<Text>Boris Johnson</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_CONTE_NAME">
+			<Text>Giuseppe Conte</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_RAMAPHOSA_NAME">
+			<Text>Cyril Ramaphosa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_KHAN_NAME">
+			<Text>Imran Khan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_LEADER_MORRISON_NAME">
+			<Text>Scott Morrison</Text>
+		</Row>
+		<!-- Leader Traits -->
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TRUMP_NAME">
+			<Text>Made in America</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TRUMP_DESCRIPTION">
+			<Text>Receive +2 [ICON_Gold] Gold, +1 [ICON_Food] Food, and +1 [ICON_Production] Production for [ICON_TradeRoute] Trade Routes between your own cities. Factories receive +2 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_XI_NAME">
+			<Text>Chinese Dream</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_XI_DESCRIPTION">
+			<Text>Spend Builder charges to complete 15% of the original district cost. Builders receive an additional charge.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_PUTIN_NAME">
+			<Text>United Russia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_PUTIN_DESCRIPTION">
+			<Text>+7 [ICON_Strength] Combat Strength when attacking city-states. Builds spies twice as fast. Receives capacity to build an extra Spy with the Class Struggle civic.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MODI_NAME">
+			<Text>Reform and Rule</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MODI_DESCRIPTION">
+			<Text>Additional Economic policy slot. Sewers provide an additional +2 [ICON_Housing] Housing.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ABE_NAME">
+			<Text>Toward a Beautiful Country</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ABE_DESCRIPTION">
+			<Text>One Military policy slot in current government is converted to a Wildcard policy slot. Builds Commercial, Campus, and Industrial Zone districts in half the time.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MERKEL_NAME">
+			<Text>Working for Union</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MERKEL_DESCRIPTION">
+			<Text>Additional Diplomatic policy slot with the Political Philosophy civic.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MAY_NAME">
+			<Text>Strong and Stable</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MAY_DESCRIPTION">
+			<Text>All Spies start with the Seduction promotion (better counterspy). Your [ICON_TradeRoute] Trade Routes to other Civilizations provide +4 [ICON_Gold] Gold to England.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MACRON_NAME">
+			<Text>En Marche!</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MACRON_DESCRIPTION">
+			<Text>Stock Exchanges receive +2 [ICON_Gold] Gold, Research Labs receive +2 [ICON_Science] Science, and Power Plants receive +2 [ICON_Production] Production</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TEMER_NAME">
+			<Text>Financial Incentives</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TEMER_DESCRIPTION">
+			<Text>+1 [ICON_Gold] Gold from Rainforest. Oil Wells and Offshore Oil Rigs yield +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SALMAN_NAME">
+			<Text>Kingdom of Oil and Sand</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SALMAN_DESCRIPTION">
+			<Text>Accumulute 3 extra Oil per turn per improved resource. Oil Wells and Offshore Oil Rigs yield +2 [ICON_Gold] Gold. Oasis tiles produce +3 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SISI_NAME">
+			<Text>Military Governance</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_SISI_DESCRIPTION">
+			<Text>+1 [ICON_Production] Production for Barracks, Stable, Armory, and Military Academy. Military Engineers have four additional charges.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TRUDEAU_NAME">
+			<Text>Real Change Now</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TRUDEAU_DESCRIPTION">
+			<Text>Receive two random Inspirations whenever you enter a new era.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TURNBULL_NAME">
+			<Text>Global Partner</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_TURNBULL_DESCRIPTION">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other Civilizations provide +4 [ICON_Gold] Gold to Australia. Mines on resources provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_PENA_NIETO_NAME">
+			<Text>Special Economic Zones</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_PENA_NIETO_DESCRIPTION">
+			<Text>Builds Commercial, Harbor, and Industrial Zone districts in half the time. Oil Wells and Offshore Oil Rigs yield +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_WIDODO_NAME">
+			<Text>Maritime Axis Doctrine</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_WIDODO_DESCRIPTION">
+			<Text>+2 [ICON_Gold] Gold from Fishing Boats. Double experience for naval units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ERDOGAN_NAME">
+			<Text>Centralization of Power</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ERDOGAN_DESCRIPTION">
+			<Text>For every era you advance beyond the Ancient Era, your capital city receives +2 [ICON_Gold] Gold, +2 [ICON_Production] Production, +2 [ICON_Science] Science, and +2 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MACRI_NAME">
+			<Text>A New Direction</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MACRI_DESCRIPTION">
+			<Text>Additional Economic policy slot. Your [ICON_TradeRoute] Trade Routes to other Civilizations provide +2 [ICON_Gold] Gold to Argentina.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ROUHANI_NAME">
+			<Text>Shia Crescent</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ROUHANI_DESCRIPTION">
+			<Text>+5% [ICON_Faith] Faith per City-State you are a Suzerain of. Each envoy sent to a city-state of Iran's majority Religion counts as two Envoys.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ABBASI_NAME">
+			<Text>Shadow of Power</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ABBASI_DESCRIPTION">
+			<Text>Power Plants provide +1 [ICON_Production] Production. Your [ICON_TradeRoute] Trade Routes to other Civilizations provide +2 [ICON_Gold] Gold to Pakistan.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ZUMA_NAME">
+			<Text>Persistent</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_ZUMA_DESCRIPTION">
+			<Text>Suffer half the normal war weariness. Gain +2% [ICON_Gold] Gold for each Great Person your Civilization has ever earned.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_BUHARI_NAME">
+			<Text>Military Legacy</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_BUHARI_DESCRIPTION">
+			<Text>No penalties to yields in occupied cities. Pay half the usual cost to levy city state units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MOON_NAME">
+			<Text>Peacemaker</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MOON_DESCRIPTION">
+			<Text>Cities earn +10% [ICON_Culture] Culture when your civilization is at peace.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KIM_NAME">
+			<Text>Songun</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KIM_DESCRIPTION">
+			<Text>Cities do not incur war weariness. +2 Movement for the first 10 turns after declaring a surprise war.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_NETANYAHU_NAME">
+			<Text>Special Forces</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_NETANYAHU_DESCRIPTION">
+			<Text>Spy level is increased by 1 for offensive operations. Spy operations take 25% less time. Spec Ops units earn experience twice as fast.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENTILONI_NAME">
+			<Text>Career Minister</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_GENTILONI_DESCRIPTION">
+			<Text>One Military and one economic policy slot in current government are converted to Wildcard policy slots.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_AMLO_NAME">
+			<Text>National Regeneration</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_AMLO_DESCRIPTION">
+			<Text>All Cities gain +2 [ICON_Amenities] Amenities but -4 [ICON_Gold] Gold. Receive +4 [ICON_Gold] Gold for [ICON_TradeRoute] Trade Routes between your own cities. Build Campus districts in half the time.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_BOLSONARO_NAME">
+			<Text>Brazil Above Everything</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_BOLSONARO_DESCRIPTION">
+			<Text>Receive one additional Military policy slot. +50% yields from plot harvests and feature removals.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_FERNANDEZ_NAME">
+			<Text>Domestic Development</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_FERNANDEZ_DESCRIPTION">
+			<Text>Cities with an established Governor recieve +5% [ICON_Gold] Gold and +5% [ICON_Production] Production for each promotion that Governor has.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_JOHNSON_NAME">
+			<Text>Get It Done</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_JOHNSON_DESCRIPTION">
+			<Text>+100% Alliance Points from trading with Allies. Grievances against this leader decay at twice the usual rate.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_CONTE_NAME">
+			<Text>Lawyer of the People</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_CONTE_DESCRIPTION">
+			<Text>All Cities gain +2 Loyalty per turn. +50% [ICON_Production] Production towards Government district and buildings.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_RAMAPHOSA_NAME">
+			<Text>New Dawn</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_RAMAPHOSA_DESCRIPTION">
+			<Text>All Cities gain +2 [ICON_Production] Production but -4 [ICON_Gold] Gold. Building a Farm triggers a Culture Bomb, claiming surrounding tiles.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KHAN_NAME">
+			<Text>Respect and Reform</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_KHAN_DESCRIPTION">
+			<Text>Holy Sites provide +2 [ICON_Amenities] Amenities. One Military and one Economic policy slot in current government are converted to Wildcard policy slots.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MORRISON_NAME">
+			<Text>Resourceful</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_LEADER_MORRISON_DESCRIPTION">
+			<Text>Coal mines accumulate 2 more resources per turn. Iron, aluminum, and uranium mines accumulate 1 more resources per turn. Your trade routes to other Civilizations provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<!-- Civilizations -->
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_COMMONWEALTH_AUSTRALIA_NAME">
+			<Text>Australia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_COMMONWEALTH_AUSTRALIA_DESCRIPTION">
+			<Text>Commonwealth of Australia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_COMMONWEALTH_AUSTRALIA_ADJECTIVE">
+			<Text>Australian</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_NAME">
+			<Text>Mexico</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_DESCRIPTION">
+			<Text>United Mexican States</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_MEXICO_ADJECTIVE">
+			<Text>Mexican</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_REPUBLIC_INDONESIA_NAME">
+			<Text>Indonesia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_REPUBLIC_INDONESIA_DESCRIPTION">
+			<Text>Republic of Indonesia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_REPUBLIC_INDONESIA_ADJECTIVE">
+			<Text>Indonesian</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_TURKEY_NAME">
+			<Text>Turkey</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_TURKEY_DESCRIPTION">
+			<Text>Republic of Turkey</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_TURKEY_ADJECTIVE">
+			<Text>Turkish</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ARGENTINA_NAME">
+			<Text>Argentina</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ARGENTINA_DESCRIPTION">
+			<Text>Argentine Republic</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ARGENTINA_ADJECTIVE">
+			<Text>Argentine</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_IRAN_NAME">
+			<Text>Iran</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_IRAN_DESCRIPTION">
+			<Text>Islamic Republic of Iran</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_IRAN_ADJECTIVE">
+			<Text>Iranian</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_PAKISTAN_NAME">
+			<Text>Pakistan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_PAKISTAN_DESCRIPTION">
+			<Text>Islamic Republic of Pakistan</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_PAKISTAN_ADJECTIVE">
+			<Text>Pakistani</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_SOUTH_AFRICA_NAME">
+			<Text>South Africa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_SOUTH_AFRICA_DESCRIPTION">
+			<Text>Republic of South Africa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_SOUTH_AFRICA_ADJECTIVE">
+			<Text>South African</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_NIGERIA_NAME">
+			<Text>Nigeria</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_NIGERIA_DESCRIPTION">
+			<Text>Federal Republic of Nigeria</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_NIGERIA_ADJECTIVE">
+			<Text>Nigerian</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_SOUTH_KOREA_NAME">
+			<Text>South Korea</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_SOUTH_KOREA_DESCRIPTION">
+			<Text>Republic of Korea</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_SOUTH_KOREA_ADJECTIVE">
+			<Text>South Korean</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_NORTH_KOREA_NAME">
+			<Text>North Korea</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_NORTH_KOREA_DESCRIPTION">
+			<Text>Democratic People's Republic of Korea</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_NORTH_KOREA_ADJECTIVE">
+			<Text>North Korean</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ISRAEL_NAME">
+			<Text>Israel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ISRAEL_DESCRIPTION">
+			<Text>State of Israel</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ISRAEL_ADJECTIVE">
+			<Text>Israeli</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ITALY_NAME">
+			<Text>Italy</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ITALY_DESCRIPTION">
+			<Text>Italian Republic</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_CIVILIZATION_ITALY_ADJECTIVE">
+			<Text>Italian</Text>
+		</Row>
+		<!-- Civilization Traits -->
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_COMMONWEALTH_AUSTRALIA_NAME">
+			<Text>Land Down Under</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_COMMONWEALTH_AUSTRALIA_DESCRIPTION">
+			<Text>+3 [ICON_Housing] Housing in coastal cities. Yields from Campuses, Commercial Hubs, Holy Sites and Theater Squares are +1 in tiles with Charming Appeal, +3 in Breathtaking.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MEXICO_NAME">
+			<Text>Vistas and Visionaries</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_MEXICO_DESCRIPTION">
+			<Text>Tourism from Seaside Resorts doubled. +1 [ICON_Culture] Culture from Relics, Artifacts, and Great Works.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_REPUBLIC_INDONESIA_NAME">
+			<Text>Archipelago Nation</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_REPUBLIC_INDONESIA_DESCRIPTION">
+			<Text>Coastal tiles provide +1 [ICON_Food] Food. Builds Harbor districts in one-fifth the time.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TURKEY_NAME">
+			<Text>Atatürk's Legacy</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_TURKEY_DESCRIPTION">
+			<Text>Units in friendly territory receive +5 combat bonus. +1 [ICON_Amenities] Amenity for cities with a garrisoned unit.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ARGENTINA_NAME">
+			<Text>Breadbasket of the South</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ARGENTINA_DESCRIPTION">
+			<Text>Bonus resources provide +4 [ICON_Food] Food when improved with a Farm, Pasture, or Plantation.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IRAN_NAME">
+			<Text>Reign of the Ayatollahs</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_IRAN_DESCRIPTION">
+			<Text>Holy Sites produce +4 [ICON_Faith] Faith. Holy Site and Campus district buildings can be bought with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PAKISTAN_NAME">
+			<Text>Faith, Unity, Discipline</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_PAKISTAN_DESCRIPTION">
+			<Text>Bonus [ICON_Faith] Faith equivalent to 50% strength of each enemy unit killed. All units move faster in hills. Melee, Ranged, and Anti-Cavalry class units have +5 [ICON_Strength] Combat Strength in Hills.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_AFRICA_NAME">
+			<Text>Unity in Diversity</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_AFRICA_DESCRIPTION">
+			<Text>Cities receive +1 [ICON_Housing] Housing for every 2 Specialty Districts constructed and +1 [ICON_Amenities] Amenity for every 3 Specialty Districts constructed.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NIGERIA_NAME">
+			<Text>Giant of Africa</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NIGERIA_DESCRIPTION">
+			<Text>Trade Routes to other civilizations provide +4 [ICON_Food] Food. Commercial Hub districts produce +2 [ICON_Gold] Gold. Oil Wells and Offshore Oil Rigs yield +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_KOREA_NAME">
+			<Text>Tiger Economy</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_SOUTH_KOREA_DESCRIPTION">
+			<Text>Your Campus districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NORTH_KOREA_NAME">
+			<Text>Glorious People's Army</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_NORTH_KOREA_DESCRIPTION">
+			<Text>Receive a second melee unit each time you train a melee unit. All units outside friendly territory receive -5 combat strength penalty</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ISRAEL_NAME">
+			<Text>Warriors of Zion</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ISRAEL_DESCRIPTION">
+			<Text>Units in friendly territory receive +5 combat bonus. Melee and Ranged class units gain +50% experience from combat.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITALY_NAME">
+			<Text>Ancient Legacy</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_TRAIT_CIVILIZATION_ITALY_DESCRIPTION">
+			<Text>Wonders provide an additional +2 [ICON_Culture] Culture. Wonder tourism doubled.</Text>
+		</Row>
+		<!-- Buildings -->
+		<Row Language="en_US" Tag="LOC_BUILDING_HOCKEY_STADIUM_NAME">
+			<Text>Hockey Stadium</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_HOCKEY_STADIUM_DESCRIPTION">
+			<Text>A building unique to Canada. Provides double the Amenities of a normal Stadium. Bonus extends to each city center within 6 tiles.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_FLYING_DOCTOR_NAME">
+			<Text>Royal Flying Doctor</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_FLYING_DOCTOR_DESCRIPTION">
+			<Text>A building unique to Australia. Provides +1 [ICON_Amenities] Amenity and +2 [ICON_Housing] Housing, in addition to the regular benefits of the Hangar, which it replaces.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_FABRICA_NAME">
+			<Text>Fábrica</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_FABRICA_DESCRIPTION">
+			<Text>A building unique to Mexico. Its [ICON_Production] Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type. Half the maintenance and half the construction cost of a normal Factory.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_PINISI_SHIPYARD_NAME">
+			<Text>Pinisi Shipyard</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_PINISI_SHIPYARD_DESCRIPTION">
+			<Text>A building unique to Indonesia. Provides a +1 [ICON_TradeRoute] Trade Route capacity, in addition to the regular benefits of the Shipyard, which it replaces.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_OKUL_NAME">
+			<Text>Okul</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_OKUL_DESCRIPTION">
+			<Text>A building unique to Turkey. +1 [ICON_Science] Science in addition to the regular benefits of the Library, which it replaces.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_REVOLUTIONARY_GUARDS_BARRACKS_NAME">
+			<Text>Revolutionary Guards Barracks</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_REVOLUTIONARY_GUARDS_BARRACKS_DESCRIPTION">
+			<Text>A building unique to Iran. Provides double the experience and Great General points of the Barracks, which it replaces.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_TEXTILE_FACTORY_NAME">
+			<Text>Textile Factory</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_TEXTILE_FACTORY_DESCRIPTION">
+			<Text>A building unique to Pakistan. Its [ICON_Production] Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type. +1 [ICON_Production] Production for each Sheep, Cotton, and Silk resource worked by the City in which it is built.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_HITECH_CORPORATION_NAME">
+			<Text>Hi-Tech Corporation</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_HITECH_CORPORATION_DESCRIPTION">
+			<Text>A building unique to South Korea. Provides double the Great Merchant points of the Stock Exchange, which it replaces. After researching the Electricity technology, provides an additional +5 [ICON_Science] Science.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_PROPAGANDA_BROADCASTER_NAME">
+			<Text>Propaganda Broadcaster</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_PROPAGANDA_BROADCASTER_DESCRIPTION">
+			<Text>A building unique to North Korea. Provides +4 Loyalty per Turn, but less Culture than the Broadcast Center, which it replaces.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_LUXURY_FACTORY_NAME">
+			<Text>Luxury Factory</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_BUILDING_LUXURY_FACTORY_DESCRIPTION">
+			<Text>A building unique to Italy. Its [ICON_Production] Production bonus is extended to all City Centers within 6 tiles that do not already have a bonus from this building type. +2 [ICON_Gold] Gold for each Luxury resource worked by the City in which it is built. Double the Great Engineer points of a normal Factory.</Text>
+		</Row>
+		<!-- Improvements -->
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ESTANCIA_NAME">
+			<Text>Estancia</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_ESTANCIA_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct an Estancia, unique to Argentina.[NEWLINE][NEWLINE]+1 [ICON_Food] Food and +1 [ICON_Housing] Housing. +4 [ICON_Gold] Gold if adjacent to a Pasture. Cannot be built adjacent to another Estancia or on Desert, Tundra, or Snow.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_DEEP_MINE_NAME">
+			<Text>Deep Mine</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_DEEP_MINE_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Deep Mine, unique to South Africa.[NEWLINE][NEWLINE]+4 [ICON_Production] Production and +4 [ICON_Gold] Gold. Can only be built on Coal, Silver, Diamonds, and Uranium.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_NATURE_RESERVE_NAME">
+			<Text>Nature Reserve</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_NATURE_RESERVE_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Nature Reserve, unique to South Africa.[NEWLINE][NEWLINE]+1 [ICON_Gold] Gold and +1 [ICON_Culture] Culture. Additional +1 [ICON_Culture] Culture if adjacent to rainforest, river, camp, or pasture (bonus cumulative). Can only be built on Grassland and Plains.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_KIBBUTZ_NAME">
+			<Text>Kibbutz</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_IMPROVEMENT_KIBBUTZ_DESCRIPTION">
+			<Text>Unlocks the Builder ability to construct a Kibbutz, unique to Israel.[NEWLINE][NEWLINE]+2 [ICON_Food] Food, +1 [ICON_Production] Production, and +1 [ICON_Housing] Housing. Gains an additional +1 [ICON_Food] Food with the Conservation civic and +1 [ICON_Production] Production with the Class Struggle Civic. Cannot be built adjacent to another Kibbutz or on Desert, Tundra, or Snow.</Text>
+		</Row>
+		<!-- Districts -->
+		<Row Language="en_US" Tag="LOC_DISTRICT_LOCAL_GOVERNMENT_AREA_NAME">
+			<Text>Local Government Area</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_DISTRICT_LOCAL_GOVERNMENT_AREA_DESCRIPTION">
+			<Text>A district unique to Nigeria. Replaces the Neighborhood district.[NEWLINE]Provides housing based on the Appeal of the tile:[NEWLINE]Breathtaking: +8 [ICON_Housing] Housing.[NEWLINE]Charming: +7 [ICON_Housing] Housing.[NEWLINE]Average: +6 [ICON_Housing] Housing.[NEWLINE]Uninviting: +5 [ICON_Housing] Housing.[NEWLINE]Disgusting: +4 [ICON_Housing] Housing.</Text>
+		</Row>
+		<!-- Units -->
+		<Row Language="en_US" Tag="LOC_UNIT_LEOPARD2_NAME">
+			<Text>Leopard 2</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_LEOPARD2_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Stronger than the Modern Armor.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_M1ABRAMS_NAME">
+			<Text>M1 Abrams</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_M1ABRAMS_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Stronger than the Modern Armor, and has a bonus defense against city attacks.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_T90_NAME">
+			<Text>T-90</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_T90_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Has higher movement than the Modern Armor, and is cheaper to build.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TYPE99_NAME">
+			<Text>Type 99</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TYPE99_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Has higher movement than the Modern Armor.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TYPE90_JAPAN_NAME">
+			<Text>Type 90</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TYPE90_JAPAN_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Has a bonus when fighting on Hills.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_CHALLENGER2_NAME">
+			<Text>Challenger 2</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_CHALLENGER2_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Stronger than the Modern Armor.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_LECLERC_NAME">
+			<Text>Leclerc</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_LECLERC_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Stronger than the Modern Armor.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TAM_NAME">
+			<Text>TAM</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TAM_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Cheaper to build and maintain.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KARRAR_NAME">
+			<Text>Karrar</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KARRAR_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Has higher movement than the Modern Armor.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_K2_BLACK_PANTHER_NAME">
+			<Text>K2 Black Panther</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_K2_BLACK_PANTHER_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Stronger than the Modern Armor.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_MERKAVA_NAME">
+			<Text>Merkava</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_MERKAVA_DESCRIPTION">
+			<Text>Unique unit that replaces the Modern Armor. Stronger than the Modern Armor, and has a bonus defense against anti-cavalry units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_MIL_MI_24_NAME">
+			<Text>Mil Mi-24</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_MIL_MI_24_DESCRIPTION">
+			<Text>Unique unit that replaces the Helicopter. Has an attack bonus against armor units, and has an adjacency bonus when next to infantry units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_AH_64_APACHE_NAME">
+			<Text>AH-64 Apache</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_AH_64_APACHE_DESCRIPTION">
+			<Text>Unique unit that replaces the Helicopter. Stronger than the Helicopter, and has an attack bonus against armor units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_Z_10_NAME">
+			<Text>Z-10</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_Z_10_DESCRIPTION">
+			<Text>Unique unit that replaces the Helicopter. Slightly stronger than the Helicopter, has greater range, and has an attack bonus against armor units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TIGER_NAME">
+			<Text>Tiger</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TIGER_DESCRIPTION">
+			<Text>Unique unit that replaces the Helicopter. Stronger than the Helicopter, has greater range, and has an attack bonus against armor units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ROOIVALK_NAME">
+			<Text>Rooivalk</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ROOIVALK_DESCRIPTION">
+			<Text>Unique unit that replaces the Helicopter. Has greater range than the Helicopter, and has an attack bonus against armor units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_A129_MANGUSTA_NAME">
+			<Text>A129 Mangusta</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_A129_MANGUSTA_DESCRIPTION">
+			<Text>Unique unit that replaces the Helicopter. Has an attack bonus against armor units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_F35_LIGHTNING_II_NAME">
+			<Text>F-35 Lightning II</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_F35_LIGHTNING_II_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Fighter. Stronger than the Jet Fighter, and has Stealth capabilities that give it an additional +10 [ICON_Strength] Combat Strength against Fighter and Anti-Air units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_CHENGDU_J20_NAME">
+			<Text>Chengdu J-20</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_CHENGDU_J20_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Fighter. Stronger and with greater range than the Jet Fighter, and has Stealth capabilities that give it an additional +10 [ICON_Strength] Combat Strength against Fighter and Anti-Air units.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SUKHOI_SU35_NAME">
+			<Text>Sukhoi Su-35</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SUKHOI_SU35_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Fighter. Stronger and with greater range than the Jet Fighter.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_EUROFIGHTER_TYPHOON_NAME">
+			<Text>Typhoon</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_EUROFIGHTER_TYPHOON_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Fighter. Stronger than the Jet Fighter.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DASSAULT_RAFALE_NAME">
+			<Text>Rafale</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DASSAULT_RAFALE_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Fighter. Stronger than the Jet Fighter.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_B2_SPIRIT_NAME">
+			<Text>B-2 Spirit</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_B2_SPIRIT_DESCRIPTION">
+			<Text>Unique bomber unit that has Stealth capabilities that give it an additional +20 [ICON_Strength] Combat Strength when defending against Fighter and Anti-Air units .</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_B52_STRATOFORTRESS_NAME">
+			<Text>B-52 Stratofortress</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_B52_STRATOFORTRESS_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Bomber. Stronger and has greater range than the Jet Bomber.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_XIAN_H6_NAME">
+			<Text>Xian H-6</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_XIAN_H6_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Bomber. Stronger than the Jet Bomber.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TUPOLEV_TU95_NAME">
+			<Text>Tupolev Tu-95</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TUPOLEV_TU95_DESCRIPTION">
+			<Text>Unique unit that replaces the Jet Bomber. Stronger and has greater range than the Jet Bomber.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ARLEIGH_BURKE_CLASS_NAME">
+			<Text>Arleigh Burke Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ARLEIGH_BURKE_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TYPE_055_CLASS_NAME">
+			<Text>Type 055 Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_TYPE_055_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KIROV_CLASS_NAME">
+			<Text>Kirov Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KIROV_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KOLKATA_CLASS_NAME">
+			<Text>Kolkata Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KOLKATA_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ATAGO_CLASS_NAME">
+			<Text>Atago Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ATAGO_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DARING_CLASS_NAME">
+			<Text>Daring Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DARING_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_HORIZON_CLASS_NAME">
+			<Text>Horizon Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_HORIZON_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SEJONG_CLASS_NAME">
+			<Text>Sejong Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SEJONG_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Missile Cruiser. Stronger than the Missile Cruiser.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_VIRGINIA_CLASS_NAME">
+			<Text>Virginia Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_VIRGINIA_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SHANG_CLASS_NAME">
+			<Text>Shang Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SHANG_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_AKULA_CLASS_NAME">
+			<Text>Akula Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_AKULA_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ARIHANT_CLASS_NAME">
+			<Text>Arihant Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ARIHANT_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ASTUTE_CLASS_NAME">
+			<Text>Astute Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ASTUTE_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_AMETHYSTE_CLASS_NAME">
+			<Text>Amethyste Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_AMETHYSTE_CLASS_DESCRIPTION">
+			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
+		</Row>
+		<Replace Language="en_US" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
+			<Text>Atomic era melee naval unit that can transport air units.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+		</Replace>
+		<Row Language="en_US" Tag="LOC_UNIT_FORD_CARRIER_NAME">
+			<Text>Ford Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_FORD_CARRIER_DESCRIPTION">
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger and has more movement than the Aircraft Carrier. Can carry 4 fighters instead of the usual 2. Uses Uranium instead of Oil for fuel.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SHANDONG_CARRIER_NAME">
+			<Text>Shandong Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_SHANDONG_CARRIER_DESCRIPTION">
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KUZNETSOV_CARRIER_NAME">
+			<Text>Kuznetsov Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_KUZNETSOV_CARRIER_DESCRIPTION">
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ELIZABETH_CARRIER_NAME">
+			<Text>Queen Elizabeth Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_ELIZABETH_CARRIER_DESCRIPTION">
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DEGAULLE_CARRIER_NAME">
+			<Text>Charles de Gaulle Class</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DEGAULLE_CARRIER_DESCRIPTION">
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger and has more movement than the Aircraft Carrier. Uses Uranium instead of Oil for fuel.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DNC1_NAME">
+			<Text>DNC-1</Text>
+		</Row>
+		<Row Language="en_US" Tag="LOC_UNIT_DNC1_DESCRIPTION">
+			<Text>Unique unit that replaces the Mechanized Infantry. Cheaper to build and maintain.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>
