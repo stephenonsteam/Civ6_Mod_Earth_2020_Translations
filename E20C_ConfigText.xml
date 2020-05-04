@@ -834,38 +834,35 @@
 		<Row Language="en_US" Tag="LOC_UNIT_AMETHYSTE_CLASS_DESCRIPTION">
 			<Text>Unique unit that replaces the Nuclear Submarine. Stronger than the Nuclear Submarine.</Text>
 		</Row>
-		<Replace Language="en_US" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
-			<Text>Atomic era melee naval unit that can transport air units.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
-		</Replace>
 		<Row Language="en_US" Tag="LOC_UNIT_FORD_CARRIER_NAME">
 			<Text>Ford Class</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_FORD_CARRIER_DESCRIPTION">
-			<Text>Unique unit that replaces the Aircraft Carrier. Stronger and has more movement than the Aircraft Carrier. Can carry 4 fighters instead of the usual 2. Uses Uranium instead of Oil for fuel.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger and has more movement than the Aircraft Carrier. Can carry 4 fighters instead of the usual 2.</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_SHANDONG_CARRIER_NAME">
 			<Text>Shandong Class</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_SHANDONG_CARRIER_DESCRIPTION">
-			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_KUZNETSOV_CARRIER_NAME">
 			<Text>Kuznetsov Class</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_KUZNETSOV_CARRIER_DESCRIPTION">
-			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_ELIZABETH_CARRIER_NAME">
 			<Text>Queen Elizabeth Class</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_ELIZABETH_CARRIER_DESCRIPTION">
-			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger than the Aircraft Carrier.</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_DEGAULLE_CARRIER_NAME">
 			<Text>Charles de Gaulle Class</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_DEGAULLE_CARRIER_DESCRIPTION">
-			<Text>Unique unit that replaces the Aircraft Carrier. Stronger and has more movement than the Aircraft Carrier. Uses Uranium instead of Oil for fuel.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
+			<Text>Unique unit that replaces the Aircraft Carrier. Stronger and has more movement than the Aircraft Carrier.</Text>
 		</Row>
 		<Row Language="en_US" Tag="LOC_UNIT_DNC1_NAME">
 			<Text>DNC-1</Text>
