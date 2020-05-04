@@ -834,41 +834,35 @@
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_AMETHYSTE_CLASS_DESCRIPTION">
 			<Text>法国特色海军袭击单位，替代核潜艇，具有较强的远程攻击力。</Text>
 		</Row>
-		<Replace Language="en_US" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
-			<Text>Atomic era melee naval unit that can transport air units.[NEWLINE][NEWLINE]Earns a slow trickle of passive XP when carrying aircraft at sea when your Civilization is at war.</Text>
-		</Replace>
-		<Replace Language="zh_Hans_CN" Tag="LOC_UNIT_AIRCRAFT_CARRIER_DESCRIPTION">
-			<Text>原子时代的海军近战单位，可运输空中单位。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
-		</Replace>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_FORD_CARRIER_NAME">
 			<Text>福特级航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_FORD_CARRIER_DESCRIPTION">
-			<Text>美国特色海军运载单位，替代航空母舰，具有极强的战斗力和更高的移动力。可以搭载4架飞机（普通航空母舰只能搭载2架），以铀而不是石油作为燃料【译注：所以维护费更高？但并不耗铀……】。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>美国特色海军运载单位，替代航空母舰，具有极强的战斗力和更高的移动力。可以搭载4架飞机（普通航空母舰只能搭载2架）</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANDONG_CARRIER_NAME">
 			<Text>山东级航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANDONG_CARRIER_DESCRIPTION">
-			<Text>中国特色海军运载单位，替代航空母舰，具有较强的战斗力。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>中国特色海军运载单位，替代航空母舰，具有较强的战斗力。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KUZNETSOV_CARRIER_NAME">
 			<Text>1143.5型航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_KUZNETSOV_CARRIER_DESCRIPTION">
-			<Text>俄罗斯特色海军运载单位，替代航空母舰，具有更强的战斗力。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>俄罗斯特色海军运载单位，替代航空母舰，具有更强的战斗力。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ELIZABETH_CARRIER_NAME">
 			<Text>伊丽莎白女王级航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_ELIZABETH_CARRIER_DESCRIPTION">
-			<Text>英国特色海军运载单位，替代航空母舰，具有较强的战斗力。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>英国特色海军运载单位，替代航空母舰，具有较强的战斗力。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DEGAULLE_CARRIER_NAME">
 			<Text>戴高乐级航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DEGAULLE_CARRIER_DESCRIPTION">
-			<Text>法国特色海军运载单位，替代航空母舰，具有较强的战斗力和更高的移动力，以铀而不是石油作为燃料【译注：但维护费却一样？但依然不耗铀……】。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>法国特色海军运载单位，替代航空母舰，具有较强的战斗力和更高的移动力</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DNC1_NAME">
 			<Text>DNC-1装甲车</Text>
