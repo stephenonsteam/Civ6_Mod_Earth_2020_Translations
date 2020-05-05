@@ -163,7 +163,7 @@
 			<Text>油与沙的国度</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SALMAN_DESCRIPTION">
-			<Text>【Unsure】每个加成资源每回合额外产出3点石油。油井与海上石油钻机+2[ICON_Gold]金币。绿洲单元格+3[ICON_Gold]金币。</Text>
+			<Text>每个被开发的石油资源每回合额外产出3点石油。油井与海上石油钻机+2[ICON_Gold]金币。绿洲单元格+3[ICON_Gold]金币。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_SISI_NAME">
 			<Text>军事化治理</Text>
@@ -223,7 +223,7 @@
 			<Text>持久</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ZUMA_DESCRIPTION">
-			<Text>积累厌战情绪减半。【Unsure】您的文明每招募一个伟人，+2%[ICON_Gold]金币。</Text>
+			<Text>积累厌战情绪减半。您文明招募的每个伟人使您获得+2%[ICON_Gold]回合金币。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_BUHARI_NAME">
 			<Text>军事遗产</Text>
@@ -844,7 +844,7 @@
 			<Text>福特级航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_FORD_CARRIER_DESCRIPTION">
-			<Text>美国特色海军运载单位，替代航空母舰，具有极强的战斗力和更高的移动力。可以搭载4架飞机（普通航空母舰只能搭载2架），以铀而不是石油作为燃料【译注：所以维护费更高？但并不耗铀……】。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>美国特色海军运载单位，替代航空母舰，具有极强的战斗力和更高的移动力（以及更高的维护费）。可以搭载4架飞机（普通航空母舰只能搭载2架）。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_SHANDONG_CARRIER_NAME">
 			<Text>山东级航空母舰</Text>
@@ -868,7 +868,7 @@
 			<Text>戴高乐级航空母舰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DEGAULLE_CARRIER_DESCRIPTION">
-			<Text>法国特色海军运载单位，替代航空母舰，具有较强的战斗力和更高的移动力，以铀而不是石油作为燃料【译注：但维护费却一样？但依然不耗铀……】。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
+			<Text>法国特色海军运载单位，替代航空母舰，具有较强的战斗力和更高的移动力。[NEWLINE][NEWLINE]当您的文明处于战争状态时，如果其在海上且搭载了空中单位，则会缓慢地被动获得经验值。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_UNIT_DNC1_NAME">
 			<Text>DNC-1装甲车</Text>
