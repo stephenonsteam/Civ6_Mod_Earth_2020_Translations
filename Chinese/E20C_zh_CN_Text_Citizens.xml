@@ -1,0 +1,1581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_zh_CN_Text_Citizens -->
+<!-- Author: Stephen -->
+<GameData>
+	<LocalizedText>
+		<!-- Citizen Names -->
+		<!-- Australia -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_1">
+			<Text>阿纳贾里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_2">
+			<Text>科尔比</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_3">
+			<Text>贾卢</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_4">
+			<Text>古鲁马拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_5">
+			<Text>贾里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_6">
+			<Text>曼达维</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_7">
+			<Text>鸟羽</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_8">
+			<Text>亚兰</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_9">
+			<Text>沃林</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MALE_10">
+			<Text>瓦库</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_1">
+			<Text>宾迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_2">
+			<Text>卡林达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_3">
+			<Text>基拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_4">
+			<Text>艾琳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_5">
+			<Text>吉达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_6">
+			<Text>莉娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_7">
+			<Text>马林达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_8">
+			<Text>巴拉拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_9">
+			<Text>塔塔利</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_FEMALE_10">
+			<Text>温吉亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_1">
+			<Text>詹姆士</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_2">
+			<Text>路加</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_3">
+			<Text>杰克逊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_4">
+			<Text>科迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_5">
+			<Text>米奇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_6">
+			<Text>米奇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_7">
+			<Text>雨果</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_8">
+			<Text>布伦登</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_9">
+			<Text>约旦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_MALE_10">
+			<Text>麦可</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_1">
+			<Text>妮可</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_2">
+			<Text>奥利维亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_3">
+			<Text>佐伊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_4">
+			<Text>冬青</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_5">
+			<Text>佩奇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_6">
+			<Text>凯瑟琳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_7">
+			<Text>路易莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_8">
+			<Text>米歇尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_9">
+			<Text>伊丽莎白</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_COMMONWEALTH_AUSTRALIA_MODERN_FEMALE_10">
+			<Text>艾丽西亚</Text>
+		</Row>
+		<!-- Mexico -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_1">
+			<Text>奥古斯丁</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_2">
+			<Text>瓜达卢佩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_3">
+			<Text>维森特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_4">
+			<Text>阿纳斯塔西奥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_5">
+			<Text>梅尔基奥尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_6">
+			<Text>曼努埃尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_7">
+			<Text>情人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_8">
+			<Text>安东尼奥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_9">
+			<Text>麦可</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MALE_10">
+			<Text>约瑟夫</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_1">
+			<Text>安娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_2">
+			<Text>玛莉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_3">
+			<Text>华金娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_4">
+			<Text>伊莎贝尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_5">
+			<Text>艾格尼丝</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_6">
+			<Text>曼努埃拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_7">
+			<Text>庇护所</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_8">
+			<Text>约瑟法</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_9">
+			<Text>瓜达卢佩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_FEMALE_10">
+			<Text>黛西</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_1">
+			<Text>何塞·路易斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_2">
+			<Text>约翰</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_3">
+			<Text>麦可</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_4">
+			<Text>约瑟夫</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_5">
+			<Text>弗朗西斯科</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_6">
+			<Text>耶稣</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_7">
+			<Text>安东尼奥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_8">
+			<Text>亚力山大</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_9">
+			<Text>佩德罗</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_MALE_10">
+			<Text>曼努埃尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_1">
+			<Text>玛莉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_2">
+			<Text>琼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_3">
+			<Text>黛西</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_4">
+			<Text>维罗妮卡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_5">
+			<Text>伊丽莎白</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_6">
+			<Text>亚历杭德拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_7">
+			<Text>莱蒂西亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_8">
+			<Text>加布里埃拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_9">
+			<Text>帕特里夏</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_MEXICO_MODERN_FEMALE_10">
+			<Text>约瑟菲娜</Text>
+		</Row>
+		<!-- Indonesia -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_1">
+			<Text>古鲁</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_2">
+			<Text>陶凡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_3">
+			<Text>巴渝</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_4">
+			<Text>班邦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_5">
+			<Text>雨友</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_6">
+			<Text>伊汉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_7">
+			<Text>塔雷克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_8">
+			<Text>苏林德罗</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_9">
+			<Text>哈桑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MALE_10">
+			<Text>苏西洛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_1">
+			<Text>梅加瓦蒂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_2">
+			<Text>拉赫玛瓦蒂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_3">
+			<Text>苏卡马卡蒂</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_4">
+			<Text>西提</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_5">
+			<Text>哈斯里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_6">
+			<Text>辛塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_7">
+			<Text>赞努巴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_8">
+			<Text>伊纳亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_9">
+			<Text>克里斯蒂安尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_FEMALE_10">
+			<Text>阿尔米拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_1">
+			<Text>比玛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_2">
+			<Text>布拉纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_3">
+			<Text>Eka</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_4">
+			<Text>哈塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_5">
+			<Text>梅果</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_6">
+			<Text>林巴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_7">
+			<Text>塞拉坦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_8">
+			<Text>索列</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_9">
+			<Text>塔曼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_MALE_10">
+			<Text>佑田</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_1">
+			<Text>贝塔里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_2">
+			<Text>布纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_3">
+			<Text>意象</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_4">
+			<Text>迪亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_5">
+			<Text>吉米</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_6">
+			<Text>美丽的</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_7">
+			<Text>基拉纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_8">
+			<Text>内特拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_9">
+			<Text>忠实的</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_REPUBLIC_INDONESIA_MODERN_FEMALE_10">
+			<Text>宇多利</Text>
+		</Row>
+		<!-- Turkey -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_1">
+			<Text>穆斯塔法</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_2">
+			<Text>伊斯梅特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_3">
+			<Text>塔拉巴尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_4">
+			<Text>贾马尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_5">
+			<Text>切夫代特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_6">
+			<Text>名誉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_7">
+			<Text>凯南</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_8">
+			<Text>图尔古特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_9">
+			<Text>苏莱曼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MALE_10">
+			<Text>艾哈迈德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_1">
+			<Text>拉蒂法</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_2">
+			<Text>梅夫希贝</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_3">
+			<Text>居住</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_4">
+			<Text>梅拉哈特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_5">
+			<Text>阿蒂菲特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_6">
+			<Text>埃梅尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_7">
+			<Text>塞金</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_8">
+			<Text>艾汉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_9">
+			<Text>纳兹米耶</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_FEMALE_10">
+			<Text>塞姆拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_1">
+			<Text>优素福</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_2">
+			<Text>培拉特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_3">
+			<Text>穆斯塔法</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_4">
+			<Text>厄默尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_5">
+			<Text>艾哈迈德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_6">
+			<Text>艾门</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_7">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_8">
+			<Text>上升</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_9">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_MALE_10">
+			<Text>埃米尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_1">
+			<Text>扎尼普</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_2">
+			<Text>艾利芙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_3">
+			<Text>希拉努尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_4">
+			<Text>雨</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_5">
+			<Text>苦艾酒</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_6">
+			<Text>泽拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_7">
+			<Text>阿兹拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_8">
+			<Text>奇迹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_9">
+			<Text>江</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_TURKEY_MODERN_FEMALE_10">
+			<Text>九月</Text>
+		</Row>
+		<!-- Argentina -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_1">
+			<Text>胡安</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_2">
+			<Text>约瑟</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_3">
+			<Text>巴托洛梅</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_4">
+			<Text>多明哥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_5">
+			<Text>尼古拉斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_6">
+			<Text>朱利奥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_7">
+			<Text>米格尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_8">
+			<Text>路易斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_9">
+			<Text>曼努埃尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MALE_10">
+			<Text>罗克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_1">
+			<Text>恩卡纳西翁</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_2">
+			<Text>世田田</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_3">
+			<Text>德尔菲娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_4">
+			<Text>贝尼塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_5">
+			<Text>卡门</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_6">
+			<Text>克拉拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_7">
+			<Text>伊丽莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_8">
+			<Text>西普里亚纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_9">
+			<Text>苏珊娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_FEMALE_10">
+			<Text>罗莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_1">
+			<Text>蒂亚戈</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_2">
+			<Text>圣地亚哥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_3">
+			<Text>本杰明</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_4">
+			<Text>劳太郎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_5">
+			<Text>华金</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_6">
+			<Text>华伦天奴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_7">
+			<Text>马蒂亚斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_8">
+			<Text>包蒂斯塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_9">
+			<Text>马泰奥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_MALE_10">
+			<Text>圣蒂诺</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_1">
+			<Text>苏菲亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_2">
+			<Text>米娅</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_3">
+			<Text>瓦伦蒂娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_4">
+			<Text>玛蒂娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_5">
+			<Text>卡米拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_6">
+			<Text>莫雷纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_7">
+			<Text>卡塔琳娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_8">
+			<Text>朱丽叶</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_9">
+			<Text>维多利亚州</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ARGENTINA_MODERN_FEMALE_10">
+			<Text>德尔菲娜</Text>
+		</Row>
+		<!-- Iran -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_1">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_2">
+			<Text>哈桑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_3">
+			<Text>梅迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_4">
+			<Text>马哈茂德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_5">
+			<Text>艾哈迈德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_6">
+			<Text>阿里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_7">
+			<Text>莫雷扎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_8">
+			<Text>易卜拉欣</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_9">
+			<Text>莫森</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MALE_10">
+			<Text>雷扎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_1">
+			<Text>埃斯玛特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_2">
+			<Text>奈洛尔莫克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_3">
+			<Text>马拉基</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_4">
+			<Text>索格拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_5">
+			<Text>安瓦尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_6">
+			<Text>扎赫拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_7">
+			<Text>卡迪亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_8">
+			<Text>曼苏拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_9">
+			<Text>齐亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_FEMALE_10">
+			<Text>信徒</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_1">
+			<Text>阿里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_2">
+			<Text>阿米尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_3">
+			<Text>巴巴克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_4">
+			<Text>易卜拉欣</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_5">
+			<Text>法哈德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_6">
+			<Text>哈米德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_7">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_8">
+			<Text>雷扎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_9">
+			<Text>萨桑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_MALE_10">
+			<Text>赞德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_1">
+			<Text>天屋</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_2">
+			<Text>阿扎尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_3">
+			<Text>耶勒</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_4">
+			<Text>拉列</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_5">
+			<Text>玛利亚姆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_6">
+			<Text>纳斯林</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_7">
+			<Text>雷汉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_8">
+			<Text>萨拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_9">
+			<Text>塔拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_IRAN_MODERN_FEMALE_10">
+			<Text>亚斯敏</Text>
+		</Row>
+		<!-- Pakistan -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_1">
+			<Text>穆罕默德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_2">
+			<Text>赛义德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_3">
+			<Text>侯赛因</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_4">
+			<Text>毛荷达利</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_5">
+			<Text>阿布尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_6">
+			<Text>乔杜里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_7">
+			<Text>阿里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_8">
+			<Text>肖卡特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_9">
+			<Text>贾拉鲁丁</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MALE_10">
+			<Text>塔里克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_1">
+			<Text>卡里姆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_2">
+			<Text>艾米拜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_3">
+			<Text>拉坦拜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_4">
+			<Text>沙赫扎迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_5">
+			<Text>詹娜图尼莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_6">
+			<Text>法蒂玛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_7">
+			<Text>阿比达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_8">
+			<Text>沙尼姆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_9">
+			<Text>贾哈纳拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_FEMALE_10">
+			<Text>塔尔曼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_1">
+			<Text>阿巴斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_2">
+			<Text>巴巴尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_3">
+			<Text>费萨尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_4">
+			<Text>古兰</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_5">
+			<Text>易卜拉欣</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_6">
+			<Text>伊斯梅尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_7">
+			<Text>贾拉勒</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_8">
+			<Text>马哈茂德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_9">
+			<Text>奥马尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_MALE_10">
+			<Text>拉希德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_1">
+			<Text>爱莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_2">
+			<Text>巴哈尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_3">
+			<Text>法蒂玛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_4">
+			<Text>古尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_5">
+			<Text>伊曼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_6">
+			<Text>莱拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_7">
+			<Text>米娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_8">
+			<Text>纳斯雷恩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_9">
+			<Text>萨拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_PAKISTAN_MODERN_FEMALE_10">
+			<Text>亚斯敏</Text>
+		</Row>
+		<!-- South Africa -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_1">
+			<Text>查尔斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_2">
+			<Text>埃本海泽</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_3">
+			<Text>约祖亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_4">
+			<Text>雅各布斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_5">
+			<Text>约翰尼斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_6">
+			<Text>尼古拉斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_7">
+			<Text>马雷</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_8">
+			<Text>巴尔萨扎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_9">
+			<Text>彼得</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MALE_10">
+			<Text>弗雷德里克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_1">
+			<Text>山茱</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_2">
+			<Text>乔安娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_3">
+			<Text>阿丽达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_4">
+			<Text>莱塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_5">
+			<Text>亨德里娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_6">
+			<Text>玛加</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_7">
+			<Text>多萝西娅</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_8">
+			<Text>蒂尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_9">
+			<Text>伊丽莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_FEMALE_10">
+			<Text>马里克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_1">
+			<Text>初级</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_2">
+			<Text>绷带</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_3">
+			<Text>是</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_4">
+			<Text>谢谢啦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_5">
+			<Text>勒萨博</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_6">
+			<Text>蜡笔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_7">
+			<Text>赠品</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_8">
+			<Text>未来</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_9">
+			<Text>卡莫格洛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_MALE_10">
+			<Text>那</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_1">
+			<Text>分钟</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_2">
+			<Text>他们很漂亮</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_3">
+			<Text>我们很高兴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_4">
+			<Text>未来</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_5">
+			<Text>卡拉布</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_6">
+			<Text>欢迎光临</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_7">
+			<Text>祝福</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_8">
+			<Text>轻便</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_9">
+			<Text>他们很漂亮</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_AFRICA_MODERN_FEMALE_10">
+			<Text>我的爱人</Text>
+		</Row>
+		<!-- Nigeria -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_1">
+			<Text>楠迪</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_2">
+			<Text>药久</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_3">
+			<Text>奥卢塞贡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_4">
+			<Text>乌斯曼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_5">
+			<Text>易卜拉欣</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_6">
+			<Text>欧内斯特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_7">
+			<Text>萨尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_8">
+			<Text>阿卜杜拉希</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_9">
+			<Text>丸丸</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MALE_10">
+			<Text>祝好运</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_1">
+			<Text>乌切</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_2">
+			<Text>维多利亚州</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_3">
+			<Text>以斯帖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_4">
+			<Text>莫吉索拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_5">
+			<Text>玛利亚姆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_6">
+			<Text>玛格丽特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_7">
+			<Text>法提</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_8">
+			<Text>琳达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_9">
+			<Text>图莱</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_FEMALE_10">
+			<Text>忍耐</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_1">
+			<Text>阿巴兹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_2">
+			<Text>阿杜威</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_3">
+			<Text>达达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_4">
+			<Text>埃索萨</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_5">
+			<Text>犬户部</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_6">
+			<Text>卡鲁</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_7">
+			<Text>蒙哥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_8">
+			<Text>欧巴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_9">
+			<Text>奥卢瓦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_MALE_10">
+			<Text>东本</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_1">
+			<Text>小林</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_2">
+			<Text>阿杜诺拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_3">
+			<Text>阿尔卡纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_4">
+			<Text>希洛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_5">
+			<Text>好极了</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_6">
+			<Text>爱</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_7">
+			<Text>朱巴</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_8">
+			<Text>勒瓦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_9">
+			<Text>奥拉比西</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NIGERIA_MODERN_FEMALE_10">
+			<Text>你做</Text>
+		</Row>
+		<!-- South Korea -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_1">
+			<Text>杨浩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_2">
+			<Text>钟秀</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_3">
+			<Text>炳浩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_4">
+			<Text>杨基</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_5">
+			<Text>一成</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_6">
+			<Text>杨植</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_7">
+			<Text>庆秀</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_8">
+			<Text>杨哲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_9">
+			<Text>成基</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MALE_10">
+			<Text>钟裕</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_1">
+			<Text>杨佳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_2">
+			<Text>杨淑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_3">
+			<Text>庆子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_4">
+			<Text>郑淑淑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_5">
+			<Text>淑子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_6">
+			<Text>贞子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_7">
+			<Text>顺子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_8">
+			<Text>顺熙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_9">
+			<Text>郑淳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_FEMALE_10">
+			<Text>淳子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_1">
+			<Text>敏俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_2">
+			<Text>徐俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_3">
+			<Text>哈俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_4">
+			<Text>道云</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_5">
+			<Text>朱元</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_6">
+			<Text>叶俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_7">
+			<Text>俊宇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_8">
+			<Text>智浩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_9">
+			<Text>积虎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_MALE_10">
+			<Text>俊熙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_1">
+			<Text>徐云</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_2">
+			<Text>徐妍</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_3">
+			<Text>智宇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_4">
+			<Text>智佑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_5">
+			<Text>贺允</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_6">
+			<Text>徐贤</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_7">
+			<Text>敏秀</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_8">
+			<Text>赫恩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_9">
+			<Text>吉阿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_SOUTH_KOREA_MODERN_FEMALE_10">
+			<Text>大恩</Text>
+		</Row>
+		<!-- North Korea -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_1">
+			<Text>杨浩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_2">
+			<Text>钟秀</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_3">
+			<Text>炳浩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_4">
+			<Text>杨基</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_5">
+			<Text>一成</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_6">
+			<Text>杨植</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_7">
+			<Text>庆秀</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_8">
+			<Text>杨哲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_9">
+			<Text>成基</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MALE_10">
+			<Text>钟裕</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_1">
+			<Text>杨佳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_2">
+			<Text>杨淑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_3">
+			<Text>庆子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_4">
+			<Text>郑淑淑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_5">
+			<Text>淑子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_6">
+			<Text>贞子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_7">
+			<Text>顺子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_8">
+			<Text>顺熙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_9">
+			<Text>郑淳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_FEMALE_10">
+			<Text>淳子</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_1">
+			<Text>敏俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_2">
+			<Text>徐俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_3">
+			<Text>哈俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_4">
+			<Text>道云</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_5">
+			<Text>朱元</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_6">
+			<Text>叶俊</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_7">
+			<Text>俊宇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_8">
+			<Text>智浩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_9">
+			<Text>积虎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_MALE_10">
+			<Text>俊熙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_1">
+			<Text>徐云</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_2">
+			<Text>徐妍</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_3">
+			<Text>智宇</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_4">
+			<Text>智佑</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_5">
+			<Text>贺允</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_6">
+			<Text>徐贤</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_7">
+			<Text>敏秀</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_8">
+			<Text>赫恩</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_9">
+			<Text>吉阿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_NORTH_KOREA_MODERN_FEMALE_10">
+			<Text>大恩</Text>
+		</Row>
+		<!-- Israel -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_1">
+			<Text>大卫</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_2">
+			<Text>摩西</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_3">
+			<Text>李维</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_4">
+			<Text>伊加尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_5">
+			<Text>莫里斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_6">
+			<Text>伊扎克</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_7">
+			<Text>舒适的</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_8">
+			<Text>下门</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_9">
+			<Text>本杰明</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MALE_10">
+			<Text>埃胡德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_1">
+			<Text>宝拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_2">
+			<Text>青蛙</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_3">
+			<Text>里夫卡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_4">
+			<Text>以利谢娃</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_5">
+			<Text>米里亚姆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_6">
+			<Text>戈尔达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_7">
+			<Text>利亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_8">
+			<Text>艾丽莎</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_9">
+			<Text>舒拉米特</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_FEMALE_10">
+			<Text>索尼娅</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_1">
+			<Text>诺姆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_2">
+			<Text>奥里</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_3">
+			<Text>伊泰</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_4">
+			<Text>约瑟夫</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_5">
+			<Text>大卫</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_6">
+			<Text>丹尼尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_7">
+			<Text>爱丽儿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_8">
+			<Text>约纳坦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_9">
+			<Text>爱丹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_MALE_10">
+			<Text>摩西</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_1">
+			<Text>诺亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_2">
+			<Text>希拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_3">
+			<Text>添马舰</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_4">
+			<Text>塔利亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_5">
+			<Text>玛雅人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_6">
+			<Text>耶尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_7">
+			<Text>阿黛尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_8">
+			<Text>萨拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_9">
+			<Text>阿维盖尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ISRAEL_MODERN_FEMALE_10">
+			<Text>阿亚拉</Text>
+		</Row>
+		<!-- Italy -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_1">
+			<Text>卡米略</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_2">
+			<Text>贝蒂诺</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_3">
+			<Text>厄巴诺</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_4">
+			<Text>路易吉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_5">
+			<Text>马可</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_6">
+			<Text>阿方索</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_7">
+			<Text>乔万尼</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_8">
+			<Text>阿戈斯蒂诺</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_9">
+			<Text>贝内代托</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MALE_10">
+			<Text>弗朗切斯科</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_1">
+			<Text>安娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_2">
+			<Text>伊丽莎白塔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_3">
+			<Text>玛丽</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_4">
+			<Text>罗西娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_5">
+			<Text>罗莎莉亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_6">
+			<Text>丽娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_7">
+			<Text>弗朗西斯卡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_8">
+			<Text>比安卡罗萨</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_9">
+			<Text>劳拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_FEMALE_10">
+			<Text>维多利亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_1">
+			<Text>弗朗切斯科</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_2">
+			<Text>亚历山德罗</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_3">
+			<Text>安德里亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_4">
+			<Text>洛伦佐</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_5">
+			<Text>马蒂亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_6">
+			<Text>马泰奥</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_7">
+			<Text>加布里埃</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_8">
+			<Text>列昂纳多</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_9">
+			<Text>里卡多</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_MALE_10">
+			<Text>托马索</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_1">
+			<Text>苏菲亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_2">
+			<Text>朱利亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_3">
+			<Text>极光</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_4">
+			<Text>艾玛</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_5">
+			<Text>乔治亚</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_6">
+			<Text>玛蒂娜</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_7">
+			<Text>基亚拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_8">
+			<Text>萨拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_9">
+			<Text>爱丽丝</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CITIZEN_ITALY_MODERN_FEMALE_10">
+			<Text>盖亚</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

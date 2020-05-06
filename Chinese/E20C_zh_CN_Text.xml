@@ -1,0 +1,548 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_zh_CN_Text -->
+<!-- Author: Stephen -->
+<!-- DateCreated: 7/8/2017 -->
+<GameData>
+	<LocalizedText>
+		<!-- Districts -->
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_MOUNTAIN_CULTURE">
+			<Text>+{1_num} [ICON_Culture] 山附近的文化 {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_TUNDRA_GOLD">
+			<Text>+{1_num} [ICON_Gold] 来自相邻苔原的黄金 {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_TUNDRA_PRODUCTION">
+			<Text>+{1_num} [ICON_Production] 相邻苔原的生产 {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_TUNDRA_SCIENCE">
+			<Text>+{1_num} [ICON_Science] 来自相邻苔原的科学 {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_DISTRICT_TUNDRA_CULTURE">
+			<Text>+{1_num} [ICON_Culture] 来自相邻苔原的文化 {1_Num : plural 1?tile; other?tiles;}.</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_LGA_APPEAL_BREATHTAKING">
+			<Text>惊险</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_LGA_APPEAL_CHARMING">
+			<Text>迷人</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_LGA_APPEAL_AVERAGE">
+			<Text>平均</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_LGA_APPEAL_UNINVITING">
+			<Text>取消邀请</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_TOOLTIP_LGA_APPEAL_DISGUSTING">
+			<Text>恶心的</Text>
+		</Row>
+		<!-- Unit Abilities -->
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_TANK_URBAN_SURVIVAL_KIT_NAME">
+			<Text>坦克城市生存装备</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_TANK_URBAN_SURVIVAL_KIT_DESCRIPTION">
+			<Text>+10 [ICON_Strength]防御城市攻击时的战斗力</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_TROPHY_ACTIVE_PROTECTION_SYSTEM_NAME">
+			<Text>奖杯主动保护系统</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_TROPHY_ACTIVE_PROTECTION_SYSTEM_DESCRIPTION">
+			<Text>+7 [ICON_Strength]对抗反骑兵部队的防御力</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_MODERN_ARMOR_HYDROPNEUMATIC_SUSPENSION_NAME">
+			<Text>油气悬架</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_MODERN_ARMOR_HYDROPNEUMATIC_SUSPENSION_DESCRIPTION">
+			<Text>+10 [ICON_Strength]在山丘上战斗时的战斗力</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_HELICOPTER_ANTIARMOR_ATTACK_NAME">
+			<Text>反装甲导弹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_HELICOPTER_ANTIARMOR_ATTACK_DESCRIPTION">
+			<Text>攻击重型骑兵类单位时，+ 5 [ICON_Strength]战斗力量</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_HELICOPTER_TROOP_TRANSPORT_NAME">
+			<Text>部队运输</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_HELICOPTER_TROOP_TRANSPORT_DESCRIPTION">
+			<Text>+5 [ICON_Strength]战斗强度，与友军的近战职业相邻时</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_STEALTH_FIGHTER_NAME">
+			<Text>隐形战斗机</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_STEALTH_FIGHTER_DESCRIPTION">
+			<Text>+10 [ICON_Strength]对抗战斗机和防空单位的战斗力</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_STEALTH_BOMBER_NAME">
+			<Text>隐形轰炸机</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_ABILITY_STEALTH_BOMBER_DESCRIPTION">
+			<Text>+20 [ICON_Strength]对抗战斗机和防空部队的战斗力</Text>
+		</Row>
+		<!-- Civilization Info -->
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_LOCATION">
+			<Text>澳大利亚大陆</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_SIZE">
+			<Text>约297万平方英里（770万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_POPULATION">
+			<Text>约2400万（2017年估计）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_COMMONWEALTH_AUSTRALIA_CAPITAL">
+			<Text>墨尔本，现在堪培拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_MEXICO_LOCATION">
+			<Text>北美</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_MEXICO_SIZE">
+			<Text>76.1万平方英里（197万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_MEXICO_POPULATION">
+			<Text>约1.2亿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_MEXICO_CAPITAL">
+			<Text>墨西哥城</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_LOCATION">
+			<Text>亚洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_SIZE">
+			<Text>73.5万平方英里（190万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_POPULATION">
+			<Text>约2.61亿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_REPUBLIC_INDONESIA_CAPITAL">
+			<Text>雅加达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_TURKEY_LOCATION">
+			<Text>亚洲和欧洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_TURKEY_SIZE">
+			<Text>302,000平方英里（78.3万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_TURKEY_POPULATION">
+			<Text>约8000万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_TURKEY_CAPITAL">
+			<Text>安卡拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ARGENTINA_LOCATION">
+			<Text>南美洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ARGENTINA_SIZE">
+			<Text>约100万平方英里（278万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ARGENTINA_POPULATION">
+			<Text>约4300万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ARGENTINA_CAPITAL">
+			<Text>布宜诺斯艾利斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_IRAN_LOCATION">
+			<Text>亚洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_IRAN_SIZE">
+			<Text>63.6万平方英里（165万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_IRAN_POPULATION">
+			<Text>约8100万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_IRAN_CAPITAL">
+			<Text>德黑兰</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_PAKISTAN_LOCATION">
+			<Text>亚洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_PAKISTAN_SIZE">
+			<Text>340,000平方英里（882,000平方千米）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_PAKISTAN_POPULATION">
+			<Text>约2.08亿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_PAKISTAN_CAPITAL">
+			<Text>伊斯兰堡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_AFRICA_LOCATION">
+			<Text>非洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_AFRICA_SIZE">
+			<Text>47.1万平方英里（122万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_AFRICA_POPULATION">
+			<Text>约5500万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_AFRICA_CAPITAL">
+			<Text>比勒陀利亚，开普敦和布隆方丹</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NIGERIA_LOCATION">
+			<Text>非洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NIGERIA_SIZE">
+			<Text>35.7万平方英里（92.4万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NIGERIA_POPULATION">
+			<Text>约1.86亿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NIGERIA_CAPITAL">
+			<Text>阿布贾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_KOREA_LOCATION">
+			<Text>亚洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_KOREA_SIZE">
+			<Text>39000平方英里（10万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_KOREA_POPULATION">
+			<Text>约5100万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_SOUTH_KOREA_CAPITAL">
+			<Text>汉城</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NORTH_KOREA_LOCATION">
+			<Text>亚洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NORTH_KOREA_SIZE">
+			<Text>4.7万平方英里（12万平方千米）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NORTH_KOREA_POPULATION">
+			<Text>约2500万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_NORTH_KOREA_CAPITAL">
+			<Text>平壤</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ISRAEL_LOCATION">
+			<Text>亚洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ISRAEL_SIZE">
+			<Text>8000平方英里（2.2万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ISRAEL_POPULATION">
+			<Text>约800万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ISRAEL_CAPITAL">
+			<Text>耶路撒冷（宣称），特拉维夫（国际认可）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ITALY_LOCATION">
+			<Text>欧洲</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ITALY_SIZE">
+			<Text>11.6万平方英里（31.0万平方公里）</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ITALY_POPULATION">
+			<Text>约6100万</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_CIVINFO_ITALY_CAPITAL">
+			<Text>罗马</Text>
+		</Row>
+		<!-- Civilization Histories -->
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_COMMONWEALTH_AUSTRALIA_CHAPTER_HISTORY_PARA_1">
+			<Text>最初由部落人民定居，现在包括澳大利亚的领土随着18和19世纪欧洲殖民者的到来而开始走向民族化。在澳大利亚建立的第一个殖民地是1788年1月26日在悉尼湾建立的英国刑事殖民地。在随后的一个世纪中，建立了许多其他殖民地，欧洲人口通过自由移民的自愿移民而日益增长。在19世纪后期，殖民地分别获得了“负责任的政府”，即能够在当地管理大部分内政。经过多年的准备，殖民地在1901年1月1日汇聚在一起，组成了大不列颠联邦国家联盟。1911年，划出了一块单独的领土来建造新英联邦的首都。澳大利亚参加了在英国主持下的第一次世界大战，这是澳大利亚和新西兰陆军军团（ANZAC）的一部分，向欧洲战sending派遣了40万士兵。在许多国家，这被视为一个决定性的时刻。 1931年，英国将对联邦的大部分控制权移交给了澳大利亚政府，澳大利亚政府于1942年接受了这种新的状况。在第二次世界大战和大英帝国解体之后，澳大利亚与美国结成了联盟，并致力于建立与邻居的良好关系。战后时期也结束了白澳政策的终结，并改善了对原住民的待遇。 1986年，英国在澳大利亚的权力最后遗迹正式结束。今天的澳大利亚是一个富裕的国家，拥有高生活水平和多元文化的社会。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_MEXICO_CHAPTER_HISTORY_PARA_1">
+			<Text>在殖民前时代，有许多先进的文明占领了墨西哥的土地，其中包括阿兹台克人，玛雅人和扎波特克人，而墨西哥的现代州则主要从西班牙帝国的新世界殖民地追溯其遗产。在1500年代初，一位名叫埃尔南·科尔特斯（Hernan Cortez）的冒险家在一支庞大的当地士兵的协助下，由一小队西班牙征服者征服了阿兹台克帝国。 Tenochtitlan的阿兹台克首府被改建为墨西哥城，墨西哥领土被作为新西班牙总督的一部分加入了西班牙帝国。墨西哥成为帝国的重要组成部分，曾一度为西班牙国王贡献了将近一半的税收收入。西班牙文化把当地人归为天花，摧毁了土著人民，有700,000多西班牙人前往墨西哥定居，在许多情况下与当地人结婚。随着西班牙王室实力的减弱和墨西哥发展出独特的身份和文化，动乱蔓延，最终累积在一场导致1821年墨西哥独立的战争中。墨西哥国家的初期动荡不安，其特征是经济和政治问题。在安东尼奥·圣安娜将军夺取并巩固政权之前，政府在帝国，共和和独裁派之间进行了移交。反对圣安娜统治的起义使尤卡坦州和得克萨斯州丧失了，与美国的战争使墨西哥北部的许多领土进一步丧失。在圣安娜（Santa Anna）解散后，墨西哥陷入短暂的内战，贝尼托·华雷斯（Benito Juarez）领导的改革派赢得了这场内战。法国帝国在1860年代短暂占领了墨西哥，但最终由法国建立的君主被废in了，在随后的三十年里，共和党在这一战役中发挥了重要作用的共和党将军Porfirio Diaz主导了墨西哥的政治。迪亚兹的任期见证了墨西哥的发展和壮大，但问题依然存在，最终导致了另一场内战，即墨西哥革命。机构革命党（PRI）上台，恢复了选举并将石油工业国有化。 PRI统治了墨西哥70年，带来了稳定和增长，但也未能解决贫困的长期问题，并偶尔采取强硬手段。一条政党统治在2000年终结，为墨西哥政治带来了更为稳健的论述。墨西哥继续增长，但也面临几个主要问题，包括各种毒品卡特尔的持续麻烦。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_REPUBLIC_INDONESIA_CHAPTER_HISTORY_PARA_1">
+			<Text>印度尼西亚群岛自古以来就一直是贸易中心，因为它位于印度和中国之间的黄金地段以及可以在当地种植的珍贵香料。该地区在少数地方王国中划分，直到Srivijaya王国从八世纪到十世纪开始将权力扩展到多个岛屿。后来，玛雅帕希特帝国成为第一个在其统治下统一几乎所有群岛的王国。在第一个千年中，印度教和佛教在各岛中占主导地位，但第二个千年中，第一批穆斯林商人和后来的苏丹慢慢地改变了平民的数量，从根本上改变了这些岛的文化。欧洲商人抵达16世纪，其中最成功的是荷兰东印度公司（VOC），该公司成立了Batavia（后更名为Jakarta），并主导了整个群岛。 VOC在1800年由于财务问题而解散，其所有领土都移交给了荷兰帝国，荷兰一直统治着印度尼西亚，直到20世纪中叶。日本帝国战争在第二次世界大战期间征服了印度尼西亚，当日本被迫向盟军投降时，印度尼西亚民族主义运动的领导人宣布独立。随后发生了武装斗争，但在1949年，荷兰人终于被迫承认印度尼西亚的独立。独立运动的领导人苏加诺（Sukarno）成为印度尼西亚的第一任总统，但经过一段时间的动荡之后，他将国家从民主国家转变为专制国家。 1965年的一次失败的共产主义政变导致军队清洗了共产主义国家，并最终推翻了苏加诺，由苏哈托将军代替。苏哈托将统治该国长达30年之久，使印度尼西亚与反共产主义的西部保持一致，并主持该国的实质性经济增长。但是，他的繁重统治导致异议，当经济不景气发生时，苏哈托（Suharto）于1998年被迫辞职。印度尼西亚随后转型为民主国家，目前被认为是新兴工业化国家。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_TURKEY_CHAPTER_HISTORY_PARA_1">
+			<Text>土耳其国家是土耳其控制的奥斯曼帝国的继承国，该帝国统治了六百多年。奥斯曼帝国曾经控制着中东和地中海的大部分地区，但后来逐渐变得虚弱并失去了领土，直到第一次世界大战中作为中央大国的一席之地导致其解体为止。盟国对奥斯曼帝国设定的苛刻条件与土耳其民族主义者的关系不佳。土耳其民族主义者在伟大战争的土耳其英雄穆斯塔法·凯末尔·帕夏（Mustafa Kemal Pasha）的领导下，推翻了苏丹国并发动了一场战争，他们设法夺回了奥斯曼帝国被迫割让给希腊和亚美尼亚。土耳其在这场战争中取得成功之后，签署了一项条约，承认新国家及其在战争中赢得的新边界。穆斯塔法·凯末尔（Mustafa Kemal）被赋予阿塔图尔克（Ataturk）的姓氏-“土耳其之父”-当新国家要求所有公民都采用姓氏时，他被选为新共和国的领导人，并着手建立一个世俗的现代国家。在第二次世界大战的大部分时间里，土耳其一直保持中立，直到冲突临近结束时才加入盟国。土耳其成为联合国的创始成员，后来加入北约，成为反对共产主义扩张的堡垒。 1974年，由于塞浦路斯政变成立了亲希腊联盟政府，土耳其入侵并占领了塞浦路斯的一部分。在1980年代，土耳其东部的库尔德人开始对政府进行叛乱，目的是获得独立，直到今天，这种叛乱仍在继续。多年来，在土耳其共和国内部，持不同意识形态的人之间一直存在紧张关系，最终由世俗的亲西方军队发动了一系列政变。在21世纪初期，土耳其在Recep Tayyip Erdogan的领导下开始向更加伊斯兰主义和世俗化的政府过渡，这是一个干练而虔诚的行政管理者，已领导该国超过十年。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ARGENTINA_CHAPTER_HISTORY_PARA_1">
+			<Text>在16世纪欧洲殖民者到来之前，将成为阿根廷的土地人烟稀少。阿根廷人由西班牙人定居，最初是秘鲁总督府的一部分，然后逐渐成长为成为里约热内卢总督辖区下的一个独立行政区。当法国国王拿破仑·波拿巴废除西班牙国王费迪南七世时，新世界的西班牙殖民地爆发了无数次革命。阿根廷于1816年宣布独立，阿根廷将军圣何塞·德·圣马丁（Jose de San Martin）率军穿越安第斯山脉，并确保智利和秘鲁的独立。独立的阿根廷成立初期，一直处于纷争的阶段，在1860年代局势平静之前，发生了一系列战争和政府。从1880年代开始，阿根廷放宽了经济政策，并鼓励大量欧洲移民。从1880年到1910年，阿根廷人口增长了五倍，经济增长了15倍，使阿根廷的人均收入在世界上排名第七（排在德国和法国之后，但仅次于英国和美国）。 1912年，实行了普遍的男性选举权，导致激进公民联盟的伊波利托·伊里戈延（Hipolito Yrigoyen）上台。经济危机之后，伊里戈延（Yrigoyen）被军事政变推翻，导致该国不稳定时期。 1946年，胡安·佩隆（Juan Peron）当选总统，迎来了一段变革时期，这一时期的特点是社会化和各种行业的国有化。新的经济政策起初见证了阿根廷的经济复兴，但是到了1950年代，事情开始走下坡路，导致庇隆（Peron）在1955年流亡。随之而来的是更加不稳定的局面，政府在民选派别和军事政变之间轮流任职。暴力在称为“肮脏战争”的时期爆发，叛乱游击队和政府秘密警察参与了恐怖主义活动。在一次失败的尝试中，一次失败的尝试以失败的方式从英国手中夺回了福克兰群岛，阿根廷军队因此丢了脸，该国重新回到了民主国家。此后，该国一直在经济上挣扎，甚至拖欠债务，但一直坚持下去，而阿根廷现在正处于自1920年代以来没有政变的最长时期。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_IRAN_CHAPTER_HISTORY_PARA_1">
+			<Text>伊朗的土地在其大部分历史中曾被称为波斯，是许多伟大文明的所在地和主题。波斯第一个大帝国是由居鲁士大帝建立的阿契美尼德帝国，从埃及延伸到印度，历时200年。那个帝国落到了亚历山大大帝身上，希腊民族在波斯统治了近100年，之后被当地的帕提亚人推翻。帕提亚人及其继任者萨珊王朝在波斯统治了600年，分别是罗马人和拜占庭人的对手。萨萨尼德帝国沦为拉希顿哈里发的伊斯兰征服者，从琐罗亚斯德教派向伊斯兰教的转变，从根本上永久地改变了波斯。波斯文化得以幸免于阿拉伯人的统治，以及随后的土耳其统治和蒙古入侵的破坏。 1501年，莎阿·伊斯梅尔一世（Shah Ismail I）创立了萨法维王朝，该王朝将波斯收复为波斯人，并将该国从逊尼派转变为什叶派伊斯兰教。萨法维人统治着一个强大的帝国，是奥斯曼帝国的对手，但到了1700年代，他们变得软弱无力，被废posed。 18世纪动荡不安，几朝兴衰，多次内战。成立于1794年的卡贾尔王朝设法带来了团结，但是俄国人的失败和帝国管理不善削弱了王朝，迫使其于1905年建立议会，该议会推翻了王朝并成立了总理雷扎·汗（Reza Khan） ，如Shah。礼萨·沙（Reza Shah）进行了改革并取得了成功的统治，但是由于伊朗的战略重要性，盟国认为他在第二次世界大战中的中立地位是不可接受的，英苏的入侵迫使他退位以支持亲西方的儿子，穆罕默德·雷扎·帕拉维（Mohammed Reza Pahlavi）。 1951年，在西方的支持下，穆罕默德解散了议会（该议会日益由共产党统治），成为独裁统治者。他的统治遭到了愤慨，并在1979年被伊斯兰革命推翻，伊斯兰革命将伊朗重新建立为神权国家。这种神权统治从国家清除了世俗分子，并要求所有当选官员都必须获得最高领导人的批准，最高领导人是宗教领袖，被视为该州在政治和宗教事务上的最终权威。新政府面临许多起义和伊拉克的入侵，导致长达十年的战争，但到了1990年代，它已经取得了胜利，其统治稳固了。自那时以来，美国的繁荣发展了，它也寻求增加权力和影响力，支持客户国家和团体并推行核计划。这导致了与沙特阿拉伯之间争夺中东优势地位的不安，这种情况尚未解决。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_PAKISTAN_CHAPTER_HISTORY_PARA_1">
+			<Text>巴基斯坦的国家是根据印度在1947年从大英帝国统治下独立后划分的，组成的。该划分将印度分为穆斯林（巴基斯坦）和印度教（印度）的多数国家，并且在此划分之后为了在自己的信仰的国家生活，有1400万人在各国之间迁移，在宗教和种族动机的暴动和清洗中，有20万至500,000人被杀。巴基斯坦从一开始就面临内部纷争，在亲乌尔都政府的统治下，东巴基斯坦的孟加拉人一直在骚动，有利于西巴基斯坦的人民。 1958年宣布实行戒严令，开创了巴基斯坦政治军事统治的时代。 1971年，东西部巴基斯坦之间的紧张局势结束了，巴基斯坦政府杀害了成千上万的孟加拉人，试图以完全徒劳的方式征服该省，该省成为了孟加拉国的独立国家。巴基斯坦与印度就边界争端进行了一系列战争，其中多数实际上以僵局结束。民主于1972年返回巴基斯坦，随着两国开发核武器，与印度的竞争加剧。在80年代末和90年代末，巴基斯坦政治在保守派和进步派之间来回摇摆，然后穆沙拉夫将军发动政变，迎来了另一个军事统治时期。从2000年代初开始，巴基斯坦加入了反恐战争，与农村省份中的极端主义分子进行了战斗，这场战争在生命和财宝上都付出了高昂的代价，但尚未完全击败伊斯兰极端分子。进步派领导人，前总理贝纳齐尔·布托（Benazir Bhutto）被暗杀之后（穆沙拉夫被迫辞职），前总理是迄今唯一担任这一职务的女性。由布托的竞争对手纳瓦兹·谢里夫（Nawaz Sharif）领导的保守派，以绝对多数赢得了政府的控制，现在必须面对困扰该国的许多问题。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_AFRICA_CHAPTER_HISTORY_PARA_1">
+			<Text>在史前时期，包括南非在内的领土上居住着猎人/采集者圣人和科伊人牧民部落，他们在公元二千年第一期的后半期和上半年因使用铁的农业而流离失所。班图人。最早的欧洲人，葡萄牙探险家，于15世纪后期抵达，当时他正在寻找通往东印度群岛的航线。在17世纪，荷兰东印度公司在开普敦建立了第一个欧洲永久性定居点，以此作为东部贸易路线的起点。随着该地区欧洲殖民地的扩张，英国人（在19世纪初期从荷兰人手中征服了开普敦），布尔人（第一批向欧洲内陆移居的欧洲定居者的后裔）与索托人的土著部落之间爆发了各种战争。科萨（Zhosa）和祖鲁（Zulu），每个小组轮流与另一个小组作战。由强大的武士国王沙卡（Shaka）领导的祖鲁人（Zulus）统治了其他土著部落，并把欧洲人拒之门外。他死后在英美祖鲁（Anglo-Zulu）战争中被英国击败。在两次血腥的布尔战争之后，大英帝国最终巩固了对该地区的控制，这标志着南非领土第一次被统一。大英帝国将名义独立（1909年）和全面独立（1931年）独立授予南非联盟。由白人控制的政府将工会事实上的种族隔离编纂为法律，并建立了压迫性的，种族隔离的种族隔离制度，将近80％的人口作为二等公民。 1961年，该国投票决定放弃其政府形式，即承认英国君主立宪制并实行共和制政府的君主立宪制。从1960年代末期开始，暴力和冲突在南非蔓延，各种派别，其中最著名的是纳尔逊·曼德拉（Nelson Mandela）的非洲人国民大会（ANC），激怒并与种族隔离作斗争。 1970年代，面对日益严格的国际审查，南非政府制定了一项核计划，该计划全部制造了6枚核弹。在1990年代，政府开始和解，废除了种族隔离制度，废除了其核计划，并允许非国大（除其他外）参加自由公开的选举。 1994年，非国大赢得了选举并获得了政府，直到今天，该政府一直维持至今。自非国大以来，南非黑人享有政治上的平等和更大的发展机会，许多人已经进入中产阶级。在不断改善的同时，该国仍在与贫困，暴力高发和艾滋病流行的破坏作斗争。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NIGERIA_CHAPTER_HISTORY_PARA_1">
+			<Text>构成尼日利亚国家的土地拥有500多个种族，使用500多种不同的语言，并且在广泛的历史范围内见证了许多王国甚至帝国的兴衰。该地区长期以来一直是贸易的中心，大量的商品和奴隶买卖被买卖。当欧洲人到达16世纪时，他们热衷于与当地人进行贸易，购买奇特的商品并建立了跨大西洋的奴隶贸易。在接下来的几个世纪中，西部的Oyo帝国和东部的Edo帝国是尼日利亚的主要大国。在19世纪，英国人开始更大程度地介入地方政治，首先是在1807年议会禁止奴隶贸易后关闭奴隶贸易，后来又在该地区施加英国影响。在英国扩大其南部影响力的同时，北部的索科托哈里发特（Sokoto Caliphate）由一名伊斯兰学者创立，并主导了该地区。大英帝国最终征服或吸收了整个领土，并建立了行政州，该州最终演变成尼日利亚政府。随着20世纪民族主义的兴起，要求独立的呼吁最终于1960年获得独立。尼日利亚最初是由一个联合政府统治的，但是各个派别很快陷入了争执，然后进行了战斗，最终爆发了一系列政变，持续了30个月的内战，造成数百万人死亡。从1970年内战结束到1999年，军政府主导着尼日利亚政治，这段时期是不稳定，腐败和暴力时期，也是增长和发展时期，部分是由新发现的石油推动的。民主于1999年恢复，但这并没有标志着尼日利亚麻烦的结束。南部尼日利亚的石油产区爆发了种族间暴力，北部北部的博科圣地爆发了一个伊斯兰组织，该组织提倡严格解释伊斯兰教义（“博科圣地”大致翻译为“西方教育被伊斯兰教禁止”）。恐吓该地区。尽管存在这些困难，但尼日利亚仍设法继续增长，成为非洲人口最多的国家，然后成为非洲大陆最大的经济体，2014年超过南非。自2010年以来，尼日利亚还连续两次进行了自由，公正的选举，见证了尼日利亚的选举。国家历史上第一次和平，民主的权力过渡。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_KOREA_CHAPTER_HISTORY_PARA_1">
+			<Text>朝鲜的建立被神话和传说所笼罩，但是可以肯定的是，一个被称为高祖宗的朝鲜王国存在于远古时代，直到公元前二世纪被汉人征服。直到公元四世纪，中国人才被完全赶出国门。那时，高丽王国已经发展壮大，可以征服朝鲜半岛的大部分地区。该王国将其名称赋予半岛（韩国是高丽名称的西化版本），并将持续到七世纪。高丽（Goryeo）倒台后，半岛分为北部的Balhae和南部的Silla。随着这些王国的衰落，韩国再次由王健领导，统一了高丽王朝，成为了韩国的主人。这个新的高丽人兴盛了几个世纪，享有繁荣，高文化和技术进步。随着蒙古人的到来，这个黄金时代将终结。蒙古人经过几次详尽的战争，使高丽成为朝贡国。蒙古人弱化后，高丽得以恢复独立，但在1392年，朝鲜建立了朝鲜王朝的李承基将军推翻了该王朝。朝鲜统治的早期世纪以和平与发展为标志，在此期间，朝鲜文的韩文书写系统得到了发展。在16世纪末，朝鲜击退了两次日本侵略，但在17世纪，他们被满族击败并被迫割让北部领土。到19世纪，王朝变得更加软弱和腐败，为1910年日本的成功入侵铺平了道路。日本将统治朝鲜，直到它在第二次世界大战中被盟国击败为止。日本投降后，朝鲜被分为美国占领的南部和苏联占领的北部。随后，韩国与西方结盟，朝鲜成为共产主义专政。朝鲜在1950年入侵南方，加剧了朝鲜战争。中国参加了北方面的战争，而美国则领导了一支联合国部队保卫南方。战争漫长而血腥，但最终陷入僵局，类似于原状。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_SOUTH_KOREA_CHAPTER_HISTORY_PARA_2">
+			<Text>在南方，战争结束后，民主选举产生的李承晚（Singgman Rhee）变得越来越专制，直到1960年起义之前才让出权力。短暂的动荡之后，朴正熙发动政变，朴正熙将朝鲜统治为独裁者。 监督国家的大规模经济发展。 1979年，帕克被暗杀，此后又发动政变，将俊斗焕上台执政，直到1987年他一直独裁统治。当骏的严厉统治变得太多时，六月民主运动迫使民主重返韩国。 自那时以来，尽管朝鲜的局势仍未得到解决，但韩国一直享有民主，繁荣和相对和平。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NORTH_KOREA_CHAPTER_HISTORY_PARA_1">
+			<Text>朝鲜的建立被神话和传说所笼罩，但是可以肯定的是，一个被称为高祖宗的朝鲜王国存在于远古时代，直到公元前二世纪被汉人征服。直到公元四世纪，中国人才被完全赶出国门。那时，高丽王国已经发展壮大，可以征服朝鲜半岛的大部分地区。该王国将其名称赋予半岛（韩国是高丽名称的西化版本），并将持续到七世纪。高丽（Goryeo）倒台后，半岛分为北部的Balhae和南部的Silla。随着这些王国的衰落，韩国再次由王健领导，统一了高丽王朝，成为了韩国的主人。这个新的高丽人兴盛了几个世纪，享有繁荣，高文化和技术进步。随着蒙古人的到来，这个黄金时代将终结。蒙古人经过几次详尽的战争，使高丽成为朝贡国。蒙古人弱化后，高丽得以恢复独立，但在1392年，朝鲜建立了朝鲜王朝的李承基将军推翻了该王朝。朝鲜统治的早期世纪以和平与发展为标志，在此期间，朝鲜文的韩文书写系统得到了发展。在16世纪末，朝鲜击退了两次日本侵略，但在17世纪，他们被满族击败并被迫割让北部领土。到19世纪，王朝变得更加软弱和腐败，为1910年日本的成功入侵铺平了道路。日本将统治朝鲜，直到它在第二次世界大战中被盟国击败为止。日本投降后，朝鲜被分为美国占领的南部和苏联占领的北部。随后，韩国与西方结盟，朝鲜成为共产主义专政。朝鲜在1950年入侵南方，加剧了朝鲜战争。中国参加了北方面的战争，而美国则领导了一支联合国部队保卫南方。战争漫长而血腥，但最终陷入僵局，类似于原状。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NORTH_KOREA_CHAPTER_HISTORY_PARA_2">
+			<Text>在北方，共产主义独裁者金日成巩固了自己的政权，并开始实行新的国家主体思想，主体思想是强调国家独立和对社会的总体控制。最初，北朝鲜取得了成功，从战争中迅速恢复过来，并利用中国和俄罗斯的外国援助扩大了经济。到1980年代，该国的命令经济政策开始显示疲软，而随着1991年苏联解体后外国援助大大减少，朝鲜的经济崩溃了。金日成的长期统治最终以他1994年的去世而结束，他的儿子金正日继位。钟日日实施了“军人先行”政策，以巩固其对贫穷和被压迫国家的权力。在他的统治期间，随着2006年炸弹的成功研制，朝鲜的核武器计划也已完成。金正日（Kim Jong-il）于2011年去世，其后任金正恩继任。钟云继续执行其父亲和祖父的政策。他还扩大了自己国家的导弹发展，并威胁到韩国和美国。朝鲜继续遭受贫困和压迫，没有尽头。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ISRAEL_CHAPTER_HISTORY_PARA_1">
+			<Text>以色列的现代国家是犹太复国主义的产物，犹太复国主义是鼓励犹太人民返回圣地的古老家园的运动。最初，犹太人向该国的移民速度很慢，但在20世纪初有所回升，并随着犹太人在欧洲和大屠杀中的迫害而急剧上升。 1947年制定了一项计划，将英国的巴勒斯坦授权在阿拉伯国家和犹太国家之间划分，以消除两个社区之间的紧张关系。 1948年，即以色列民族宣布独立为犹太国家后的第一天，以色列遭到阿拉伯国家联盟的袭击，这场战争以以色列的胜利和领土上的胜利而结束。独立后，以色列积极促进犹太移民，欢迎难民以及在欧洲和阿拉伯世界寻求更好生活的难民。以色列最初在经济上挣扎，最终随着移民定居并实施改革而站起来。以色列与阿拉伯世界之间持续的紧张局势在1960年代和70年代再次爆发。 1967年，以色列发动了先发制人的进攻，反对其边界上的集结的军队，导致了为期六天的战争，以色列从埃及，约旦和叙利亚获得了领土领土。 1973年，埃及在赎罪日战争中反击，这场战争陷入僵局，但向阿拉伯世界证明以色列军队是不可战胜的。 1979年，埃及与以色列之间建立了外交关系，以换取西奈回到埃及。以色列在1980年代采取了一项政策，将犹太人定居点带入六日战争所占领的领土，这一政策引起了很大争议。以色列在1980年代与巴勒斯坦解放组织（PLO）进行了斗争，甚至入侵黎巴嫩以将其击退，后来遭受包括许多恐怖袭击在内的“起义”或起义。双方于1990年代进行了和平谈判，赋予巴勒斯坦更大的自治权，以换取承认以色列的生存权，但这种权利不会持久。在2000年代初发动了第二次起义，作为回应，以色列开始在以色列和西岸大部分地区之间修建隔离墙。以色列还从加沙地带撤出了所有犹太定居者，加沙地带后来由哈马斯统治，而哈马斯是一个极端主义组织，比掌管半自治西岸的温和的法塔赫政党要大。迄今为止，巴以冲突尚未解决。以色列固有的民族是一个繁荣，先进，民主的国家，保留了其最初的犹太身份。</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_ITALY_CHAPTER_HISTORY_PARA_1">
+			<Text>意大利的现代状态是19世纪民族主义兴起的产物。在此之前，意大利被分为几个相互竞争的王国，其中一些处于外国势力的控制之下。撒丁岛王国领导了意大利统一的运动，撒丁岛王国对其他意大利王国，奥地利甚至教皇国发动了几次战争，以使整个半岛处于一个王冠之下，这一壮举终于在1870年实现。新国家在撒丁岛国王的统治下成为君主立宪制国家，该国的早期历史见证了北部的快速工业化和意大利向殖民大国的扩张。意大利在第一次世界大战中加入了盟国，看到了领土上的收获，但付出了巨大的代价。在此期间，社会主义者的崛起以及第一次世界大战后采取的果敢行动，导致许多人转向建立新的法西斯党寻求保护，从而使他们的领导人贝尼托·墨索里尼（Benito Mussolini）在1922年上台并最终成为国家的独裁者。 1939年，意大利与纳粹德国结盟，并于1940年与帝国日本结盟，在1940年将其拉入轴心国之列。第二次世界大战。权力。意大利的失败导致墨索里尼被处决，国王退位，帝国解体，欧洲几个领土的丧失以及新的意大利共和国的建立。战后，意大利遭受了毁灭性的打击，但是在马歇尔计划的帮助下，意大利重新站起来，并在1950年代和1960年代繁荣起来。意大利将在1970年代遭受经济衰退和国内冲突的困扰，但在1980年代将会恢复。 1990年代的政治危机导致意大利政治重新调整，媒体大亨西尔维奥·贝卢斯科尼（Silvio Berlusconi）主导了随后的时期，成为任职时间最长的共和国总理。 2008年的经济大衰退对意大利造成了特别严重的影响，造成了42个月的收缩，从而导致了新政府的成立和意大利宪法改革的尝试。 2015年的欧洲移民危机也对该国产生了重大影响，意大利是北部的主要路线之一，其本身拥有超过50万移民。除了经济和移民问题，意大利还看到了地区派系主义的兴起，因此，该国在不久的将来将采取的方向还存在很多不确定性。</Text>
+		</Row>
+		<!-- Tooltips -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_YIELD_MODIFIER_PER_GOVERNOR_TITLE_TOOLTIP">
+			<Text>{Value : number +#;-#}% ({ActualValue : number +#.#;-#.#}) 来自领导能力 ([ICON_Governor] 总督{1} {1 : plural 1?Promotion; other?Promotions;})</Text>
+		</Replace>
+		<!-- Named Places -->
+		<!-- Rivers -->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_RIO_BRAVO_NAME">
+			<Text>里奥·布拉沃</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_RIO_BALSAS_NAME">
+			<Text>里约巴尔萨斯</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_RIO_GRANDE_DE_SANTIAGO_NAME">
+			<Text>圣地亚哥里奥格兰德</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_RIO_GRIJALVA_NAME">
+			<Text>里奥·格里亚瓦尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_RIO_YAQUI_NAME">
+			<Text>里约亚基</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_URUGUAY_RIVER_NAME">
+			<Text>乌拉圭河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_RIO_BERMEJO_NAME">
+			<Text>里奥·贝尔梅霍</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_PILCOMAYO_NAME">
+			<Text>皮尔科马约</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_DASHT_NAME">
+			<Text>达什河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_HUB_NAME">
+			<Text>枢纽河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_CHENAB_NAME">
+			<Text>恰纳河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_GILGIT_NAME">
+			<Text>吉尔吉特河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_VAAL_NAME">
+			<Text>瓦尔河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_TUGELA_NAME">
+			<Text>图格拉河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_OLIFANTS_NAME">
+			<Text>奥利凡斯河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_OSUN_NAME">
+			<Text>奥孙河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_IMO_NAME">
+			<Text>伊莫河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_CROSS_NAME">
+			<Text>十字河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_YOBE_NAME">
+			<Text>优部河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_BENUE_NAME">
+			<Text>贝努伊河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_SOKOTO_NAME">
+			<Text>索科托河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_TUMAN_NAME">
+			<Text>图曼河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_YARKON_NAME">
+			<Text>雅顿河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_KISHON_NAME">
+			<Text>吉顺河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_YARMOUK_NAME">
+			<Text>亚尔穆克河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_RIVER_NAHAL_NAAMAN_NAME">
+			<Text>纳哈尔·纳阿曼</Text>
+		</Row>
+		<!-- Volcanoes -->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_TACANA_NAME">
+			<Text>塔卡纳</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_COPAHUE_NAME">
+			<Text>科帕韦</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_PLANCHON_PETEROA_NAME">
+			<Text>普朗琼-彼德阿</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_ARACAR_NAME">
+			<Text>阿拉卡</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_TOR_ZAWAR_NAME">
+			<Text>参观者发达</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_VOLCANO_KOH_I_SULTAN_NAME">
+			<Text>苏丹岛</Text>
+		</Row>
+		<!-- Mountains -->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SIERRA_GIGANTA_NAME">
+			<Text>吉甘塔山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_CORDILLERA_DE_LIPEZ_NAME">
+			<Text>利佩斯山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_FAMATINA_NAME">
+			<Text>法玛蒂娜山</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_PRINCIPAL_CORDILLERA_NAME">
+			<Text>校长科迪勒拉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SIERRA_DE_VELASCO_NAME">
+			<Text>贝拉斯科山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SPIN_GHAR_NAME">
+			<Text>旋转加尔</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_SULAIMAN_MOUNTAINS_NAME">
+			<Text>苏莱曼山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_AMATOLA_MOUNTAINS_NAME">
+			<Text>阿马托拉山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_BAVIAANSKLOOF_MOUNTAINS_NAME">
+			<Text>Baviaanskloof山</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_WINTERHOEK_MOUNTAINS_NAME">
+			<Text>温特和克山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_ATLANTIKA_MOUNTAINS_NAME">
+			<Text>亚特兰蒂卡山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_MANDARA_MOUNTAINS_NAME">
+			<Text>曼达拉山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_RANGRIM_MOUNTAINS_NAME">
+			<Text>朗格里姆山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_HAMGYONG_MOUNTAINS_NAME">
+			<Text>咸宫山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_KUMGANG_MOUNTAINS_NAME">
+			<Text>金刚山脉</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_CARMEL_MOUNTAINS_NAME">
+			<Text>卡梅尔山</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_MOUNTAIN_JUDAEAN_MOUNTAINS_NAME">
+			<Text>犹太山脉</Text>
+		</Row>
+		<!-- Deserts -->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_BAJA_CALIFORNIAN_NAME">
+			<Text>下加利福尼亚沙漠</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_MONTE_DESERT_NAME">
+			<Text>蒙特沙漠</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_KHARAN_DESERT_NAME">
+			<Text>哈兰沙漠</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_CHOLISTAN_DESERT_NAME">
+			<Text>乔利斯坦沙漠</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_KAROO_DESERT_NAME">
+			<Text>卡鲁沙漠</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_NEGEV_DESERT_NAME">
+			<Text>内盖夫沙漠</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_DESERT_JUDAEAN_DESERT_NAME">
+			<Text>犹太沙漠</Text>
+		</Row>
+		<!-- Lakes -->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_CHAPALA_NAME">
+			<Text>恰帕拉湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_BACALAR_NAME">
+			<Text>巴卡拉湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_CUITZEO_NAME">
+			<Text>翠兹湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_LAGO_ARGENTINO_NAME">
+			<Text>拉各·阿根廷</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_LACAR_LAKE_NAME">
+			<Text>拉卡尔湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_MENENDEZ_NAME">
+			<Text>梅嫩德斯湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_MANCHAR_NAME">
+			<Text>曼查尔湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SIMIL_NAME">
+			<Text>西米尔湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_HALEJI_NAME">
+			<Text>哈莱吉湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_SATPARA_NAME">
+			<Text>萨帕拉湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_KEENJHAR_NAME">
+			<Text>基恩哈尔湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_CHRISSIE_NAME">
+			<Text>克里斯西湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_FUNDUDZI_NAME">
+			<Text>丰杜兹湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_ZEEKOEVLEI_NAME">
+			<Text>Zeekoevlei</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_CHAD_NAME">
+			<Text>乍得湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_KAINJI_NAME">
+			<Text>Kainji湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_ANDONG_NAME">
+			<Text>安东湖</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_LAKE_JINYANG_NAME">
+			<Text>金阳湖</Text>
+		</Row>
+		<!-- Seas -->
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_RIO_DE_LA_PLATA_NAME">
+			<Text>普拉塔河</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_GULF_OF_SAN_MATIAS_NAME">
+			<Text>圣马蒂亚斯海湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_SAN_JORGE_GULF_NAME">
+			<Text>圣豪尔赫湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_SONMIANI_BAY_NAME">
+			<Text>Sonmiani湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_ST_HELENA_BAY_NAME">
+			<Text>圣海伦娜湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_ALGOA_BAY_NAME">
+			<Text>阿尔戈亚湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_FALSE_BAY_NAME">
+			<Text>福湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_BIGHT_OF_BENIN_NAME">
+			<Text>贝宁湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_BIGHT_OF_BIAFRA_NAME">
+			<Text>比夫拉湾</Text>
+		</Row>
+		<Row Language="zh_Hans_CN" Tag="LOC_NAMED_SEA_HAIFA_BAY_NAME">
+			<Text>海法湾</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- E20C_zh_CN_Text_Cities -->
+<!-- Author: Stephen -->
+<!-- DateCreated: 10/1/2017 -->
+<GameInfo>
+	<LocalizedText>
+		<!-- Cities -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RIYADH">
+			<Text>利雅得</Text>
+		</Replace>
+		<!-- Australia -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CANBERRA">
+			<Text>堪培拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SYDNEY">
+			<Text>悉尼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MELBOURNE">
+			<Text>墨尔本</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BRISBANE">
+			<Text>布里斯班</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ADELAIDE">
+			<Text>阿德莱德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PERTH">
+			<Text>珀斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HOBART">
+			<Text>霍巴特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GEELONG">
+			<Text>吉朗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LAUNCESTON">
+			<Text>朗塞斯顿 </Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BALLAARAT">
+			<Text>巴拉兰特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ROCKHAMPTON">
+			<Text>罗克汉普顿</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TOOWOOMBA">
+			<Text>图文巴</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TOWNSVILLE">
+			<Text>汤斯维尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BENDIGO">
+			<Text>本迪戈</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BROKEN_HILL">
+			<Text>断山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MAITLAND">
+			<Text>梅特兰</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WOLLONGONG">
+			<Text>卧龙岗市</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CAIRNS">
+			<Text>凯恩斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DARWIN">
+			<Text>达尔文</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GOULBURN">
+			<Text>古尔本</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BUNDABERG">
+			<Text>班达伯格</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WAGGA_WAGGA">
+			<Text>瓦加瓦加</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LISMORE">
+			<Text>利斯莫尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LITHGOW">
+			<Text>利斯戈</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MARYBOROUGH">
+			<Text>马里伯勒</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ALBURY">
+			<Text>奥尔伯里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ORANGE">
+			<Text>橙子</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FREMANTLE">
+			<Text>弗里曼特尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TWEED_HEADS">
+			<Text>粗花呢头</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_COFFS_HARBOUR">
+			<Text>科夫斯港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HERVEY_BAY">
+			<Text>赫维湾</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KALGOORLIE">
+			<Text>卡尔古利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PORT_MACQUARIE">
+			<Text>麦夸里港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ALICE_SPRINGS">
+			<Text>爱丽斯泉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BATHURST">
+			<Text>巴瑟斯特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GLADSTONE">
+			<Text>格莱斯顿</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QUEANBEYAN">
+			<Text>昆比恩</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PORT_PIRIE">
+			<Text>皮里港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BOOMAHNOOMOONAH">
+			<Text>Boomahnoomoonah</Text>
+		</Replace>
+		<!-- Mexico -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MEXICO_CITY">
+			<Text>墨西哥城</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUADALAJARA">
+			<Text>瓜达拉哈拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PUEBLA">
+			<Text>普埃布拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ZAPOPAN">
+			<Text>扎波潘</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JUAREZ">
+			<Text>华雷斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TIJUANA">
+			<Text>蒂华纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LEON">
+			<Text>里昂</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MONTERREY">
+			<Text>蒙特雷</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NEZAHUALCOYOTL">
+			<Text>Nezahualcóyotl</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHIHUAHUA">
+			<Text>奇瓦瓦州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAUCALPAN">
+			<Text>瑙卡潘</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MERIDA">
+			<Text>美利达</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAN_LUIS_POTOSI">
+			<Text>圣路易斯波托西</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AGUASCALIENTES">
+			<Text>阿瓜斯卡连特斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HERMOSILLO">
+			<Text>埃莫西约</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SALTILLO">
+			<Text>萨尔蒂约</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MEXICALI">
+			<Text>墨西卡利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CULIACAN">
+			<Text>库利亚坎</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUADELUPE">
+			<Text>瓜德卢普岛</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ACAPULCO">
+			<Text>阿卡普尔科</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TLALNEPANTLA">
+			<Text>特兰内潘特拉－德巴兹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CANCUN">
+			<Text>坎昆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QUERETARO">
+			<Text>克雷塔罗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHIMALHUACAN">
+			<Text>Chimalhuacán</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TORREON">
+			<Text>托雷翁</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MORELIA">
+			<Text>莫雷利亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_REYNOSA">
+			<Text>雷诺萨</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TLAQUEPAQUE">
+			<Text>特拉克帕克</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TUXTLA_GUTIERREZ">
+			<Text>图斯特拉·古铁雷斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DURANGO">
+			<Text>杜兰戈</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TOLUCA">
+			<Text>托卢卡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CIUDAD_LOPEZ_MATEOS">
+			<Text>洛佩斯城</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CUAUTITLAN_IZCALLI">
+			<Text>库奥蒂特兰·伊斯卡利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CIUDAD_APODACA">
+			<Text>阿波达卡城</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MATAMOROS">
+			<Text>马塔莫罗斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAN_NICOLAS">
+			<Text>加沙圣尼古拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VERACRUZ">
+			<Text>韦拉克鲁斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TONALA">
+			<Text>托纳拉</Text>
+		</Replace>
+		<!-- Indonesia -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SURABAYA">
+			<Text>泗水</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BANDUNG">
+			<Text>万隆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MEDAN">
+			<Text>棉兰</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BEKASI">
+			<Text>贝卡西</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SEMARANG">
+			<Text>三宝垄</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TANGERANG">
+			<Text>坦格朗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DEPOK">
+			<Text>德波</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PALEMBANG">
+			<Text>巨港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MAKASSAR">
+			<Text>望加锡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BATAM">
+			<Text>巴淡岛</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PEKANBARU">
+			<Text>北干巴鲁</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BOGOR">
+			<Text>茂物</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BANDAR_LAMPUNG">
+			<Text>班达楠榜</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PADANG">
+			<Text>巴东</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DENPASAR">
+			<Text>登巴萨</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MALANG">
+			<Text>玛琅</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAMARINDA">
+			<Text>三马林达</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TASIKMALAYA">
+			<Text>塔西马拉马</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BANJARMASIN">
+			<Text>班贾尔马辛</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BALIKPAPAN">
+			<Text>巴厘巴板</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SERANG">
+			<Text>攻击力</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JAMBI">
+			<Text>詹比</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CIMAHI">
+			<Text>奇马希</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PONTIANAK">
+			<Text>坤甸</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SURAKARTA">
+			<Text>苏拉卡塔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MANADO">
+			<Text>万鸦老</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MATARAM">
+			<Text>马塔兰</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CILEGON">
+			<Text>Cilegon</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YOGYAKARTA">
+			<Text>日惹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AMBON">
+			<Text>安汶</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KUPANG">
+			<Text>古邦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PALU">
+			<Text>帕卢</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BENGKULU">
+			<Text>本库鲁</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CIREBON">
+			<Text>井里汶</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SUKABUMI">
+			<Text>须文</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JAYAPURA">
+			<Text>查亚普拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KENDARI">
+			<Text>健达里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PEKALONGAN">
+			<Text>北加浪岸</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PEMATANG_SIANTAR">
+			<Text>佩马唐</Text>
+		</Replace>
+		<!-- Turkey -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ANKARA">
+			<Text>安卡拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ISTANBUL">
+			<Text>伊斯坦堡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IZMIR">
+			<Text>伊兹密尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BURSA">
+			<Text>囊</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ADANA">
+			<Text>阿达纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GAZIANTEP">
+			<Text>加济安泰普</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KONYA">
+			<Text>科尼亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ANTALYA">
+			<Text>安塔利亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DIYARBAKIR">
+			<Text>迪亚巴克尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MERSIN">
+			<Text>桃金娘</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KAYSERI">
+			<Text>开塞利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ESKISEHIR">
+			<Text>埃斯基谢希尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAMSUN">
+			<Text>獒</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DENIZLI">
+			<Text>代尼兹利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SANLIURFA">
+			<Text>桑尼乌法</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ADAPAZARI">
+			<Text>阿达帕扎勒</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MALATYA">
+			<Text>马拉蒂亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KAHRAMANMARAS">
+			<Text>卡赫拉曼马拉什</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ERZURUM">
+			<Text>埃尔祖鲁姆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VAN">
+			<Text>面包车</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ELAZIG">
+			<Text>埃拉泽</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IZMIT">
+			<Text>伊兹米特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MANISA">
+			<Text>马尼萨</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SIVAS">
+			<Text>锡瓦斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GEBZE">
+			<Text>盖布泽</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BALIKESIR">
+			<Text>巴勒克埃西尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KUTAHYA">
+			<Text>屈塔希亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TRABZON">
+			<Text>特拉布宗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CORUM">
+			<Text>昆仑</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CORLU">
+			<Text>乔尔卢</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ADIYAMAN">
+			<Text>阿德亚曼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OSMANIYE">
+			<Text>奥斯曼尼耶</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KIRIKKALE">
+			<Text>克勒克卡莱</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ANTAKYA">
+			<Text>安塔基亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AYDIN">
+			<Text>知识分子</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ISKENDERUN">
+			<Text>亚历山大</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_USAK">
+			<Text>仆人</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AKSARAY">
+			<Text>阿克萨赖</Text>
+		</Replace>
+		<!-- Argentina -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SALTA">
+			<Text>萨尔塔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ROSARIA">
+			<Text>罗萨里亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MENDOZA">
+			<Text>门多萨</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LA_PLATA">
+			<Text>拉普拉塔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MAR_DEL_PLATA">
+			<Text>马德普拉塔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TUCUMAN">
+			<Text>图库曼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NEUQUEN">
+			<Text>内乌肯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SANTIAGO_DEL_ESTERO">
+			<Text>圣地亚哥·德尔埃斯特罗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CORRIENTES">
+			<Text>潮流</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AVELLANEDA">
+			<Text>榛子</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BAHIA_BLANCA">
+			<Text>巴伊亚布兰卡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAN_SALVADOR_DE_JUJUY">
+			<Text>圣萨尔瓦多·德胡胡伊</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QUILMES">
+			<Text>Quilmes</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LANUS">
+			<Text>拉努斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_COMODORO_RIVADAVIA">
+			<Text>里瓦达维亚准将</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SANTA_FE">
+			<Text>圣达菲</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RESISTENCIA">
+			<Text>抵抗力</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_POSADAS">
+			<Text>波萨达斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PARANA">
+			<Text>巴拉那</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MERLO">
+			<Text>梅洛</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FORMOSA">
+			<Text>台塑</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BANFIELD">
+			<Text>班菲尔德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JOSE_C_PAZ">
+			<Text>何塞·帕兹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CATAMARCA">
+			<Text>卡塔马卡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAN_LUIS">
+			<Text>圣路易斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GREGORIO_DE_LAFERRERE">
+			<Text>格雷戈里·德·拉费雷尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HURLINGHAM">
+			<Text>Hurlingham</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LA_RIOJA">
+			<Text>拉里奥哈</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BERAZATEGUI">
+			<Text>贝拉扎特吉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GONZALEZ_CATAN">
+			<Text>冈萨雷斯·卡坦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RIO_CUARTO">
+			<Text>第四河</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAN_RAFAEL">
+			<Text>圣拉斐尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAN_MIGUEL">
+			<Text>圣迈克尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MORENO">
+			<Text>莫雷诺</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CONCORDIA">
+			<Text>协和</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SANTA_ROSA">
+			<Text>圣罗莎</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RIO_GALLEGOS">
+			<Text>加列戈斯河</Text>
+		</Replace>
+		<!-- Iran -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TEHRAN">
+			<Text>德黑兰</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MASHHAD">
+			<Text>马什哈德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ISFAHAN">
+			<Text>伊斯法罕</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KARAJ">
+			<Text>卡拉伊</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TABRIZ">
+			<Text>大不里士</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SHIRAZ">
+			<Text>设拉子</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AHVAZ">
+			<Text>阿瓦士</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QOM">
+			<Text>库姆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KERMANSHAH">
+			<Text>克尔曼沙</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_URMIA">
+			<Text>乌尔米亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RASHT">
+			<Text>拉什特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ZAHEDAN">
+			<Text>扎赫丹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KERMAN">
+			<Text>克尔曼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ARAK">
+			<Text>阿拉克</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HAMEDAN">
+			<Text>Hamedan</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YAZD">
+			<Text>亚兹德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ARDABIL">
+			<Text>Ardabil</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BANDAR_ABBAS">
+			<Text>阿巴斯港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ESLAMSHAHR">
+			<Text>埃斯兰莎尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QAZVIN">
+			<Text>加兹文</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ZANJAN">
+			<Text>赞詹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KHORRAMABAD">
+			<Text>霍拉马巴德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SANANDAJ">
+			<Text>Sanandaj</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MALARD">
+			<Text>马拉德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QODS">
+			<Text>Qods</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KASHAN">
+			<Text>喀山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GORGAN">
+			<Text>戈根</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GOLESTAN">
+			<Text>古列斯坦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SARI">
+			<Text>莎丽</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SHAHRIAR">
+			<Text>沙里亚尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DEZFUL">
+			<Text>Dezful</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KHOMEYNI_SHAHR">
+			<Text>霍梅尼·沙尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BORUJERD">
+			<Text>博鲁耶德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NISHAPUR">
+			<Text>尼沙布尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SABZEVAR">
+			<Text>萨布泽瓦尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAJAFABAD">
+			<Text>纳贾法巴德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AMOL">
+			<Text>阿莫尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BABOL">
+			<Text>巴博</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VARAMIN">
+			<Text>瓦拉明</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ABADAN">
+			<Text>阿巴丹</Text>
+		</Replace>
+		<!-- Pakistan -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ISLAMABAD">
+			<Text>伊斯兰堡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KARACHI">
+			<Text>卡拉奇</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LAHORE">
+			<Text>拉合尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FAISALABAD">
+			<Text>费萨拉巴德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAWALPINDI">
+			<Text>拉瓦尔品第</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUJRANWALA">
+			<Text>古吉兰瓦拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PESHAWAR">
+			<Text>白沙瓦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MULTAN">
+			<Text>木尔坦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_QUETTA">
+			<Text>奎达</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SARGODHA">
+			<Text>萨戈达</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SIALKOT">
+			<Text>锡亚尔科特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BAHAWALPUR">
+			<Text>巴哈瓦尔布尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SUKKUR">
+			<Text>苏库尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JHANG">
+			<Text>张</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SHEKHUPURA">
+			<Text>谢库普拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MARDAN">
+			<Text>马丹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUJRAT">
+			<Text>古杰拉特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LARKANA">
+			<Text>拉尔卡纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KASUR">
+			<Text>卡苏尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAHIM_YAR_KHAN">
+			<Text>拉希姆·亚尔汗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SAHIWAL">
+			<Text>沙希瓦尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OKARA">
+			<Text>豆渣</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WAH_CANTONMENT">
+			<Text>华县</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DERA_GHAZI_KHAN">
+			<Text>德拉·加兹汗</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MINGORA">
+			<Text>明戈拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MIRPUR_KHAS">
+			<Text>米尔布尔·卡斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHINIOT">
+			<Text>奇尼奥特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAWABSHAH">
+			<Text>纳瓦布沙</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KAMOKE">
+			<Text>卡莫克</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BUREWALA">
+			<Text>布勒瓦拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JHELUM">
+			<Text>耶鲁姆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SADIQABAD">
+			<Text>萨迪卡巴德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KHANEWAL">
+			<Text>卡纽瓦尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HAFIZABAD">
+			<Text>哈菲扎巴德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KOHAT">
+			<Text>Kohat</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JACOBABAD">
+			<Text>雅各布巴德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SHIKARPUR">
+			<Text>Shikarpur</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MUZAFFARGARH">
+			<Text>穆扎法尔加</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KHANPUR">
+			<Text>汉普尔</Text>
+		</Replace>
+		<!-- South Africa -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PRETORIA">
+			<Text>比勒陀利亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CAPE_TOWN">
+			<Text>开普敦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DURBAN">
+			<Text>德班</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JOHANNESBURG">
+			<Text>约翰内斯堡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SOWETO">
+			<Text>索韦托</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PORT_ELIZABETH">
+			<Text>伊丽莎白港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PIETERMARITZBURG">
+			<Text>彼得马里茨堡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BENONI">
+			<Text>贝诺尼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TEMBISA">
+			<Text>腾比沙</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_EAST_LONDON">
+			<Text>东伦敦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VEREENIGING">
+			<Text>验证</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BLOEMFONTEIN">
+			<Text>布隆方丹</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BOKSBURG">
+			<Text>博克斯堡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WELKOM">
+			<Text>韦尔科姆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KRUGERSDORP">
+			<Text>克鲁格斯多普</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DIEPSLOOT">
+			<Text>深入</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BOTSHABELO">
+			<Text>Botshabelo</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BRAKPAN">
+			<Text>布拉潘</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WITBANK">
+			<Text>威特班克</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RICHARDS_BAY">
+			<Text>理查兹湾</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VANDERBIJLPARK">
+			<Text>范德比尔公园</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CENTURION">
+			<Text>百夫长</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_UITENHAGE">
+			<Text>维特哈格</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ROODEPOORT">
+			<Text>鲁德普特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PAARL">
+			<Text>帕尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SPRINGS">
+			<Text>斯普林斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CARLETONVILLE">
+			<Text>卡尔顿维尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KLERKSDORP">
+			<Text>克莱克斯多普</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MIDRAND">
+			<Text>中兰德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WESTONARIA">
+			<Text>Westonaria</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MIDDELBURG">
+			<Text>米德尔堡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VRYHEID">
+			<Text>弗赖海德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ORKNEY">
+			<Text>奥克尼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KIMBERLEY">
+			<Text>金伯利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_EMBALENHLE">
+			<Text>电子邮件</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NIGEL">
+			<Text>奈杰尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MPUMALANGA">
+			<Text>普马兰加省</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BHISHO">
+			<Text>比绍</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RANDFONTEIN">
+			<Text>兰德方丹</Text>
+		</Replace>
+		<!-- Nigeria -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ABUJA">
+			<Text>阿布贾</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LAGOS">
+			<Text>拉各斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KANO">
+			<Text>鹿野</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IBADAN">
+			<Text>伊巴丹岛</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BENIN_CITY">
+			<Text>贝宁市</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PORT_HARCOURT">
+			<Text>哈科特港</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JOS">
+			<Text>乔斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ILORIN">
+			<Text>伊洛林</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KADUNA">
+			<Text>卡杜纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ENUGU">
+			<Text>埃努古</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ZARIA">
+			<Text>扎里亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WARRI">
+			<Text>沃里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IKORODU">
+			<Text>伊科罗杜</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MAIDUGURI">
+			<Text>迈杜古里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ABA">
+			<Text>阿坝</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IFE">
+			<Text>伊夫</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BAUCHI">
+			<Text>包奇</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AKURE">
+			<Text>阿库雷</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ABEOKUTA">
+			<Text>阿倍库塔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OYO">
+			<Text>大洋</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_UYO">
+			<Text>宇洋</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SOKOTO">
+			<Text>索科托</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OSOGBO">
+			<Text>奥索博</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OWERRI">
+			<Text>奥韦里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YOLA">
+			<Text>约拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CALABAR">
+			<Text>卡拉巴尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_UMUAHIA">
+			<Text>孩子们</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ONDO_CITY">
+			<Text>翁都市</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MINNA">
+			<Text>明娜</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LAFIA">
+			<Text>拉菲亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OKENE">
+			<Text>奥肯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KATSINA">
+			<Text>卡西娜</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IKEJA">
+			<Text>池家</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NSUKKA">
+			<Text>制造商</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ADO_EKITI">
+			<Text>阿多·埃基蒂</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AWKA">
+			<Text>奥卡</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_OGBOMOSHO">
+			<Text>奥格莫修</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ISEYIN">
+			<Text>雪</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MUBI">
+			<Text>木比</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ONITSHA">
+			<Text>奥尼查</Text>
+		</Replace>
+		<!-- South Korea -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BUSAN">
+			<Text>釜山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_INCHEON">
+			<Text>仁川</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DAEGU">
+			<Text>大邱</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_DAEJEON">
+			<Text>大田</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GWANGJU">
+			<Text>光州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SUWON">
+			<Text>水原</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ULSAN">
+			<Text>蔚山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHANGWON">
+			<Text>昌原</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GOYANG">
+			<Text>高阳市</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YONGIN">
+			<Text>龙仁</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SEONGNAM">
+			<Text>城南</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BUCHEON">
+			<Text>富川市</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHEONGJU">
+			<Text>清州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ANSAN">
+			<Text>安山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JEONJU">
+			<Text>全州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHEONAN">
+			<Text>天安</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAMYANGJU">
+			<Text>南阳州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HWASEONG">
+			<Text>华城</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ANYANG">
+			<Text>安阳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GIMHAE">
+			<Text>金海</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_POHANG">
+			<Text>浦项</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PYEONGTAEK">
+			<Text>平泽</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JEJU">
+			<Text>济州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SIHEUNG">
+			<Text>始兴</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_UIJEONGBU">
+			<Text>义亭</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUMI">
+			<Text>龟尾</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PAJU">
+			<Text>坡州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GIMPO">
+			<Text>金浦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JINJU">
+			<Text>晋州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GWANGMYEONG">
+			<Text>光明</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WONJU">
+			<Text>原州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ASAN">
+			<Text>牙山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_IKSAN">
+			<Text>益山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YANGSAN">
+			<Text>梁山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUNPO">
+			<Text>军浦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHUNCHEON">
+			<Text>春川</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GYEONGSAN">
+			<Text>庆山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GUNSAN">
+			<Text>群山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YEOSU">
+			<Text>丽水</Text>
+		</Replace>
+		<!-- North Korea -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PYONGYANG">
+			<Text>平壤</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HAMHUNG">
+			<Text>咸兴</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHONGJIN">
+			<Text>崇进</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAMPO">
+			<Text>南浦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_WONSAN">
+			<Text>元山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SINUIJU">
+			<Text>新义州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TANCHON">
+			<Text>潭村</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KAECHON">
+			<Text>凯川</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KAESONG">
+			<Text>开城</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SARIWON">
+			<Text>沙里旺</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SUNCHON">
+			<Text>顺天</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PYONGSONG">
+			<Text>平松</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HAEJU">
+			<Text>海重</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KANGGYE">
+			<Text>江</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ANJU">
+			<Text>安菊</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TOKCHON">
+			<Text>独村</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KIMCHAEK">
+			<Text>金采克</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RASON">
+			<Text>拉森</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KUSONG">
+			<Text>古松</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HYESAN">
+			<Text>惠山</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHONGJU">
+			<Text>崇州</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HUICHON">
+			<Text>汇村</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HOERYONG">
+			<Text>胡龙</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SINPO">
+			<Text>新浦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SONGRIM">
+			<Text>松林</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MUNCHON">
+			<Text>芒村</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MANPO">
+			<Text>万宝</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HUNGNAM">
+			<Text>洪南</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YUKTAE">
+			<Text>Yuktae</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HONGWON">
+			<Text>洪源</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAJIN">
+			<Text>那津</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ONGJIN">
+			<Text>翁津</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KILJU">
+			<Text>基尔朱</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHAERYONG">
+			<Text>彩龙</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_UIJU">
+			<Text>义重</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SUNGHO">
+			<Text>成浩</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CHANGYON">
+			<Text>昌永</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SUNAN">
+			<Text>苏南</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HWANGJU">
+			<Text>黄州</Text>
+		</Replace>
+		<!-- Israel -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_JERUSALEM_ISRAEL">
+			<Text>耶路撒冷</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TEL_AVIV">
+			<Text>特拉维夫</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HAIFA">
+			<Text>海法</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RISHON_LEZION">
+			<Text>里雄·莱锡安</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PETAH_TIKVA">
+			<Text>佩塔·提克瓦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ASHDOD">
+			<Text>阿什杜德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NETANYA">
+			<Text>内塔尼亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BEERSHEBA">
+			<Text>贝尔谢巴</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HOLON">
+			<Text>霍隆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BNEI_BRAK">
+			<Text>贝尼·布拉克</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAMAT_GAN">
+			<Text>拉马特·甘</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_REHOVOT">
+			<Text>雷霍沃特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ASHKELON">
+			<Text>阿什凯隆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BAT_YAM">
+			<Text>蝙蝠荫</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BEIT_SHEMESH">
+			<Text>拜特·谢麦什</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KFAR_SABA">
+			<Text>卡法萨巴</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HERZLIYA">
+			<Text>荷兹利亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HADERA">
+			<Text>哈德拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MODIIN">
+			<Text>莫迪因·马卡比姆·罗伊特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAZARETH">
+			<Text>拿撒勒人</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAMLA">
+			<Text>拉姆拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LOD">
+			<Text>Lod</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAANANA">
+			<Text>拉阿纳纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MODIIN_ILLIT">
+			<Text>莫迪因·伊利特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAHAT">
+			<Text>拉哈特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_HOD_HASHARON">
+			<Text>霍德·沙沙隆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GIVATAYIM">
+			<Text>吉瓦泰姆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KIRYAT_ATA">
+			<Text>基里亚特·阿塔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAHARIYA">
+			<Text>Nahariya</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_UMM_AL_FAHM">
+			<Text>乌姆·法姆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KIRYAT_GAT">
+			<Text>基里亚特·加特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_EILAT">
+			<Text>埃拉特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NESS_ZIONA">
+			<Text>内斯·齐奥纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ACRE">
+			<Text>英亩</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_AFULA">
+			<Text>阿富拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ELAD">
+			<Text>埃尔阿德</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_ROSH_HAAYIN">
+			<Text>罗什·哈因</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_KARMIEL">
+			<Text>卡米尔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RAMAT_HASHARON">
+			<Text>拉马特·沙沙隆</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_YAVNE">
+			<Text>亚夫内</Text>
+		</Replace>
+		<!-- Italy -->
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MILAN">
+			<Text>米兰</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_NAPLES">
+			<Text>那不勒斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TURIN">
+			<Text>都灵</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PALERMO">
+			<Text>巴勒莫</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GENOA">
+			<Text>热那亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BOLOGNA">
+			<Text>博洛尼亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FLORENCE">
+			<Text>佛罗伦斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BARI">
+			<Text>巴里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CATANIA">
+			<Text>卡塔尼亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VENICE">
+			<Text>威尼斯</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MESSINA">
+			<Text>墨西拿</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PADUA">
+			<Text>帕多瓦</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TRIESTE">
+			<Text>的里雅斯特</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TARANTO">
+			<Text>塔兰托</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BRESCIA">
+			<Text>布雷西亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PARMA">
+			<Text>帕尔马</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PRATO">
+			<Text>普拉托</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MODENA">
+			<Text>摩德纳</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_REGGIO_CALABRIA">
+			<Text>雷焦卡拉布里亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_REGGIO_EMILIA">
+			<Text>雷焦·艾米利亚</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PERUGIA">
+			<Text>佩鲁贾</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LIVORNO">
+			<Text>里窝那</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_CAGLIARI">
+			<Text>卡利亚里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FOGGIA">
+			<Text>福贾</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_RIMINI">
+			<Text>里米尼</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SALERNO">
+			<Text>萨勒诺</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FERRARA">
+			<Text>费拉拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_SASSARI">
+			<Text>萨萨里</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_LATINA">
+			<Text>拉丁裔</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_GIUGLIANO">
+			<Text>朱利亚诺</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_MONZA">
+			<Text>蒙扎</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_PESCARA">
+			<Text>佩斯卡拉</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_BERGAMO">
+			<Text>贝加莫</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_FORLI">
+			<Text>弗利</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_TRENTO">
+			<Text>特伦托</Text>
+		</Replace>
+		<Replace Language="zh_Hans_CN" Tag="LOC_CITY_NAME_VICENZA">
+			<Text>维琴察</Text>
+		</Replace>
+	</LocalizedText>
+</GameInfo>
