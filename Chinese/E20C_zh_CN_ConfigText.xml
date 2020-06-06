@@ -75,7 +75,7 @@
 			<Text>金正恩</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_NETANYAHU_NAME">
-			<Text>本杰明·内塔尼亚胡</Text>
+			<Text>本雅明·内塔尼亚胡</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_LEADER_GENTILONI_NAME">
 			<Text>保罗·真蒂洛尼</Text>
@@ -220,7 +220,7 @@
 			<Text>发电厂+1[ICON_Production]生产力。您通往其他文明的[ICON_TradeRoute]贸易路线为巴基斯坦+2[ICON_Gold]金币。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ZUMA_NAME">
-			<Text>持久</Text>
+			<Text>坚持不懈</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_TRAIT_LEADER_ZUMA_DESCRIPTION">
 			<Text>积累厌战情绪减半。您文明招募的每个伟人使您获得+2%[ICON_Gold]回合金币。</Text>
