@@ -120,275 +120,275 @@
 			<Text>俄罗斯的利益</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PUTIN_DESCRIPTION">
-			<Text>喜欢不争夺同一城邦效忠的文明。 不喜欢直接争夺城邦效忠的文明。</Text>
+			<Text>喜欢不争夺相同城邦效忠的文明。不喜欢直接争夺城邦效忠的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MODI_NAME">
-			<Text>兴都瓦</Text>
+			<Text>印度教民族主义</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MODI_DESCRIPTION">
-			<Text>喜欢遵循相同宗教的文明。 不喜欢试图将宗教传播到他的帝国的文明。</Text>
+			<Text>喜欢同宗教的文明。不喜欢向他传教的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ABE_NAME">
-			<Text>通过威慑实现和平</Text>
+			<Text>威慑和平</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ABE_DESCRIPTION">
-			<Text>喜欢拥有强大军事力量的文明。 不喜欢战争贩子。</Text>
+			<Text>喜欢拥有强大军事力量的文明。不喜欢战况文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MERKEL_NAME">
-			<Text>欧洲联盟</Text>
+			<Text>欧盟</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MERKEL_DESCRIPTION">
-			<Text>喜欢不争夺同一城邦效忠的文明。 不喜欢直接争夺城邦效忠的文明。</Text>
+			<Text>喜欢不争夺相同城邦效忠的文明。不喜欢直接争夺城邦效忠的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MAY_NAME">
 			<Text>英国脱欧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MAY_DESCRIPTION">
-			<Text>喜欢她祖国的文明。 不喜欢城市国家的宗主国或征服城市国家的文明。</Text>
+			<Text>喜欢与她同一大洲的文明。不喜欢城邦的宗主国或征服城邦的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MACRON_NAME">
-			<Text>赞成工会</Text>
+			<Text>专注同盟</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MACRON_DESCRIPTION">
-			<Text>喜欢愿意结成长期同盟的文明。 不喜欢任何谴责或攻击他的朋友和盟友的人。</Text>
+			<Text>喜欢愿意结成长期同盟的文明。不喜欢任何谴责或攻击他的朋友和盟友的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_TEMER_NAME">
-			<Text>有利于业务</Text>
+			<Text>专注商业</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_TEMER_DESCRIPTION">
-			<Text>尊重其他高收入文明。 摒弃低收入文明。</Text>
+			<Text>尊重其他高收入文明。鄙视低收入文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SALMAN_NAME">
-			<Text>一真信念</Text>
+			<Text>真信唯一</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SALMAN_DESCRIPTION">
-			<Text>喜欢遵循相同宗教的文明。 不喜欢跟随其他宗教的文明。</Text>
+			<Text>喜欢同宗教的文明。不喜欢异教文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SISI_NAME">
-			<Text>强度与稳定性</Text>
+			<Text>强大而稳定</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_SISI_DESCRIPTION">
-			<Text>喜欢拥有强大军事力量的文明。 不喜欢宣战的人。</Text>
+			<Text>喜欢拥有强大军事力量的文明。不喜欢宣布不突袭战争的人。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_TRUDEAU_NAME">
-			<Text>因为是（当前年份）</Text>
+			<Text>因为是(Present Year)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_TRUDEAU_DESCRIPTION">
-			<Text>喜欢具有[ICON_Culture]高文化的文明。 不喜欢文化[ICON_Culture]低的文明。</Text>
+			<Text>喜欢具有[ICON_Culture]高文化值的文明。不喜欢[ICON_Culture]文化值低的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_TURNBULL_NAME">
-			<Text>钦佩野心</Text>
+			<Text>钦佩强者</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_TURNBULL_DESCRIPTION">
-			<Text>对[ICON_Science]科学和[ICON_Culture]文化中领先于他的那些文明友好。 不喜欢[ICON_Science]科学和[ICON_Culture]文化所缺乏的向后文明。</Text>
+			<Text>对[ICON_Science]科研值和[ICON_Culture]文化值领先于他的那些文明友好。不喜欢[ICON_Science]科研值和[ICON_Culture]文化值落后于他的那些文明敌视。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PENA_NIETO_NAME">
-			<Text>行业冠军</Text>
+			<Text>工业翘楚</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_PENA_NIETO_DESCRIPTION">
-			<Text>尝试建立产业，并喜欢同样关注[ICON_Production]生产的文明。</Text>
+			<Text>倾向于建设工业区，并喜欢同样关注[ICON_Production]生产力的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WIDODO_NAME">
 			<Text>海军至上</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_WIDODO_DESCRIPTION">
-			<Text>试图建立一个大型海军。 喜欢没有大型海军的文明。 拥有庞大海军的文明是不信任的。</Text>
+			<Text>倾向于建立庞大的海军。喜欢没有庞大海军的文明。不信任拥有庞大海军的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ERDOGAN_NAME">
-			<Text>目的统一</Text>
+			<Text>目标一致</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ERDOGAN_DESCRIPTION">
-			<Text>支持具有相同政府类型的文明和具有相同宗教信仰的文明。 不喜欢拥有不同政府的文明，而实际上不喜欢拥有同一时代的不同政府的文明。</Text>
+			<Text>喜欢同一政体的文明和信仰相同宗教的文明。不喜欢拥有不同政体的文明，厌恶处于同时时期不同政体的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MACRI_NAME">
 			<Text>心灵会议</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MACRI_DESCRIPTION">
-			<Text>偏爱具有相同类型政府的文明，不喜欢具有不同政府的文明，而实际上不喜欢具有相同时代的不同政府的文明。</Text>
+			<Text>喜欢具有相同政体的文明，不喜欢具有不同政体的文明，厌恶处于同时时期不同政体的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ROUHANI_NAME">
 			<Text>神权者</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ROUHANI_DESCRIPTION">
-			<Text>喜欢遵循相同宗教的文明。 不喜欢跟随其他宗教的文明。</Text>
+			<Text>喜欢信仰相同宗教的文明。不喜欢跟随其他宗教的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ABBASI_NAME">
 			<Text>国家利益</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ABBASI_DESCRIPTION">
-			<Text>喜欢愿意结成长期同盟的文明。 不喜欢任何谴责或攻击他的朋友和盟友的人。</Text>
+			<Text>喜欢愿意结成长期同盟的文明。不喜欢任何谴责或攻击他的朋友和盟友的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ZUMA_NAME">
 			<Text>社会主义者</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_ZUMA_DESCRIPTION">
-			<Text>喜欢低收入文明。 不喜欢高收入文明。</Text>
+			<Text>喜欢低收入文明。不喜欢高收入文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_BUHARI_NAME">
 			<Text>非洲联盟</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_BUHARI_DESCRIPTION">
-			<Text>喜欢不争夺同一城邦效忠的文明。 不喜欢直接争夺城邦效忠的文明。</Text>
+			<Text>喜欢不争夺相同城邦效忠的文明。不喜欢直接争夺城邦效忠的文明。。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MOON_NAME">
 			<Text>阳光政策</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MOON_DESCRIPTION">
-			<Text>喜欢保持和平的文明。 不喜欢战争贩子。</Text>
+			<Text>喜欢保持和平的文明。不喜欢战狂文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_KIM_NAME">
-			<Text>火箭人</Text>
+			<Text>火箭侠</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_KIM_DESCRIPTION">
-			<Text>对火箭及其（核）有效载荷不健康。 勉强地尊重其他利用核武器展现力量的文明。</Text>
+			<Text>对火箭与核载荷有着病态的兴趣。不情愿地尊重其他利用核武器展现力量的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_NETANYAHU_NAME">
-			<Text>以色列盟友</Text>
+			<Text>以色列的盟友</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_NETANYAHU_DESCRIPTION">
-			<Text>喜欢愿意结成长期同盟的文明。 不喜欢任何谴责或攻击他的朋友和盟友的人。</Text>
+			<Text>喜欢愿意结成长期同盟的文明。不喜欢任何谴责或攻击他的朋友和盟友的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_GENTILONI_NAME">
-			<Text>绿色同情</Text>
+			<Text>环保情结</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_GENTILONI_DESCRIPTION">
-			<Text>喜欢种植森林或建立国家公园的文明。 不喜欢清除特征的文明。</Text>
+			<Text>喜欢种植森林或建立国家公园的文明。不喜欢清除地貌特征的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_AMLO_NAME">
-			<Text>人民的人</Text>
+			<Text>人民公仆</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_AMLO_DESCRIPTION">
-			<Text>喜欢那些让他们的人民开心的人。 不喜欢那些疏忽人民的人。</Text>
+			<Text>喜欢那些让人民保持高幸福度的文明。不喜欢那些疏忽人民的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_BOLSONARO_NAME">
 			<Text>空想家</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_BOLSONARO_DESCRIPTION">
-			<Text>偏爱具有相同类型政府的文明，不喜欢具有不同政府的文明，而实际上不喜欢具有相同时代的不同政府的文明。</Text>
+			<Text>喜欢具有相同政体的文明，不喜欢具有不同政体的文明，厌恶处于同时时期不同政体的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_FERNANDEZ_NAME">
 			<Text>谨慎行事</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_FERNANDEZ_DESCRIPTION">
-			<Text>喜欢与他的城市进行贸易的文明。 不喜欢高收入文明。</Text>
+			<Text>喜欢与他进行贸易的文明。不喜欢高收入文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_JOHNSON_NAME">
 			<Text>英国脱欧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_JOHNSON_DESCRIPTION">
-			<Text>喜欢他祖国的文明。 不喜欢城市国家的宗主国或征服城市国家的文明。</Text>
+			<Text>喜欢与她同一大陆的文明。不喜欢城邦的宗主国或征服城邦的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_CONTE_NAME">
 			<Text>联盟建设者</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_CONTE_DESCRIPTION">
-			<Text>建立尽可能多的联盟，并且喜欢做同样的事情的人。 不喜欢没有建立联盟的文明。</Text>
+			<Text>尽可能多的结盟，并且喜欢做同样的事情的文明。不喜欢没有建立联盟的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_RAMAPHOSA_NAME">
 			<Text>调解员</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_RAMAPHOSA_DESCRIPTION">
-			<Text>尽可能参加紧急情况和竞赛，喜欢同样的文明。 不喜欢那些忽略紧急情况和竞争的人。</Text>
+			<Text>尽可能参与紧急状况和竞赛，并且喜欢做同样的事情的文明。不喜欢那些忽略紧急状况和竞赛的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_KHAN_NAME">
-			<Text>好邻居</Text>
+			<Text>好邻国</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_KHAN_DESCRIPTION">
-			<Text>除非邻居违背了他的诺言，否则不会攻击邻居。 喜欢不与邻居打架的人，不喜欢与邻居打架的人。</Text>
+			<Text>除非邻国违背了他的诺言，否则不会攻击邻国。喜欢不与邻国发生战争的文明，不喜欢与邻国作战的文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MORRISON_NAME">
-			<Text>亲贸易</Text>
+			<Text>专注贸易</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_AGENDA_MORRISON_DESCRIPTION">
-			<Text>尝试最大化[ICON_TradeRoute]交易路线。 喜欢与他交易的文明，不喜欢与他交易的文明。</Text>
+			<Text>尝试最大化[ICON_TradeRoute]贸易路线。喜欢与他贸易的文明，不喜欢不与他贸易的文明。</Text>
 		</Row>
 		<!-- Agenda Modifiers -->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TRUMP_DECLARED_FRIEND">
-			<Text>特朗普喜欢宣告朋友</Text>
+			<Text>特朗普喜欢被宣布友谊</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TRUMP_DENOUNCED_FRIEND">
-			<Text>当您谴责他的朋友时，特朗普讨厌它</Text>
+			<Text>特朗普讨厌您谴责他的朋友</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TRUMP_SURPRISE_WAR">
 			<Text>特朗普不喜欢宣布突击战争的人</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_XI_HAS_DESIRED_LUXURY">
-			<Text>习不喜欢你拥有他没有的奢侈品</Text>
+			<Text>习近平不喜欢你拥有他没有的奢侈品</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_XI_HAS_NO_DESIRED_LUXURY">
 			<Text>习近平很高兴你没有他没有的奢侈品</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PUTIN_NOT_COMPETING">
-			<Text>普京很高兴您没有争夺城市州</Text>
+			<Text>普京很高兴您没有争夺城邦</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PUTIN_COMPETING">
-			<Text>普京很生气，您正在招募他所在的城市</Text>
+			<Text>普京对您正在招募他的城邦很生气</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MODI_SAME_RELIGION">
 			<Text>莫迪很高兴你拥有相同的宗教信仰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MODI_ENCROACHING_RELIGION">
-			<Text>莫迪不喜欢你正在转变他的人民</Text>
+			<Text>莫迪不喜欢你正在转变他人民的信仰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_ABE_HIGH_STANDING_ARMY">
 			<Text>安倍很高兴看到一支拥有庞大常备军的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_ABE_WARMONGER">
-			<Text>安倍对您的热情感到不安</Text>
+			<Text>安倍对您的战狂行为感到不安</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MERKEL_NOT_COMPETING">
-			<Text>默克尔很高兴您没有争夺城市州</Text>
+			<Text>默克尔很高兴您没有争夺城邦</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MERKEL_COMPETING">
-			<Text>默克尔不高兴您正在招募她所在的城市</Text>
+			<Text>默克尔对您正在招募她的城邦感到沮丧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MAY_HOME_CONTINENT">
-			<Text>愿您共享同一家大洲</Text>
+			<Text>梅很高兴与您分享同一个大洲</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MAY_INVOLVED">
-			<Text>可能让您一直在控制城市州感到沮丧</Text>
+			<Text>梅对您一直在控制城邦感到沮丧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MACRON_DECLARED_FRIEND">
-			<Text>马克龙喜欢被宣布的朋友</Text>
+			<Text>马克龙喜欢被宣布友谊</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MACRON_DENOUNCED_FRIEND">
-			<Text>当你谴责他的朋友时马克龙讨厌它</Text>
+			<Text>马克龙讨厌您谴责他的朋友</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TEMER_HIGH_INCOME">
-			<Text>特默尔喜欢高收入文明</Text>
+			<Text>特梅尔喜欢高收入文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TEMER_LOW_INCOME">
-			<Text>特默尔不喜欢低收入的文明</Text>
+			<Text>特梅尔不喜欢低收入的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SALMAN_SAME_RELIGION">
-			<Text>萨尔曼很高兴您拥有相同的宗教信仰</Text>
+			<Text>萨勒曼很高兴您拥有相同的宗教信仰</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SALMAN_DIFFERENT_RELIGION">
-			<Text>萨尔曼不喜欢没有信仰的文明</Text>
+			<Text>萨勒曼不喜欢没有信仰的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SISI_HIGH_STANDING_ARMY">
-			<Text>西西很高兴看到一支拥有庞大常备军的文明</Text>
+			<Text>塞西很高兴看到一支拥有庞大常备军的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_SISI_SURPRISE_WAR">
-			<Text>西西不喜欢宣战的人</Text>
+			<Text>塞西不喜欢宣布突袭战争的人</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TRUDEAU_HIGH_CULTURE">
 			<Text>特鲁多对您的文化感到满意</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TRUDEAU_LOW_CULTURE">
-			<Text>特鲁多很失望您几乎没有文化</Text>
+			<Text>特鲁多对您几乎没有文化感到失望</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TURNBULL_LEADING">
 			<Text>特恩布尔对您的科学和文化感到满意</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_TURNBULL_LAGGING">
-			<Text>特恩布尔很失望您缺乏科学和文化</Text>
+			<Text>特恩布尔对您缺乏科学和文化感到失望</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PENA_NIETO_HIGH_INDUSTRY">
 			<Text>佩尼亚·涅托很高兴看到另一个勤劳的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_PENA_NIETO_LOW_INDUSTRY">
-			<Text>佩尼亚·涅托对您的生产力低落感到失望</Text>
+			<Text>佩尼亚·涅托对您的生产力低下感到失望</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_WIDODO_LOW_NAVAL_POWER">
 			<Text>维多多对您的小型海军感到满意</Text>
@@ -418,10 +418,10 @@
 			<Text>鲁哈尼不喜欢没有信仰的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_ABBASI_DECLARED_FRIEND">
-			<Text>阿巴西喜欢被宣布为朋友</Text>
+			<Text>阿巴西喜欢被宣布友谊</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_ABBASI_DENOUNCED_FRIEND">
-			<Text>当您谴责他的朋友时，阿巴西讨厌它</Text>
+			<Text>阿巴西讨厌您谴责他的朋友</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_ZUMA_LOW_INCOME">
 			<Text>祖玛喜欢低收入的文明</Text>
@@ -430,37 +430,37 @@
 			<Text>祖玛不喜欢高收入文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_BUHARI_NOT_COMPETING">
-			<Text>布哈里很高兴你没有争夺城市州</Text>
+			<Text>布哈里很高兴你没有争夺城邦</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_BUHARI_COMPETING">
-			<Text>布哈里很沮丧，你正在招募他所在的城市</Text>
+			<Text>布哈里很沮丧，你正在招募他的城邦</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MOON_NOT_WARMONGER">
-			<Text>月亮很高兴您一直保持和平</Text>
+			<Text>文在寅很高兴您一直保持和平</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MOON_WARMONGER">
-			<Text>月亮让你的肠胃不适</Text>
+			<Text>文在寅对你的战狂行为感到沮丧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_KIM_HIGH_NUKE_LOVE">
-			<Text>金同意有核武器的时间和地点</Text>
+			<Text>金正恩赞同当下应拥有核武器</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_KIM_LOW_NUKE_LOVE">
-			<Text>金不喜欢扩散核武器的文明</Text>
+			<Text>金正恩不喜欢扩散核武器的文明</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_NETANYAHU_DECLARED_FRIEND">
 			<Text>内塔尼亚胡喜欢被宣布为好友</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_NETANYAHU_DENOUNCED_FRIEND">
-			<Text>当你谴责他的朋友时，内塔尼亚胡不喜欢它</Text>
+			<Text>内塔尼亚胡不喜欢你谴责他的朋友</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_DESCRIPTION_GENTILONI_ENVIRONMENT">
-			<Text>保罗·吉蒂罗尼正在观察您对自然世界的待遇</Text>
+			<Text>保罗·吉蒂罗尼正在观察您对待自然世界的方式</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_AMLO_DESCRIPTION_HIGH_HAPPINESS">
-			<Text>AMLO很高兴您使您的员工感到高兴</Text>
+			<Text>洛佩斯·奥夫拉多尔很高兴您使您的员工感到高兴</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_AMLO_DESCRIPTION_LOW_HAPPINESS">
-			<Text>AMLO不喜欢您忽略了人民的幸福</Text>
+			<Text>洛佩斯·奥夫拉多尔不喜欢您忽略了人民的幸福</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_BOLSONARO_SAME_GOVERNMENT">
 			<Text>博尔索纳罗对您的执政方式感到满意</Text>
@@ -469,41 +469,41 @@
 			<Text>博尔索纳罗不喜欢您的执政方式</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_FERNANDEZ_TRADE">
-			<Text>费尔南德斯喜欢您将贸易路线发送给阿根廷</Text>
+			<Text>费尔南德斯喜欢您将贸易路线通向阿根廷</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_FERNANDEZ_HIGH_INCOME">
 			<Text>费尔南德斯怀疑您的财富</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_JOHNSON_HOME_CONTINENT">
-			<Text>约翰逊很高兴与您分享同一个祖国</Text>
+			<Text>约翰逊很高兴与您分享同一个大洲</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_JOHNSON_INVOLVED">
-			<Text>约翰逊对您一直在控制城市州感到沮丧</Text>
+			<Text>约翰逊对您一直在控制城邦感到沮丧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_CONTE_MANY_ALLIANCES">
-			<Text>孔蒂批准您的结盟</Text>
+			<Text>孔特赞赏您的结盟行为</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_CONTE_FEW_ALLIANCES">
-			<Text>孔戴很不高兴你参加的联盟很少</Text>
+			<Text>孔特因您的盟友太少而很不高兴</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_KHAN_PEACEFUL">
-			<Text>汗很高兴您与邻居保持和平</Text>
+			<Text>汗很高兴您与邻国保持和平</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_KHAN_WARLIKE">
-			<Text>可汗为您与邻居打架而感到沮丧</Text>
+			<Text>汗为您与邻国开战而感到沮丧</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_MODIFIER_MORRISON_TRADE">
 			<Text>莫里森喜欢与他交易的文明</Text>
 		</Row>
 		<!-- Diplomacy - Kudo/Warning -->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TRUMP_ANY">
-			<Text>我们是好朋友。 最好的。</Text>
+			<Text>我们是好朋友。最好的那种。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_TRUMP_REASON_ANY">
 			<Text>(你是我的朋友之一)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TRUMP_ANY">
-			<Text>你表现得像个失败者。伤心！</Text>
+			<Text>你表现得像个失败者。糟心！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_TRUMP_REASON_DENOUNCED">
 			<Text>(你谴责了我的一位朋友)</Text>
@@ -512,37 +512,37 @@
 			<Text>(您宣布了一场突击战争)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_XI_ANY">
-			<Text>我们可以平等交易是件好事。</Text>
+			<Text>我们可以平等贸易，这是件好事。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_XI_REASON_ANY">
-			<Text>(你没有他想要的奢侈品)</Text>
+			<Text>(您没有他想要的奢侈品)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_XI_ANY">
-			<Text>为什么不与中国进行贸易？您不知道合作胜于竞争吗？</Text>
+			<Text>为什么不与中国进行贸易？难道您不知道合作胜于竞争吗？</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_XI_REASON_ANY">
-			<Text>(你有他想要的奢侈品)</Text>
+			<Text>(您有他想要的奢侈品)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PUTIN_ANY">
-			<Text>您最好考虑自己的利益，而不要干涉我们的利益。</Text>
+			<Text>希望您能为自己的利益做出考量，除非涉足我们的。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_PUTIN_REASON_ANY">
-			<Text>(您不是在争夺城市国家)</Text>
+			<Text>(您没有争夺城邦)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PUTIN_ANY">
-			<Text>那个城市在俄罗斯的保护之下。 您不应干涉他人的事务。</Text>
+			<Text>那个城市在俄罗斯的保护之下。您不应干涉他人的事务。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_PUTIN_REASON_ANY">
-			<Text>(您正在争夺城市国家)</Text>
+			<Text>(您正在争夺城邦)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MODI_ANY">
-			<Text>我很高兴看到我们朝着开悟走同样的道路。</Text>
+			<Text>我很高兴看到我们朝着开悟之路携手共进。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MODI_REASON_ANY">
-			<Text>(你分享他的宗教)</Text>
+			<Text>(您分享了他的宗教)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MODI_ANY">
-			<Text>我们谨请您停止转换依我们的人民。您遵循自己的道路，我们将遵循我们的道路。</Text>
+			<Text>我们谨请您停止转变我们人民的信仰。您遵循自己的道路，我们也将遵循我们自己的。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MODI_REASON_ANY">
 			<Text>(您正在将宗教传播到他的城市)</Text>
@@ -551,46 +551,46 @@
 			<Text>我很高兴看到另一位领导人像我一样认真对待安全问题。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_ABE_REASON_ANY">
-			<Text>(你有强大的军事力量)</Text>
+			<Text>(您有强大的军事力量)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ABE_ANY">
-			<Text>战争之路只会导致苦难。 不要犯与我们相同的错误。</Text>
+			<Text>战争之路只会导致苦难。不要犯与我们相同的错误。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_ABE_REASON_ANY">
-			<Text>(你很热情)</Text>
+			<Text>(您是个战狂)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MERKEL_ANY">
-			<Text>我感谢您不干扰我们的联盟项目。</Text>
+			<Text>我感谢您没有干扰我们的联盟项目。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MERKEL_REASON_ANY">
-			<Text>(您不是在争夺城市国家)</Text>
+			<Text>(您没有争夺城邦)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MERKEL_ANY">
-			<Text>您试图破坏我们的联盟是可耻的。</Text>
+			<Text>您试图破坏我们的联盟，这是可耻的。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MERKEL_REASON_ANY">
-			<Text>(您正在争夺城市国家)</Text>
+			<Text>(您正在争夺城邦)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MAY_ANY">
-			<Text>我们期待与非洲大陆的每个人合作。 独立国家之间的友谊和贸易很重要。</Text>
+			<Text>我们期待与这片大陆的每个人合作。独立国家之间的友谊和贸易很重要。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MAY_REASON_ANY">
-			<Text>(您共享同一家乡)</Text>
+			<Text>(您共享同一大陆)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MAY_ANY">
-			<Text>您应该停止干涉他人的事务。 应该允许每个国家独立。</Text>
+			<Text>您应该停止干涉他人的事务。每一个国家的独立都应得到保障。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MAY_REASON_ANY">
-			<Text>(您正在征服或与城市国家结盟)</Text>
+			<Text>(您正在征服或与城邦结盟)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MACRON_ANY">
-			<Text>友谊导致更大的国家融合。 我很高兴我们是朋友。</Text>
+			<Text>友谊促进国家更好地融合。我很高兴我们是朋友。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MACRON_REASON_ANY">
-			<Text>(你是我的朋友之一)</Text>
+			<Text>(您是我的朋友之一)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MACRON_ANY">
-			<Text>你可恶的言论在这个世界上没有地位。</Text>
+			<Text>这个世界容不下你丑恶的谬论。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MACRON_REASON_ANY">
 			<Text>(你谴责了我的一位朋友)</Text>
@@ -599,34 +599,34 @@
 			<Text>我很高兴看到您是我可以合作的人。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_TEMER_REASON_ANY">
-			<Text>(你收入很高)</Text>
+			<Text>(您收入很高)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TEMER_ANY">
-			<Text>如果您的事务如此混乱，我们如何才能一起做生意？</Text>
+			<Text>如果您的商业如此混乱，我们如何才能一起做生意？</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_TEMER_REASON_ANY">
-			<Text>(你收入低)</Text>
+			<Text>(您收入低)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SALMAN_ANY">
-			<Text>和平在你身上！ 您可以很好地遵循真实的道路。</Text>
+			<Text>祝您平安！您可以很好地遵循真理之路。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_SALMAN_REASON_ANY">
-			<Text>(你分享他的宗教)</Text>
+			<Text>(您分享了他的宗教)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SALMAN_ANY">
-			<Text>如果您继续拒绝真正的道路，那么您有什么希望？</Text>
+			<Text>如果您继续拒绝真理之路，那么您还有什么希望？</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_SALMAN_REASON_ANY">
 			<Text>(您不分享他的宗教)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_SISI_ANY">
-			<Text>必须采取严格的安全措施，以确保一个人的安全。 很高兴看到您同意。</Text>
+			<Text>必须采取严格的安全措施，以确保人民的安全。很高兴看到您对此表示赞同。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_SISI_REASON_ANY">
-			<Text>(你有强大的军事力量)</Text>
+			<Text>(您有强大的军事力量)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_SISI_ANY">
-			<Text>背叛是无知的行为。 我们不会忘记，也不会忘记。</Text>
+			<Text>背叛是无知的行为。我们不曾忘记，也不会忘记。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_SISI_REASON_ANY">
 			<Text>(您宣布了一场突击战争)</Text>
@@ -635,13 +635,13 @@
 			<Text>我很高兴找到另一位认识到进步重要性的领导者。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_TRUDEAU_REASON_ANY">
-			<Text>(你文化强)</Text>
+			<Text>(您的文化强大)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TRUDEAU_ANY">
-			<Text>现在是2020年。您的旧想法不再与当今世界相关。</Text>
+			<Text>现在是2020年。您的陈旧的观点不再与当今世界相配。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_TRUDEAU_REASON_ANY">
-			<Text>(你文化薄弱)</Text>
+			<Text>((您的文化薄弱)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_TURNBULL_ANY">
 			<Text>我很高兴见到另一位认识到努力取得成功的领导人。</Text>
@@ -650,19 +650,19 @@
 			<Text>(你们科学文化强)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_TURNBULL_ANY">
-			<Text>您可以做得更好。 我希望。</Text>
+			<Text>您可以做得更好，希望如此。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_TURNBULL_REASON_ANY">
 			<Text>(你科学文化薄弱)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_PENA_NIETO_ANY">
-			<Text>我们俩都认识到提高生产力将为我们的人民提供更好的机会。 也许这个协议可以发展成伙伴关系。</Text>
+			<Text>我们俩都认识到提高生产力将为我们的人民提供更好的机会。也许这个协议可以发展成伙伴关系。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_PENA_NIETO_REASON_ANY">
 			<Text>(您的生产能力很强)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_PENA_NIETO_ANY">
-			<Text>如果您忽视您的行业，那么您就忽略了您的国家。</Text>
+			<Text>如果您忽视您的工业，那么您就忽略了您的国家。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_PENA_NIETO_REASON_ANY">
 			<Text>(你的生产能力很弱)</Text>
@@ -674,67 +674,67 @@
 			<Text>(你海军薄弱)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_WIDODO_ANY">
-			<Text>您最好将大型海军留在自己的海岸上。 我们会看着你的。</Text>
+			<Text>您最好让大型海军留在自己的海岸边。我们保持监视。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_WIDODO_REASON_ANY">
 			<Text>(你有强大的海军)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ERDOGAN_ANY">
-			<Text>我很高兴看到同样的事情。 如果您跟随我的领导，我们可以取得成就。</Text>
+			<Text>我很高兴看到我们一样。如果您跟随我的领导，我们可以取得成就。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_ERDOGAN_REASON_ANY">
 			<Text>(您拥有相同类型的政府)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ERDOGAN_ANY">
-			<Text>不团结造成许多问题。 如果您不修补自己的方式，将会导致灾难。</Text>
+			<Text>不团结造成许多问题。如果您不修正自己的路线，它将引向灾难。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_ERDOGAN_REASON_ANY">
 			<Text>(您有不同类型的政府)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MACRI_ANY">
-			<Text>明智的政策无可替代。 我很高兴看到您为您的人民明智地选择了。</Text>
+			<Text>明智的政策无可替代。我很高兴看到您为您的人民明智地选择了。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MACRI_REASON_ANY">
 			<Text>(您拥有相同类型的政府)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MACRI_ANY">
-			<Text>您实际上是否认为您正在通过这些政策帮助您的员工？ 如果您仍然遇到此错误，将很难一起工作。</Text>
+			<Text>难道你真的认为这些政策能帮到你的人民？如果你在这条路上一错再错，保持合作将变得困难。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MACRI_REASON_ANY">
 			<Text>(您有不同类型的政府)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ROUHANI_ANY">
-			<Text>和平在你身上！ 愿你在公义的道路上受到祝福。</Text>
+			<Text>祝您平安！愿您在公义的道路上受到祝福。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_ROUHANI_REASON_ANY">
-			<Text>(你分享他的宗教)</Text>
+			<Text>(您分享他的宗教)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ROUHANI_ANY">
-			<Text>偏离真正的道路是愚蠢的。 提交是唯一安全的过程。</Text>
+			<Text>偏离正道是愚蠢的，皈依才是唯一安全的途径。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_ROUHANI_REASON_ANY">
 			<Text>(您不分享他的宗教)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ABBASI_ANY">
-			<Text>我很高兴我们可以一起工作。 这是一个危险的世界，友谊是我们所有人的盾牌。</Text>
+			<Text>我很高兴我们可以一同合作。这是一个危险的世界，友谊是我们所有人的盾牌。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_ABBASI_REASON_ANY">
-			<Text>(你是我的朋友之一)</Text>
+			<Text>(您是我的朋友之一)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ABBASI_ANY">
-			<Text>我很失望您不想与我们和我们的盟友结盟。</Text>
+			<Text>我很失望您不想与我们及我们的盟友结盟。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_ABBASI_REASON_ANY">
 			<Text>(你谴责了我的一位朋友)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_ZUMA_ANY">
-			<Text>我们欢迎您加入我们与所有压迫者的斗争。</Text>
+			<Text>我们欢迎您加入我们与所有压迫者的斗争之中。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_ZUMA_REASON_ANY">
 			<Text>(你收入低)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_ZUMA_ANY">
-			<Text>你觉得你不够吗？ 您应该开始与他人分享您的财富。</Text>
+			<Text>你觉得你占有的还不够多么？您应该开始与他人分享您的财富。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_ZUMA_REASON_ANY">
 			<Text>(你收入很高)</Text>
@@ -743,82 +743,82 @@
 			<Text>我很高兴看到您不干预我们的事务。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_BUHARI_REASON_ANY">
-			<Text>(您不是在争夺城市国家)</Text>
+			<Text>(您没有争夺城邦)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BUHARI_ANY">
-			<Text>让您感到不安的是，您正在干涉您不属于的地方。</Text>
+			<Text>让我感到不安的是，您正在干涉您不属于的地方。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_BUHARI_REASON_ANY">
-			<Text>(您正在争夺城市国家)</Text>
+			<Text>(您正在争夺城邦)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MOON_ANY">
-			<Text>我一直在为和平而努力。我很高兴看到你也认识到和平的价值。</Text>
+			<Text>我一直在为和平而努力，很高兴看到您也认识到和平的价值。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_MOON_REASON_ANY">
-			<Text>(你保持和平)</Text>
+			<Text>(您保持了和平)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MOON_ANY">
-			<Text>战争带来痛苦。 你为什么不给和平机会？</Text>
+			<Text>战争带来痛苦。你为什么不给和平一个机会？</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MOON_REASON_ANY">
-			<Text>(你很热情)</Text>
+			<Text>(你是战狂)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KIM_ANY">
-			<Text>我看到你也是核威胁。 我将考虑这一点。</Text>
+			<Text>我看到你也是个核平的威胁。我将考虑这一点。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_KIM_REASON_ANY">
 			<Text>(...)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KIM_ANY">
-			<Text>整个朝鲜都在嘲笑你的弱点。我应该以导弹的方式教你。</Text>
+			<Text>整个朝鲜都在嘲笑你的软弱。我朝你来一发，导弹，教育你一下。【I think this is too much】</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_KIM_REASON_ANY">
 			<Text>(...)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_NETANYAHU_ANY">
-			<Text>以色列的朋友是我的朋友。 让我们庆祝我们的友谊。</Text>
+			<Text>以色列的朋友是我的朋友。让我们庆祝我们的友谊。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_NETANYAHU_REASON_ANY">
 			<Text>(你是我的朋友之一)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_NETANYAHU_ANY">
-			<Text>我不能相信那些反对我朋友的人。 我会密切关注你的。</Text>
+			<Text>我不能相信那些反对我朋友的人。我会密切关注你的。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_NETANYAHU_REASON_ANY">
 			<Text>(你谴责了我的一位朋友)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_GENTILONI_ANY">
-			<Text>我很高兴认识其他关心我的环境的人。</Text>
+			<Text>很高兴能够遇到与我一样对环境问题保持关切的人。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_GENTILONI_REASON_ANY">
 			<Text>(您正在保护环境)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_GENTILONI_ANY">
-			<Text>我们只有一个地球。 您应该更好地对待它。</Text>
+			<Text>我们只有一个地球。你应该善待它。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_GENTILONI_REASON_ANY">
 			<Text>(您正在破坏环境)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_AMLO_ANY">
-			<Text>我很高兴看到您关心您的员工。 这是真正领导的首要责任。</Text>
+			<Text>我很高兴看到您关心您的人民。这是真正领导的首要责任。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_AMLO_REASON_ANY">
 			<Text>(你的人民很高兴)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_AMLO_ANY">
-			<Text>您应该更好地照顾您的员工。 人民的福利必须永远放在首位。</Text>
+			<Text>您应该更好地照顾您的人民。人民的福利必须永远放在首位。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_AMLO_REASON_ANY">
 			<Text>(你的人不开心)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_BOLSONARO_ANY">
-			<Text>您和我都同意政府最基本的问题。 很好</Text>
+			<Text>您和我在绝大多数基本政治问题上达成了共识，这很好。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_BOLSONARO_REASON_ANY">
 			<Text>(您拥有相同类型的政府)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_BOLSONARO_ANY">
-			<Text>你是个笨蛋。 您正在带领人民毁灭。</Text>
+			<Text>你是个白痴。您正在带领人民走向毁灭。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_BOLSONARO_REASON_ANY">
 			<Text>(您有不同类型的政府)</Text>
@@ -827,37 +827,37 @@
 			<Text>我很高兴看到您的贸易使我的国家受益。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_FERNANDEZ_REASON_ANY">
-			<Text>(您已将贸易路线发送给他们)</Text>
+			<Text>(您已将贸易路线通向他们)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_FERNANDEZ_ANY">
-			<Text>我不相信那些富有的人。 我会一直盯着你。</Text>
+			<Text>我不相信那些富有的人。我会一直盯着你。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_FERNANDEZ_REASON_ANY">
 			<Text>(你收入很高)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_JOHNSON_ANY">
-			<Text>作为一个独立国家，我们很高兴与邻国平等地合作。</Text>
+			<Text>作为一个独立国家，我们很高兴能与邻国平等地合作。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_JOHNSON_REASON_ANY">
-			<Text>(您共享同一家乡)</Text>
+			<Text>(您共享同一大陆)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_JOHNSON_ANY">
-			<Text>您缺乏对其他国家独立的尊重，这在您的品格上反映得很差。</Text>
+			<Text>缺乏对其他国家独立性的尊重，这点在你身上体现得淋漓尽致。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_JOHNSON_REASON_ANY">
-			<Text>(您正在征服或与城市国家结盟)</Text>
+			<Text>(您正在征服或与城邦结盟)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_CONTE_ANY">
-			<Text>我很高兴看到您同意只有采取集体和协调的行动才能帮助我们面对摆在我们面前的多重挑战。</Text>
+			<Text>我很高兴您能认同，只有团结协作才能帮助我们共同面对摆在我们面前的诸多挑战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_CONTE_REASON_ANY">
-			<Text>(你有很多联盟)</Text>
+			<Text>(您有很多盟友)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_CONTE_ANY">
-			<Text>为什么您独自一人而不是与他人合作？ 我希望这并不表示反社会倾向更深。</Text>
+			<Text>为什么您独自一人而不是与他人合作？我希望这并不意味着极端反社会倾向。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_CONTE_REASON_ANY">
-			<Text>(您没有足够的联盟)</Text>
+			<Text>(您没有足够的盟友)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_RAMAPHOSA_ANY">
 			<Text>我很高兴看到您是一个能够与他人合作的领导者。</Text>
@@ -866,22 +866,22 @@
 			<Text>(您已加入紧急事件)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_RAMAPHOSA_ANY">
-			<Text>是您不能与他人合作，还是不在乎？ 没关系，任何一种方式都令人遗憾。</Text>
+			<Text>是您无法与他人合作，还是不在乎？二者没有区别，任何一种情况都令人遗憾。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_RAMAPHOSA_REASON_ANY">
 			<Text>(您尚未加入紧急事件)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_KHAN_ANY">
-			<Text>我很高兴看到您与邻居保持和平。</Text>
+			<Text>我很高兴看到您与邻国保持和平。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_LEADER_KHAN_REASON_ANY">
-			<Text>(您与邻居保持和平)</Text>
+			<Text>(您与邻国保持和平)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_KHAN_ANY">
-			<Text>你为什么要和邻居打架？ 您无法杀死通往和平的道路。</Text>
+			<Text>你为什么要和邻国开战？你无法抹杀通往和平的道路。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_KHAN_REASON_ANY">
-			<Text>(你在和邻居吵架)</Text>
+			<Text>(你在和邻国开战)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_KUDO_EXIT_LEADER_MORRISON_ANY">
 			<Text>我很高兴您愿意与我们交易。</Text>
@@ -890,216 +890,216 @@
 			<Text>(您正在与他们交易)</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_EXIT_LEADER_MORRISON_ANY">
-			<Text>您确实应该考虑与我们进行交易。 我们有很多提供。</Text>
+			<Text>您确实应该考虑与我们进行交易。我们可以提供很多。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_WARNING_LEADER_MORRISON_REASON_ANY">
 			<Text>(您不与他们交易)</Text>
 		</Row>
 		<!-- Diplomacy - War -->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRUMP_ANY">
-			<Text>你想打架吗？ 我们将摧毁您，我们将获胜。</Text>
+			<Text>你想开战？我们击垮你，然后获得胜利。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRUMP_ANY">
-			<Text>为了维护我们国家的安全，我们必须与您作战。</Text>
+			<Text>为了维护我们国家的安全，我们必须与你开战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_XI_ANY">
-			<Text>你敢威胁我们吗？ 我们足够强大，可以站起来抵抗。</Text>
+			<Text>你胆敢威胁我们？中国人民站起来了，我们必将反抗。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_XI_ANY">
-			<Text>维护我们的利益需要我们向您开战。</Text>
+			<Text>勿谓言之不预也。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PUTIN_ANY">
-			<Text>如果战争是你想要的，那你就必须被摧毁，粉碎。</Text>
+			<Text>如果你渴望战争，那你就必须被摧毁，粉碎。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PUTIN_ANY">
-			<Text>如果不可避免要打架，我们宁愿先打。</Text>
+			<Text>如果战争无法避免，我们将先发制人。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MODI_ANY">
-			<Text>我们的宽容并不意味着我们不会为自己辩护。</Text>
+			<Text>我们的宽容并不意味着我们不会保护自己。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MODI_ANY">
-			<Text>您的行为已变得无法忍受。 备战。</Text>
+			<Text>你的行为已变得无法忍受。备战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ABE_ANY">
-			<Text>我们将坚决捍卫自己。</Text>
+			<Text>我们将坚决捍卫自己的国家。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ABE_ANY">
-			<Text>你的无情行动迫使我违背从未发动战争的誓言。</Text>
+			<Text>你的无情行为迫使我违背了永不发动战争的誓言。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MERKEL_ANY">
-			<Text>如果我们必须为捍卫自由，我们的价值观而战，那么我们将为之奋斗。</Text>
+			<Text>如果我们必须捍卫自由与思想而战，那就战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MERKEL_ANY">
-			<Text>我们将不再容忍您的行为。 备战。</Text>
+			<Text>我们将不再容忍你的暴行。备战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MAY_ANY">
-			<Text>国家安全是我们的首要职责，面对您的侵略，我们将做我们必须做的事情。</Text>
+			<Text>国家安全是我们的首要职责，面对你的侵略，我们将做我们必须做的事情。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MAY_ANY">
-			<Text>您的行为威胁到我们的安全。 由于外交失败，我们必须打仗。</Text>
+			<Text>你的行为威胁到我们的安全。既然外交无法解决，我们只能诉诸战争。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MACRON_ANY">
-			<Text>您可能认为我们软弱，但是我们有赢得胜利的必要意愿。</Text>
+			<Text>你可能认为我们软弱，但是我们有赢得胜利所必要意志。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MACRON_ANY">
-			<Text>我试图避免战争，但是您的行为驱使我们展开战斗。</Text>
+			<Text>我试图避免战争，但是你的行为迫使我们开战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TEMER_ANY">
-			<Text>您可能会说“ 泰默非常脆弱”，但这是胡说！你会看见...</Text>
+			<Text>你可能会说“ 特梅尔非常软弱”，但这是谬言！你会发现的...</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TEMER_ANY">
-			<Text>你是最后一次惹我 让我们解决这个问题。</Text>
+			<Text>这是你最后一次惹我生气，让我们解决这个问题。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SALMAN_ANY">
-			<Text>你敢打国王吗？ 您将为此无礼而付出！</Text>
+			<Text>你敢打国王？你将为此无礼而付出！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SALMAN_ANY">
-			<Text>您对王国的冒犯太大了。 现在是时候偿还您的罪过了。</Text>
+			<Text>你对王国的冒犯颇深，现在是时候偿还你的罪行了。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_SISI_ANY">
-			<Text>伤害埃及的任何人都将被抹去地球的面孔！</Text>
+			<Text>任何伤害埃及的人都将被从地表抹去！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_SISI_ANY">
-			<Text>埃及必须受到保护，免受你们的喜欢。 我们将在战场上与您会面。</Text>
+			<Text>必须埃及免受你你这种人的袭击。战场上见。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TRUDEAU_ANY">
-			<Text>我们将为保护我们的人民而奋斗。 你不会占上风。</Text>
+			<Text>我们将为保护我们的人民而战斗。你不会占上风。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TRUDEAU_ANY">
-			<Text>战争应该是万不得已的选择，但在与您打交道时，我们已经没有其他选择了。</Text>
+			<Text>战争应是万不得已的选择，但在与你打交道时，我们已经没有其他选择了。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_TURNBULL_ANY">
-			<Text>您低估了澳大利亚。 我们将不战而胜。</Text>
+			<Text>你低估了澳大利亚。我们将不战而胜。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_TURNBULL_ANY">
-			<Text>有时没有简单的解决方案。 您已将我们推向了极限。</Text>
+			<Text>有时没有简单的解决方案。你已将我们推向了极限。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_PENA_NIETO_ANY">
-			<Text>你会后悔的。 我们将竭尽全力捍卫主权。</Text>
+			<Text>你会后悔的。我们将竭尽全力捍卫主权。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_PENA_NIETO_ANY">
-			<Text>我仅出于墨西哥的利益行事。 我断定宣战符合我们的利益。</Text>
+			<Text>我仅出于墨西哥的利益行事，我断定宣战符合我们的利益。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_WIDODO_ANY">
 			<Text>我们将竭尽全力捍卫我们的海岸。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_WIDODO_ANY">
-			<Text>只要您的船只涌入大海，印尼就不会安全。 备战。</Text>
+			<Text>只要你的船只涌入大海，印尼就不会安全。备战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ERDOGAN_ANY">
-			<Text>你们帝国主义者都是一样的。您可以攻击土耳其，但不能击败我们！</Text>
+			<Text>你们帝国主义者都是一样的。你可以攻击土耳其，但不能击败我们！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ERDOGAN_ANY">
 			<Text>你强迫我们采取行动：为战争做准备。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MACRI_ANY">
-			<Text>通过战斗，没有人获胜。 你为什么选择打架？</Text>
+			<Text>通过战争解决问题，没有人能够获胜。你为什么选择开战？</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MACRI_ANY">
-			<Text>一个团结的阿根廷是不可阻挡的。 今天，我们团结起来反对您。</Text>
+			<Text>一个团结的阿根廷是不可阻挡的。今天，我们将团结起来反抗你。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ROUHANI_ANY">
-			<Text>如果您入侵我们的土地，我们将驱逐您，就像我们驱逐革命的敌人一样。</Text>
+			<Text>如果你入侵我们的土地，我们会把你赶出去，就像我们赶走革命的敌人一样。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ROUHANI_ANY">
-			<Text>你是伟大的撒旦。 作为正义的人，与您作战是我们的责任。 死给你！</Text>
+			<Text>你是个大恶魔。作为正义的人，与你作战是我们的责任。去死吧！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ABBASI_ANY">
-			<Text>你会后悔的。 我们将捍卫巴基斯坦至死。</Text>
+			<Text>你会后悔的。我们将保卫巴基斯坦至死。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ABBASI_ANY">
-			<Text>我们认为现状是不可接受的。 现在是战争的时候了。</Text>
+			<Text>我们认为现状是不可接受的，是时候开战了。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_ZUMA_ANY">
-			<Text>你要打仗吗？ 我们愿意为南非而战并死！</Text>
+			<Text>你要打仗吗？我们愿意为南非战斗到死！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_ZUMA_ANY">
-			<Text>您已成为南非的敌人。 备战。</Text>
+			<Text>你已成为南非的敌人。备战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BUHARI_ANY">
-			<Text>我对冲突并不陌生。 如果您想打架，将有一场。</Text>
+			<Text>我对冲突并不陌生。如果您想开战，那就打一场。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BUHARI_ANY">
-			<Text>我更愿意直面敌人。 让我们看看你是什么构成的。</Text>
+			<Text>我更愿意直面敌人，让我们看看你有几斤几两。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MOON_ANY">
 			<Text>和平胜于战争，但我们不会屈服于暴君。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MOON_ANY">
-			<Text>我曾希望避免战争，但您别无选择。</Text>
+			<Text>我曾希望避免战争，但你让我别无选择。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KIM_ANY">
-			<Text>你真傻！我会用火驯服你！</Text>
+			<Text>你个老糊涂！我会用炮打到你服！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KIM_ANY">
-			<Text>我会把你压在脚跟底下。 准备去死！</Text>
+			<Text>我会把你踩在脚下。准备受死！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_NETANYAHU_ANY">
-			<Text>我们将以无限的勇气捍卫我们的家园。 我们将赢或死。</Text>
+			<Text>我们将以无限的勇气捍卫我们的家园。不胜利，吾宁死。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_NETANYAHU_ANY">
-			<Text>我们将攻击威胁我们的任何人。 你是威胁。</Text>
+			<Text>我们将攻击威胁我们的任何人，而你就是个威胁。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_GENTILONI_ANY">
-			<Text>如有必要，意大利准备战斗。</Text>
+			<Text>如有必要，意大利已准备战斗。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_GENTILONI_ANY">
-			<Text>我们不能接受您构成的危险。 您必须被击败。</Text>
+			<Text>我们不能接受你构成的危险。你必须被击败。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_AMLO_ANY">
-			<Text>你会后悔的。 我们将竭尽全力捍卫主权。</Text>
+			<Text>你会后悔的。我们将竭尽全力捍卫主权。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_AMLO_ANY">
-			<Text>我仅出于墨西哥的利益行事。 我断定宣战符合我们的利益。</Text>
+			<Text>我仅出于墨西哥的利益行事，我断定宣战符合我们的利益。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_BOLSONARO_ANY">
-			<Text>你这个傻瓜。 准备被销毁。</Text>
+			<Text>你这个傻瓜，准备被摧毁吧。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_BOLSONARO_ANY">
 			<Text>现在，我们将看到谁更强。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_FERNANDEZ_ANY">
-			<Text>通过战斗，没有人获胜。你为什么选择打架？</Text>
+			<Text>通过战争解决问题，没有人能够获胜。可你为什么选择战争？</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_FERNANDEZ_ANY">
-			<Text>一个团结的阿根廷是不可阻挡的。 今天，我们团结起来反对您。</Text>
+			<Text>一个团结的阿根廷是不可阻挡的。今天，我们已团结起来反抗你。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_JOHNSON_ANY">
-			<Text>如果这是您想要的斗争，那将是您的斗争。 英国不容易被击败。</Text>
+			<Text>如果你渴望战争，那你就会得到战争，但大不列颠可不容易被击败。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_JOHNSON_ANY">
-			<Text>您的行为已变得无法忍受。 战争是目前唯一的答案。</Text>
+			<Text>你的行为已变得无法忍受，战争是目前唯一的答案。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_CONTE_ANY">
-			<Text>如有必要，意大利准备保卫自己。</Text>
+			<Text>如有必要，意大利已准备战斗。。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_CONTE_ANY">
-			<Text>我们不能接受您构成的危险。 您必须被击败。</Text>
+			<Text>我们不能接受你构成的危险。你必须被击败</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_RAMAPHOSA_ANY">
 			<Text>你要打仗吗？ 我们愿意为南非而战并死！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_RAMAPHOSA_ANY">
-			<Text>您已成为南非的敌人。 备战。</Text>
+			<Text>你已成为南非的敌人。备战。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_KHAN_ANY">
-			<Text>您如何证明这一点？ 战争不是答案。</Text>
+			<Text>你如何证明这一点？战争不是答案。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_KHAN_ANY">
-			<Text>我不喜欢战争，但您已将我们推向了战争。</Text>
+			<Text>我不喜欢战争，但你已将我们推向了战争。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_HUMAN_LEADER_MORRISON_ANY">
-			<Text>我致力于获胜。 如果您想打仗，那就准备输。</Text>
+			<Text>我致力于获胜。如果你想打仗，那就准备好输。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DECLARE_WAR_FROM_AI_LEADER_MORRISON_ANY">
-			<Text>为了国家安全，我们必须向您宣战。</Text>
+			<Text>为了国家安全，我们必须向你宣战。</Text>
 		</Row>
 		<!-- Diplomacy - Defeated -->
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_TRUMP_ANY">
-			<Text>您？打败我了？那是假新闻！</Text>
+			<Text>你？击败我了？假新闻！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_HUMAN_LEADER_TRUMP_ANY">
-			<Text>您？打败我了？那是假新闻！</Text>
+			<Text>你？击败我了？假新闻！</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DEFEAT_FROM_AI_LEADER_XI_ANY">
 			<Text>这是一场严重的危机。 党被打败了。 我被打败了。 中国将成为什么样？</Text>
@@ -2076,7 +2076,7 @@
 			<Text>不，谢谢。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_DELEGATION_FROM_AI_LEADER_KHAN_ANY">
-			<Text>我正在派外交代表团前往你的首都。 希望您会成为邻居，并张开双臂接受他们。</Text>
+			<Text>我正在派外交代表团前往你的首都。 希望您会成为邻国，并张开双臂接受他们。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_ACCEPT_DELEGATION_FROM_HUMAN_LEADER_MORRISON_ANY">
 			<Text>我很高兴欢迎您的代表团访问澳大利亚。 在这里有很多值得一看的地方和活动，我相信他们会做的很开心。</Text>
@@ -2760,7 +2760,7 @@
 			<Text>我们应该彼此共享有关各自首都的信息。 这样做将为建立互利关系奠定基础。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_LEADER_KHAN_ANY">
-			<Text>欢迎！ 我是巴基斯坦总理伊姆兰·汗。 我希望你能成为一个好邻居。</Text>
+			<Text>欢迎！ 我是巴基斯坦总理伊姆兰·汗。 我希望你能成为一个好邻国。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_DIPLO_FIRST_MEET_VISIT_RECIPIENT_LEADER_KHAN_ANY">
 			<Text>巴基斯坦附近有一座城市。 为了友谊，我邀请您参观并享受我们的款待。</Text>
@@ -3974,7 +3974,7 @@
 			<Text>弗拉基米尔·普京的俄罗斯定位为强大的广阔文明。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_PUTIN_CHAPTER_DETAILED_BODY">
-			<Text>凭借俄罗斯索取瓷砖的奖励和普京向进攻城市州的奖励，普京有能力迅速建立帝国。 间谍奖金使普京在随后的比赛中可以超越对手。</Text>
+			<Text>凭借俄罗斯索取瓷砖的奖励和普京向进攻城邦的奖励，普京有能力迅速建立帝国。 间谍奖金使普京在随后的比赛中可以超越对手。</Text>
 		</Row>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MODI_TITLE">
@@ -4025,7 +4025,7 @@
 			<Text>安格拉·默克尔（Angela Merkel）的德国处于生产和外交强国的有利位置。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MERKEL_CHAPTER_DETAILED_BODY">
-			<Text>额外的外交政策位置使默克尔在城市国家中具有优势，并有可能更好地利用世界国会。 结合德国的生产奖金，德国安格拉·默克尔（Angela Merkel）领导下的德国完全有资格追求科学，统治和外交胜利。</Text>
+			<Text>额外的外交政策位置使默克尔在城邦中具有优势，并有可能更好地利用世界国会。 结合德国的生产奖金，德国安格拉·默克尔（Angela Merkel）领导下的德国完全有资格追求科学，统治和外交胜利。</Text>
 		</Row>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAY_TITLE">
@@ -4214,10 +4214,10 @@
 			<Text>生于哈桑·费雷顿（Hassan Fereydun），他将名字改名为Rouhani，意为“精神神职人员”，以反映他对宗教的热爱。鲁哈尼在库姆神学院接受宗教教育，在德黑兰大学接受法律教育，因此参军并同时主张革命。革命推翻了伊朗最后一位国王国王后，鲁哈尼当选国会议员。他曾任最高国防委员会委员，也是伊伊战争的副司令员。鲁哈尼（Rouhani）在2013年赢得总统职位后，通常被认为比他的前任内贾德（Mahmoud Ahmadinejad）温和一些，尽管伊朗继续追求核计划以及对叙利亚阿萨德独裁政权和各种恐怖组织的支持。当然，伊朗的最终权力不在于总统，而在于最高领导人阿里·霍梅尼（Ali Khomeini），这是一个穆斯林神职人员，必须获得批准才能通过法律并在该国竞选公职，因此鲁哈尼对伊朗的控制权的确切控制水平政策很难分辨。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROUHANI_CHAPTER_CAPSULE_BODY">
-			<Text>哈桑·鲁哈尼可以建立忠实的城市国家联盟以加强伊朗。</Text>
+			<Text>哈桑·鲁哈尼可以建立忠实的城邦联盟以加强伊朗。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ROUHANI_CHAPTER_DETAILED_BODY">
-			<Text>鲁哈尼（Rouhani）领导下的伊朗是一个非常注重宗教的文明，因此处于争取宗教胜利的有利位置。 圣地产生更多的信仰，可以用来宣扬城市国家的宗教信仰，这使他们更容易拥塞，这反过来又提供了信仰加成。 信仰还可以用来购买信仰和科学建筑，如果伊朗的宗教野心得不到遏制，伊朗就可以滚雪球。</Text>
+			<Text>鲁哈尼（Rouhani）领导下的伊朗是一个非常注重宗教的文明，因此处于争取宗教胜利的有利位置。 圣地产生更多的信仰，可以用来宣扬城邦的宗教信仰，这使他们更容易拥塞，这反过来又提供了信仰加成。 信仰还可以用来购买信仰和科学建筑，如果伊朗的宗教野心得不到遏制，伊朗就可以滚雪球。</Text>
 		</Row>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ABBASI_TITLE">
@@ -4425,7 +4425,7 @@
 			<Text>西里尔·拉马福萨专长于生产力和土地再分配。</Text>
 		</Row>
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RAMAPHOSA_CHAPTER_DETAILED_BODY">
-			<Text>在西里尔·拉马福萨（Cyril Ramaphosa）领导下的南非从一开始就将具有生产力优势，尽管这与城市维护成本的增加取得了平衡。 再加上南非在同一城市建立各种地区的奖金，这意味着拉马福萨（Ramaphosa）具备了使自己的文明高高成长的条件。 但是，如果他决定扩大自己的规模，则可以始终使用他独特的农场文化炸弹从邻居那里重新分配一些土地。</Text>
+			<Text>在西里尔·拉马福萨（Cyril Ramaphosa）领导下的南非从一开始就将具有生产力优势，尽管这与城市维护成本的增加取得了平衡。 再加上南非在同一城市建立各种地区的奖金，这意味着拉马福萨（Ramaphosa）具备了使自己的文明高高成长的条件。 但是，如果他决定扩大自己的规模，则可以始终使用他独特的农场文化炸弹从邻国那里重新分配一些土地。</Text>
 		</Row>
 
 		<Row Language="zh_Hans_CN" Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_KHAN_TITLE">
